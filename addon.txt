@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name"				"SkidCheck"
+	"version"			"2"
+	"up_date"			"27.06.14"
+	"author_name"		"-=[UH]=- General HeX"
+	"author_email"		"/id/MFSiNC"
+	"author_url"		"Unitedhosts.org 27015"
+	"info"				"See README.txt"
+	"override"			"0"
+}
+
+
+
+
