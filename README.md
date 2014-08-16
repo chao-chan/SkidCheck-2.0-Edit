@@ -2,20 +2,25 @@
 === SkidCheck - 2.0 ===
 --By HeX
 
-This addon checks the HAC database @ unitedhosts.org and lets everyone in the server know if
-any known cheaters are on. This can not *detect* cheaters, nor can it punish anyone it
-finds.
+This addon checks the HAC database (sv_SkidList.lua, over ~6900 cheaters) and lets
+everyone in the server know if any are on the current game. This can not *detect*
+cheaters, nor can it punish anyone it finds.
 
 How to use:
 Runs when players spawn. Nothing is needed to configure or set up.
 
 Commands:
-sk [f]       --Force a re-check of everyone in game, run with "f" to update the database
-before checking.
-sk_kick 0/1  --Prevent players who are banned from joining the server. OFF by default
+sk           --Does a re-check of everyone in game, does the sound and message.
 
-There exists a hook, "OnSkid" (ply, Reason) to run custom events when a known cheater is
-detected.
+CVars:
+sk_kick 0/1  --Prevent players who are in the DB from joining. OFF by default
+
+Logs:
+sk_encounters.txt    --Logs every cheater that spawns
+sk_blocked.txt       --Logs connection attempts if sk_kick 1 is set
+
+There also exists a hook, "OnSkid" (ply, Reason, is_serverside) to run custom events
+when a known cheater is detected.
 ```
 
 
