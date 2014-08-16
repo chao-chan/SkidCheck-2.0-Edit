@@ -4,7 +4,7 @@
 */
 
 
---Last updated 09.08.14, I won't be updating this anymore, but feel free to use the list for anything.
+--I won't be updating this much anymore, but feel free to use the list for anything.
 Skid.HAC_DB = {
 
 
@@ -1409,7 +1409,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:2490980"] = "Hera",
 	["STEAM_0:1:64016151"] = "Falcos",
 	["STEAM_0:0:65134890"] = "cvar3",
-	["STEAM_0:0:61735886"] = "AutoAim",
+	["STEAM_0:0:61735886"] = "Troll names, spamming profile, 3x VAC bans, AutoAim, ban me",
 	["STEAM_0:0:83823733"] = "sv_allowcslua",
 	["STEAM_0:0:55345214"] = "AHack",
 	["STEAM_0:1:21062470"] = "Troll",
