@@ -15,6 +15,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:51634297"] = "d3x, history of cheating",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
@@ -3640,7 +3641,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:30411899"] = "Banlist",
 	["STEAM_0:1:49918402"] = "SSDB: BadRCC",
 	["STEAM_0:0:47256983"] = "Banlist",
-	["STEAM_0:1:22097298"] = "Skiddie",
+	["STEAM_0:1:22097298"] = "damndood, Skiddie",
 	["STEAM_0:0:22058245"] = "2S: Cheats",
 	["STEAM_0:1:38453710"] = "gDaap DB: Inzinati (Inzinati)",
 	["STEAM_0:1:39052466"] = "Banlist",

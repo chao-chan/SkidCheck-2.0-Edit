@@ -19,8 +19,12 @@ Logs:
 sk_encounters.txt    --Logs every cheater that spawns
 sk_blocked.txt       --Logs connection attempts if sk_kick 1 is set
 
-There also exists a hook, "OnSkid" (ply, Reason, is_serverside) to run custom events
-when a known cheater is detected.
+
+Hooks (SERVER side):
+This is called when a known cheater is detected. Return true to stop the default
+message and handle it yourself, such as for custom chatboxes/punishments.
+
+hook.Add("OnSkid", "SK", function(ply, Reason) return true end)
 ```
 
 

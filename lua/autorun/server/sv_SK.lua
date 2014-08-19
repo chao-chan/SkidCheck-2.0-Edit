@@ -20,6 +20,9 @@ function Skid.Check(server_only)
 		local Reason = Skid.HAC_DB[ v:SteamID() ]
 		if not Reason then continue end
 		
+		//Hook
+		if hook.Run("OnSkid", v, Reason, (not server_only) ) then return end
+		
 		//Log
 		local Log = Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason)
 		file.Append("sk_encounters.txt", Log)
@@ -51,9 +54,6 @@ function Skid.Check(server_only)
 				v:EmitSound("ambient/machines/thumper_shutdown1.wav")
 			end
 		end
-		
-		//Hook
-		hook.Run("OnSkid", v, Reason, (not server_only) )
 	end
 end
 
