@@ -14,7 +14,13 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:90527737"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:1:86830160"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:1:38132042"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:1:87676208"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
+	
 	["STEAM_0:0:51634297"] = "d3x, history of cheating",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
@@ -2090,7 +2096,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:28810910"] = "SP2: Code Injection",
 	["STEAM_0:0:16999019"] = "Banlist",
 	["STEAM_0:0:9849195"] = "Banlist",
-	["STEAM_0:0:41824052"] = "Propkiller",
+	["STEAM_0:0:41824052"] = "duder, Propkiller, DDoS",
 	["STEAM_0:1:48107578"] = "Cheat: K0N4T4",
 	["STEAM_0:0:35712887"] = "Blackops.cfg",
 	["STEAM_0:0:62497217"] = "Nox: Speedhacking",
