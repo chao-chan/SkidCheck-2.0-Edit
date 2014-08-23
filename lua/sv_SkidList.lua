@@ -21,6 +21,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
+	["STEAM_0:0:83089480"] = "d3x alt, history of cheating",
 	["STEAM_0:0:51634297"] = "d3x, history of cheating",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
@@ -2026,6 +2027,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:41221427"] = "Banlist",
 	["STEAM_0:1:52445673"] = "2S: AHack",
 	["STEAM_0:0:39618012"] = "phoon",
+	["STEAM_0:1:94707597"] = "phoon alt",
 	["STEAM_0:0:41876886"] = "Nox: Hacking on an alt account",
 	["STEAM_0:0:43709814"] = "Cobs",
 	["STEAM_0:0:14325047"] = "Banlist",
