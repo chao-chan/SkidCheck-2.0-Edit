@@ -13,7 +13,8 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:72208515"] = "f0rmatmypsu/KittyDeCat, Hacking/DDoS threats to server and DDoSing Users",
+	
 	["STEAM_0:0:90527737"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:86830160"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:38132042"] = "Kif3r alt, RCON hacking, VAC bans",
