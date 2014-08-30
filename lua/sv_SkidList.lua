@@ -13,7 +13,7 @@ Skid.HAC_DB = {
 
 
 
-	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans"
+	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans",
 	["STEAM_0:0:27853779"] = "f0rmatmypsu/Kittix alt, Hacking/DDoS threats to server and DDoSing Users",
 	["STEAM_0:0:72208515"] = "f0rmatmypsu/Kittix, Hacking/DDoS threats to server and DDoSing Users",
 	
@@ -2993,7 +2993,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:19895145"] = "Banlist",
 	["STEAM_0:0:12656449"] = "Banlist",
 	["STEAM_0:1:48793243"] = "2S: BlueBot",
-	["STEAM_0:0:24213184"] = "Skiddie",
+	["STEAM_0:0:24213184"] = "kasskloff/turkslayer, Skiddie, crashing servers",
 	["STEAM_0:0:10213931"] = "myg0t",
 	["STEAM_0:1:29692115"] = "Banlist",
 	["STEAM_0:0:33156398"] = "Banlist",
