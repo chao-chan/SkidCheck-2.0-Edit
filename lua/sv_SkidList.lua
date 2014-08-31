@@ -13,6 +13,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:90141564"] = "killerblisk, selling hacks on MPGH",
 	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans",
 	["STEAM_0:0:27853779"] = "f0rmatmypsu/Kittix alt, Hacking/DDoS threats to server and DDoSing Users",
 	["STEAM_0:0:72208515"] = "f0rmatmypsu/Kittix, Hacking/DDoS threats to server and DDoSing Users",
