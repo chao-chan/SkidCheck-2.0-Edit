@@ -13,6 +13,26 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:77898235"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:88383929"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:59636496"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:79101794"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:44840799"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:51192130"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:85787876"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:21406310"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:37679609"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:92005131"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:53000150"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:88152821"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:80990030"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:39453224"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:51980726"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:5596353"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:0:89060338"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:29758973"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:1910219"] = "Boring, Troll names",
+	
 	["STEAM_0:0:90141564"] = "killerblisk, selling hacks on MPGH",
 	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans",
 	["STEAM_0:0:27853779"] = "f0rmatmypsu/Kittix alt, Hacking/DDoS threats to server and DDoSing Users",
@@ -25,8 +45,8 @@ Skid.HAC_DB = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
-	["STEAM_0:0:83089480"] = "d3x alt, history of cheating",
-	["STEAM_0:0:51634297"] = "d3x, history of cheating",
+	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating",
+	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
