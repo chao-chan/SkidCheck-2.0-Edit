@@ -13,6 +13,8 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:34011502"] = "LegendofRobbo, Hacks",
+	
 	["STEAM_0:0:77898235"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:0:88383929"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:59636496"] = "Ban me, gp_steamid_whitelist.c",
@@ -45,6 +47,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
+	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating",
 	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating",
 	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating",
 	["STEAM_0:1:15789263"] = "Banlist",
