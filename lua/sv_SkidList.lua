@@ -11,8 +11,15 @@ Skid.HAC_DB = {
 
 
 
-
-
+	["STEAM_0:1:90074222"] = "sv_cheats",
+	["STEAM_0:1:53391542"] = "Aimbot",
+	["STEAM_0:0:37568296"] = "Troll name, Asking for hacks",
+	["STEAM_0:1:30747019"] = "Wallhack/ESP",
+	["STEAM_0:0:88149263"] = "Bad hooks",
+	["STEAM_0:0:68570706"] = "Lennys",
+	["STEAM_0:0:61598145"] = "catBOT",
+	["STEAM_0:0:65225079"] = "Eh3x, 2x VAC bans, entszesp, Eh3x: 'go use the rcon exploit'",
+	["STEAM_0:1:21908699"] = "JD, Hacks",
 	["STEAM_0:0:34011502"] = "LegendofRobbo, Hacks",
 	
 	["STEAM_0:0:77898235"] = "Ban me, gp_steamid_whitelist.c",
@@ -47,9 +54,9 @@ Skid.HAC_DB = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
-	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating",
-	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating",
-	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating",
+	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
+	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
+	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating, ban me",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
@@ -1614,7 +1621,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:5413450"] = "wog222",
 	["STEAM_0:1:46501911"] = "2S: Cheats",
 	["STEAM_0:0:12446046"] = "bbgun30",
-	["STEAM_0:1:56727471"] = "2S: AHack",
+	["STEAM_0:1:56727471"] = "2S: AHack, sv_cheats",
 	["STEAM_0:1:13737877"] = "ronbo101/jdog",
 	["STEAM_0:1:20546481"] = "SP2: Code Injection",
 	["STEAM_0:1:43303273"] = "2S: Cheats",
@@ -3300,7 +3307,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:18617255"] = "SP2: Unknown",
 	["STEAM_0:0:19416161"] = "SethHack",
 	["STEAM_0:1:29324469"] = "Banlist",
-	["STEAM_0:0:27853779"] = "Master kitty/Arctic alt, DDoS, MPGH hacks, Ban Evasion",
+	["STEAM_0:0:27853779"] = "f0rmatmypsu/Master kitty/Arctic alt, DDoS, MPGH hacks, Ban Evasion",
 	["STEAM_0:0:27083822"] = "Blackops.cfg",
 	["STEAM_0:0:50451923"] = "2S: Mapex",
 	["STEAM_0:1:31963824"] = "Banlist",
@@ -5687,7 +5694,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:36631720"] = "2S: Aimbot",
 	["STEAM_0:1:33518480"] = "Skiddie",
 	["STEAM_0:0:76852681"] = "Alt of STEAM_0:1:56357048",
-	["STEAM_0:0:69773252"] = "Hafnium, mythik friend, ban me",
+	["STEAM_0:0:69773252"] = "Hafnium, mythik friend, sv_cheats, ban me",
 	["STEAM_0:1:24696322"] = "Banlist",
 	["STEAM_0:1:24115736"] = "SSDB: Name_Enabler.dll",
 	["STEAM_0:1:33285866"] = "2S: BlueBot",
@@ -6094,7 +6101,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:30912535"] = "frist, Skiddie",
 	["STEAM_0:1:38889300"] = "GLDB: Vriska, Cheats detected",
 	["STEAM_0:0:72761860"] = "lub  crackerdown2, lesp",
-	["STEAM_0:1:44652149"] = "Whillztah, Whillztah, Falcos",
+	["STEAM_0:1:44652149"] = "Whillztah, Falcos",
 	["STEAM_0:0:21350010"] = "Blackops.cfg",
 	["STEAM_0:1:22638809"] = "Dismay (stealing files), SSDB: BadRCC, ban me",
 	["STEAM_0:1:36952930"] = "adam00722",
