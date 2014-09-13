@@ -11,6 +11,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:61474438"] = "MaxiM, sv_cheats/aimbot",
 	["STEAM_0:1:90074222"] = "sv_cheats",
 	["STEAM_0:1:53391542"] = "Aimbot",
 	["STEAM_0:0:37568296"] = "Troll name, Asking for hacks",
