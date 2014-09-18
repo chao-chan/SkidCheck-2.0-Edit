@@ -11,6 +11,8 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:95742720"] = "Bad hooks",
+	["STEAM_0:1:81758887"] = "'BestCheat'",
 	["STEAM_0:1:61474438"] = "MaxiM, sv_cheats/aimbot",
 	["STEAM_0:1:90074222"] = "sv_cheats",
 	["STEAM_0:1:53391542"] = "Aimbot",
@@ -55,6 +57,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
+	["STEAM_0:1:93049506"] = "d3x alt, history of cheating, ban me",
 	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
 	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
 	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating, ban me",
@@ -3931,7 +3934,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:32127712"] = "Banlist",
 	["STEAM_0:0:54027746"] = "2S: BlueBot",
 	["STEAM_0:1:55143780"] = "2S: AHack",
-	["STEAM_0:1:36452221"] = "morcheeba, Skiddie, 2S: Hacks",
+	["STEAM_0:1:36452221"] = "morcheeba, Skiddie, catBOT, 2S: Hacks",
 	["STEAM_0:1:13196020"] = "SP2: Eradicate",
 	["STEAM_0:1:22038220"] = "SP2: Baconbot",
 	["STEAM_0:0:17409456"] = "Banlist",
