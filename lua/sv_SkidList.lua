@@ -10,7 +10,7 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:50414347"] = "Ruckas/Kodi, 2x VAC bans, troll groups, myg0t",
 	["STEAM_0:0:23828756"] = "Ghost656, Lennys scripts",
 	["STEAM_0:1:56548408"] = "Tweakz, Lennys scripts",
 	["STEAM_0:0:55401491"] = "Mario Face, Lennys scripts",
