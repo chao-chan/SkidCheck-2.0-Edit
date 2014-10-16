@@ -14,6 +14,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:97823848"] = "ErRoR/_Node, MPGH, hacks",
 	["STEAM_0:0:26874729"] = "Gun konig, fake/exploiting name (rcon_password)",
 	["STEAM_0:1:69352086"] = "FunDK FrOsTy, VAC ban",
 	["STEAM_0:0:50414347"] = "Ruckas/Kodi, 2x VAC bans, troll groups, myg0t",
