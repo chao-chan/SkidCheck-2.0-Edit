@@ -13,7 +13,9 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:40034171"] = "Frost, DEM0LITION friend, hacks",
+	["STEAM_0:0:46254"] = "Troll names, DEM0LITION friend, hacks",
+	["STEAM_0:0:47286139"] = "stanley, DEM0LITION friend, hacks",
 	["STEAM_0:0:97823848"] = "ErRoR/_Node, MPGH, hacks",
 	["STEAM_0:0:26874729"] = "Gun konig, fake/exploiting name (rcon_password)",
 	["STEAM_0:1:69352086"] = "FunDK FrOsTy, VAC ban",
@@ -3907,7 +3909,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:21836270"] = "Blackops.cfg",
 	["STEAM_0:0:32526879"] = "Banlist",
 	["STEAM_0:0:42108109"] = "Blackops.cfg",
-	["STEAM_0:0:4773741"] = "Xutax_Kelse alt, Kelse alt, ban me",
+	["STEAM_0:0:4773741"] = "Xutax,Kelse alt, DEM0LITION, MPGH, selling hacks, ban me",
 	["STEAM_0:0:56765148"] = "Propkiller",
 	["STEAM_0:0:10878265"] = "Banlist",
 	["STEAM_0:0:34243150"] = "Banlist",
@@ -5634,7 +5636,6 @@ Skid.HAC_DB = {
 	["STEAM_0:0:21738408"] = "Banlist",
 	["STEAM_0:1:39444895"] = "SSDB: BadRCC",
 	["STEAM_0:0:14550233"] = "Lennys_Group",
-	["STEAM_0:0:47286139"] = "Propkiller",
 	["STEAM_0:0:90885259"] = "tgong, sv_cheats, Ban Evasion (Alt of STEAM_0:1:51804288)",
 	["STEAM_0:0:61735886"] = "BobcatByBGY, Troll names, spamming profile, 3x VAC bans, AutoAim, ban me",
 	["STEAM_0:1:50189268"] = "Hera, 2S: Hera",
@@ -6191,7 +6192,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:69497763"] = "xs, DayzPlayer/key coder, Alt of STEAM_0:1:65860748, AnXition,cvar3",
 	["STEAM_0:1:64607538"] = "niller303, pasting hacks, stealing files, NillarHack, 2S: HvH",
 	["STEAM_0:0:34239589"] = "Banlist",
-	["STEAM_0:0:21513525"] = "Xutax_Kelse, Kelse, sykranos new, ban me",
+	["STEAM_0:0:21513525"] = "Xutax,Kelse, DEM0LITION alt, selling hacks, ban me",
 	["STEAM_0:1:68218839"] = "Hacks",
 	["STEAM_0:0:33520203"] = "Banlist",
 	["STEAM_0:1:28907638"] = "Hera, 2S: Hera",
