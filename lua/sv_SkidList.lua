@@ -13,6 +13,8 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:42024534"] = "run2fl, VAC ban, trolling",
+	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
 	["STEAM_0:0:40034171"] = "Frost, DEM0LITION friend, hacks",
 	["STEAM_0:0:46254"] = "Troll names, DEM0LITION friend, hacks",
 	["STEAM_0:0:47286139"] = "stanley, DEM0LITION friend, hacks",
@@ -6597,7 +6599,8 @@ Skid.HAC_DB = {
 	["STEAM_0:1:34848015"] = "NuzzyFipples",
 	["STEAM_0:1:20421636"] = "Banlist",
 	["STEAM_0:0:17605864"] = "Banlist",
-	["STEAM_0:0:87834515"] = "2S: Unknown hack",
+	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
+	["STEAM_0:0:87834515"] = "cdriza alt, VAC bans, 2S: Unknown hack",
 	["STEAM_0:1:63450645"] = "Niceman, ban me, custom hacks",
 	["STEAM_0:1:44195040"] = "Banlist",
 	["STEAM_0:1:30416345"] = "Nox: HARCKER",
