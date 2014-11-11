@@ -13,6 +13,8 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:8447102"] = "pr0rdmer, troll names, troll avatar, troll. 'i am not cheet pls add me'",
+	["STEAM_0:0:41297976"] = "Frenchy, hacks",
 	["STEAM_0:1:42024534"] = "run2fl, VAC ban, trolling",
 	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
 	["STEAM_0:0:40034171"] = "Frost, DEM0LITION friend, hacks",
@@ -189,7 +191,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:15278246"] = "2S: AHack",
 	["STEAM_0:1:22442204"] = "Banlist",
 	["STEAM_0:1:20628272"] = "cvar3,Hera",
-	["STEAM_0:1:62445445"] = "Cave Johnson, liquid_aimbot",
+	["STEAM_0:1:62445445"] = "Q2F2/Cave Johnson, liquid_aimbot, CAVE cheat",
 	["STEAM_0:0:41307538"] = "SP2: tame",
 	["STEAM_0:1:33677768"] = "Banlist",
 	["STEAM_0:0:32870947"] = "Banlist",
