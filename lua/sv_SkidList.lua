@@ -12,8 +12,9 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:18382057"] = "Electfried, propkiller, VAC ban, 'Exploiting since 2012'",
 	["STEAM_0:0:8447102"] = "pr0rdmer, troll names, troll avatar, troll. 'i am not cheet pls add me'",
+	["STEAM_0:1:33077188"] = "nurdmobiel/troll names",
 	["STEAM_0:0:41297976"] = "Frenchy, hacks",
 	["STEAM_0:1:42024534"] = "run2fl, VAC ban, trolling",
 	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
@@ -917,6 +918,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:40599908"] = "Lennys_Group",
 	["STEAM_0:0:47477583"] = "Skiddie",
 	["STEAM_0:0:42194705"] = "Leystryku, 2S: Cheats",
+	["STEAM_0:0:101348488"] = "Leystryku new, 2S: Cheats",
 	["STEAM_0:1:78396829"] = "Troll/Hacks",
 	["STEAM_0:1:43874850"] = "2S: sv_allowcslua",
 	["STEAM_0:0:19573447"] = "Alice, Orange",
@@ -2143,7 +2145,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:41221427"] = "Banlist",
 	["STEAM_0:1:52445673"] = "2S: AHack",
 	["STEAM_0:0:39618012"] = "phoon",
-	["STEAM_0:1:94707597"] = "phoon alt",
+	["STEAM_0:1:94707597"] = "phoon alt/function",
 	["STEAM_0:0:41876886"] = "Nox: Hacking on an alt account",
 	["STEAM_0:0:43709814"] = "Cobs",
 	["STEAM_0:0:14325047"] = "Banlist",
@@ -3092,7 +3094,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:21553359"] = "SP2: elebot",
 	["STEAM_0:1:24134873"] = "Banlist",
 	["STEAM_0:0:40582843"] = "silver sea565",
-	["STEAM_0:1:73012010"] = "Dismay (stealing files), Possible Aimware, 2S: sv_allowcslua, ban me",
+	["STEAM_0:1:73012010"] = "ImFriendly, Dismay (stealing files), Possible Aimware, 2S: sv_allowcslua, ban me",
 	["STEAM_0:0:550269"] = "go.lua",
 	["STEAM_0:0:37989029"] = "Skiddie",
 	["STEAM_0:0:67913380"] = "gDaap DB: Xxjay123xX (Timathy)",
@@ -6643,7 +6645,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:60959023"] = "2S: AHack",
 	["STEAM_0:1:18955910"] = "McSimp, Hacks",
 	["STEAM_0:0:40418112"] = "Saucy",
-	["STEAM_0:1:44511758"] = "dese",
+	["STEAM_0:1:44511758"] = "dese/quintosh",
 	["STEAM_0:1:29932662"] = "Blackops.cfg",
 	["STEAM_0:1:35038013"] = "Banlist",
 	["STEAM_0:0:42497661"] = "Banlist",
