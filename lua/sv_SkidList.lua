@@ -11,7 +11,9 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:1:90018899"] = "autodemandic, VAC banned, asking for hacks on MPGH",
+	["STEAM_0:1:96090680"] = "Troll names, admitted hacking",
+	["STEAM_0:0:53332328"] = "Exho, Troll. Asking for hacks",
 	["STEAM_0:0:18382057"] = "Electfried, propkiller, VAC ban, 'Exploiting since 2012'",
 	["STEAM_0:0:8447102"] = "pr0rdmer, troll names, troll avatar, troll. 'i am not cheet pls add me'",
 	["STEAM_0:1:33077188"] = "nurdmobiel/troll names",
