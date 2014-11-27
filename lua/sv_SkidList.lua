@@ -11,6 +11,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:31893908"] = "Giygas, 'I use a modified gmodpickles my Ukranian friend made along with Ahack.'",
 	["STEAM_0:1:90018899"] = "autodemandic, VAC banned, asking for hacks on MPGH",
 	["STEAM_0:1:96090680"] = "Troll names, admitted hacking",
 	["STEAM_0:0:53332328"] = "Exho, Troll. Asking for hacks",
