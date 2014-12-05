@@ -10,7 +10,11 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:1:49427172"] = "420MLGCODPRO, troll names",
+	["STEAM_0:0:35816694"] = "faze klan, troll names",
+	["STEAM_0:0:57134199"] = "max-a-roonie, Troll names",
+	["STEAM_0:0:68225583"] = "HerpDerpinstine, Troll names, VAC ban, skiddie",
+	["STEAM_0:1:47751769"] = "WWWW, VAC ban, troll names, 2S: Mapex",
 	["STEAM_0:1:31893908"] = "Giygas, 'I use a modified gmodpickles my Ukranian friend made along with Ahack.'",
 	["STEAM_0:1:90018899"] = "autodemandic, VAC banned, asking for hacks on MPGH",
 	["STEAM_0:1:96090680"] = "Troll names, admitted hacking",
@@ -1744,7 +1748,6 @@ Skid.HAC_DB = {
 	["STEAM_0:0:10537318"] = "2S: AHack",
 	["STEAM_0:0:20122220"] = "2S: Hera",
 	["STEAM_0:0:41592262"] = "SoftDrink",
-	["STEAM_0:1:47751769"] = "2S: Mapex",
 	["STEAM_0:1:20080193"] = "Blackops.cfg",
 	["STEAM_0:0:32122049"] = "gDaap DB: Squiggies (iiToast)",
 	["STEAM_0:0:38252989"] = "Banlist",
@@ -1983,7 +1986,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:25675049"] = "Propkiller",
 	["STEAM_0:0:81038991"] = "Hacks",
 	["STEAM_0:0:25202854"] = "GLDB: Altair, Cheats detected",
-	["STEAM_0:1:29538476"] = "Dismay (stealing files), ban me",
+	["STEAM_0:1:29538476"] = "epic_fail_lol, VAC ban, Dismay (stealing files), ban me",
 	["STEAM_0:1:26859339"] = "SSDB: ModuleErr",
 	["STEAM_0:0:60746837"] = "2S: sv_allowcslua",
 	["STEAM_0:0:217737"] = "Banlist",
