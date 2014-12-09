@@ -14,6 +14,8 @@ Skid.HAC_DB = {
 
 
 
+
+	["STEAM_0:1:42816217"] = "absolutelytheworst, Troll names",
 	["STEAM_0:0:60172706"] = "2S: AHack",
 	["STEAM_0:0:47717275"] = "2S: Mapex",
 	["STEAM_0:1:70960222"] = "2S: sv_allowcslua bypass",
@@ -373,7 +375,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:86244919"] = "2S: AHack",
 	["STEAM_0:0:87270468"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:0:91605497"] = "2S: sv_allowcslua bypass",
-	["STEAM_0:0:91586727"] = "2S: Lenny",
+	["STEAM_0:0:91586727"] = "'reailgun', Troll names, 2S: Lenny",
 	["STEAM_0:0:91874765"] = "2S: Unknown hack",
 	["STEAM_0:0:86127700"] = "2S: AHack",
 	["STEAM_0:0:60697974"] = "2S: AHack",
@@ -4508,7 +4510,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:18329169"] = "Banlist",
 	["STEAM_0:1:15858852"] = "Stoned",
 	["STEAM_0:1:27043140"] = "Banlist",
-	["STEAM_0:1:59601079"] = "Propkiller",
+	["STEAM_0:1:59601079"] = "Devry, Troll names, VAC ban, Propkiller",
 	["STEAM_0:1:88290219"] = "gDaap DB: omara2000hack (Master)",
 	["STEAM_0:1:25877793"] = "2S: Aimbot",
 	["STEAM_0:1:42612352"] = "Banlist",
@@ -4623,7 +4625,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:21405510"] = "Speedhacking",
 	["STEAM_0:1:19694319"] = "Banlist",
 	["STEAM_0:1:26172469"] = "Banlist",
-	["STEAM_0:0:78329608"] = "Dismay (stealing files), grey new,Hacks, ban me",
+	["STEAM_0:0:78329608"] = "grey new, Dismay (stealing files), selling hacks, troll names, ban me",
 	["STEAM_0:1:40598670"] = "Banlist",
 	["STEAM_0:0:34205427"] = "Banlist",
 	["STEAM_0:0:80202835"] = "2S: AHack",
