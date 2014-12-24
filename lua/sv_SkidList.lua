@@ -15,6 +15,11 @@ Skid.HAC_DB = {
 
 
 
+
+	["STEAM_0:0:258964"] = "Kittix alt, VAC bans, lots of hacks, big skiddie",
+	["STEAM_0:1:47750028"] = "fast_gamer, VAC banned, lots of hacks, skiddie",
+	["STEAM_0:0:2826620"] = "Nabe, VAC banned, lots of hacks, HUGE skiddie",
+	["STEAM_0:0:15975890"] = "Poseiden/AquaMan, aimbots and hacks, 2x VAC bans",
 	["STEAM_0:1:42816217"] = "absolutelytheworst, Troll names",
 	["STEAM_0:0:60172706"] = "2S: AHack",
 	["STEAM_0:0:47717275"] = "2S: Mapex",
