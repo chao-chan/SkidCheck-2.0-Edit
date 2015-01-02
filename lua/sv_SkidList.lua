@@ -13,9 +13,7 @@ Skid.HAC_DB = {
 
 
 
-
-
-
+	["STEAM_0:0:74126069"] = "VOIDxPAIN, asking for hacks on MPGH",
 	["STEAM_0:0:258964"] = "Kittix alt, VAC bans, lots of hacks, big skiddie",
 	["STEAM_0:1:47750028"] = "fast_gamer, VAC banned, lots of hacks, skiddie",
 	["STEAM_0:0:2826620"] = "Nabe, VAC banned, lots of hacks, HUGE skiddie",
