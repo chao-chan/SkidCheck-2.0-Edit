@@ -15,6 +15,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:71899771"] = "ZaresX, VAC ban, attempted RCON server.cfg stealing",
 	["STEAM_0:0:47404123"] = "A5_/Troll names, 2x VAC bans",
 	["STEAM_0:0:15958736"] = "KrebsonSecurity/alex, 3x VAC bans",
 	["STEAM_0:0:16745408"] = "b1g, troll names, propkiller",
