@@ -13,6 +13,16 @@ Skid.HAC_DB = {
 
 
 
+
+
+	["STEAM_0:0:47404123"] = "A5_/Troll names, 2x VAC bans",
+	["STEAM_0:0:15958736"] = "KrebsonSecurity/alex, 3x VAC bans",
+	["STEAM_0:0:16745408"] = "b1g, troll names, propkiller",
+	["STEAM_0:0:19808621"] = "Invisible name, troll names, trolling, hacks",
+	["STEAM_0:0:46993016"] = "LeYeezus, troll names, troll group",
+	["STEAM_0:1:80091825"] = "Troll names, troll group",
+	["STEAM_0:1:103330387"] = "Troll names, alt of STEAM_0:1:80091825",
+	["STEAM_0:0:24771801"] = "Troll names/group",
 	["STEAM_0:0:74126069"] = "VOIDxPAIN, asking for hacks on MPGH",
 	["STEAM_0:0:258964"] = "Kittix alt, VAC bans, lots of hacks, big skiddie",
 	["STEAM_0:1:47750028"] = "fast_gamer, VAC banned, lots of hacks, skiddie",
@@ -422,7 +432,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:49427172"] = "420MLGCODPRO, troll names",
 	["STEAM_0:0:35816694"] = "faze klan, troll names",
 	["STEAM_0:0:57134199"] = "max-a-roonie, Troll names",
-	["STEAM_0:0:68225583"] = "HerpDerpinstine, Troll names, VAC ban, skiddie",
+	["STEAM_0:0:68225583"] = "HerpDerpinstine, Troll names, VAC ban, skiddie, BAN ME FOREVER",
 	["STEAM_0:1:47751769"] = "WWWW, VAC ban, troll names, 2S: Mapex",
 	["STEAM_0:1:31893908"] = "Giygas, 'I use a modified gmodpickles my Ukranian friend made along with Ahack.'",
 	["STEAM_0:1:90018899"] = "autodemandic, VAC banned, asking for hacks on MPGH",
@@ -2279,7 +2289,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:14638998"] = "Blackops.cfg",
 	["STEAM_0:1:25220636"] = "SSDB: pp_pixelrender",
 	["STEAM_0:0:45050177"] = "Smeagle",
-	["STEAM_0:0:30559593"] = "Hafnium alt, ban me",
+	["STEAM_0:0:30559593"] = "Hafnium alt, Onyx/_ari, hacks, troll names, ban me forever",
 	["STEAM_0:0:36795179"] = "SSDB: FapHack",
 	["STEAM_0:0:78886339"] = "gDaap DB: BongoPlayer (Vic Manuse), gDaap DB: McMainus (Sandals the Charple)",
 	["STEAM_0:1:17629619"] = "Blackops.cfg",
@@ -2869,7 +2879,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:30325447"] = "Banlist",
 	["STEAM_0:0:76521590"] = "2S: sv_allowcslua",
 	["STEAM_0:1:423969"] = "Banlist",
-	["STEAM_0:1:24332877"] = "Blackops",
+	["STEAM_0:1:24332877"] = "fr1kin, Blackops?",
 	["STEAM_0:0:40428482"] = "LESP",
 	["STEAM_0:0:20931769"] = "Banlist",
 	["STEAM_0:1:29704780"] = "Blackops.cfg",
@@ -3509,7 +3519,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:21553359"] = "SP2: elebot",
 	["STEAM_0:1:24134873"] = "Banlist",
 	["STEAM_0:0:40582843"] = "silver sea565",
-	["STEAM_0:1:73012010"] = "ImFriendly, Dismay (stealing files), Possible Aimware, 2S: sv_allowcslua, ban me",
+	["STEAM_0:1:73012010"] = "ImFriendly, Dismay (stealing files), Possible Aimware, 2S: sv_allowcslua, BAN ME FOREVER",
 	["STEAM_0:0:550269"] = "go.lua",
 	["STEAM_0:0:37989029"] = "Skiddie",
 	["STEAM_0:0:67913380"] = "gDaap DB: Xxjay123xX (Timathy)",
