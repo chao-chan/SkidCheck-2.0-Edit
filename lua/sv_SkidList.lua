@@ -15,6 +15,11 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:50246003"] = "jakey1995abc, Lennys",
+	["STEAM_0:0:44751990"] = "Troll names, lennys, BAN ME FOREVER",
+	["STEAM_0:0:53186069"] = "Troll names, lennys, BAN ME FOREVER",
+	["STEAM_0:1:81859640"] = "Troll names, lennys, BAN ME FOREVER, VAC banned",
+	["STEAM_0:1:43243546"] = "Troll names, lennys, BAN ME FOREVER",
 	["STEAM_0:1:38233905"] = "Wafflebomb, Scam links, spamming, troll.",
 	["STEAM_0:0:74636235"] = "trolman2121, Lennys",
 	["STEAM_0:1:55029829"] = "Tactical Cactus, Lennys",

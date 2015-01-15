@@ -3,8 +3,24 @@
 	--By HeX
 */
 
+
+function table.MergeEx(from,dest)
+	for k,v in pairs(from) do
+		dest[k] = v
+	end
+	from = nil
+	return dest
+end
+
 include("sh_SK.lua")
+
+//Main
 include("sv_SkidList.lua")
+
+//Groups
+include("sv_SkidList2.lua")
+include("sv_SkidList3.lua")
+
 AddCSLuaFile("sh_SK.lua")
 AddCSLuaFile("autorun/client/cl_SK.lua")
 
