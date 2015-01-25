@@ -14,6 +14,17 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:68756654"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:73307194"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:87481408"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:51241289"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:0:59136769"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:41878091"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:0:66021191"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:60391567"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:0:59647314"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:37017413"] = "Member of bad group: 8Bit_Pro (exploits)",
+	["STEAM_0:1:105201433"] = "Ashley, selling exploits, hacking, Member of bad group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:33236954"] = "Troll names, VAC banned",
 	["STEAM_0:0:50279410"] = "Troll names",
 	["STEAM_0:1:38476718"] = "Shifted",
