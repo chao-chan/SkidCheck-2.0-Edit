@@ -14,6 +14,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:61792838"] = "dafrekkinnoobest, Troll names, RCON exploits",
 	["STEAM_0:0:100011237"] = "Troll names, cheater, BAN ME FOREVER",
 	["STEAM_0:0:68756654"] = "Member of bad group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:73307194"] = "Member of bad group: 8Bit_Pro (exploits)",
