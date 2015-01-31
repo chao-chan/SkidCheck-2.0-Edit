@@ -6,6 +6,21 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:700262"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:98879"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:63759"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:91336583"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:20768650"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:6624941"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:30215970"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:14872395"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:476189"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:41968937"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:105441442"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:96000942"] = "Member of bad group: formatmefans",
+	["STEAM_0:1:39967305"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:39856098"] = "Member of bad group: formatmefans",
+	["STEAM_0:0:19875658"] = "Member of bad group: formatmefans",
 	["STEAM_0:0:89944252"] = "Member of bad group: kifergottrolledonceagain",
 	["STEAM_0:0:97929250"] = "Member of bad group: fleshy_got_trolled_by_speedy",
 	["STEAM_0:0:42791906"] = "Member of bad group: whatthefuckisthisshithelp",
