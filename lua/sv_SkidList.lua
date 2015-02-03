@@ -13,6 +13,7 @@ Skid.HAC_DB = {
 
 
 
+
 	["STEAM_0:0:77960956"] = "31337_UEA/hafnium, troll names, 2x VAC bans",
 	["STEAM_0:0:45464397"] = "Button Mash, hacks",
 	["STEAM_0:1:25108861"] = "thisguyrighthere, hacks",
