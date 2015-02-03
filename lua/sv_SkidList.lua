@@ -13,7 +13,15 @@ Skid.HAC_DB = {
 
 
 
-
+	["STEAM_0:0:77960956"] = "31337_UEA/hafnium, troll names, 2x VAC bans",
+	["STEAM_0:0:45464397"] = "Button Mash, hacks",
+	["STEAM_0:1:25108861"] = "thisguyrighthere, hacks",
+	["STEAM_0:1:49468058"] = "Zix, hacks, 2x VAC bans",
+	["STEAM_0:1:90533840"] = "Solace/sno, hacks",
+	["STEAM_0:1:33130090"] = "Jokerwitz, hacks",
+	["STEAM_0:0:24568059"] = "DashNET, pbot, hacks",
+	["STEAM_0:0:44641968"] = "Jordan_, hacks",
+	["STEAM_0:1:57618487"] = "Troll names, hacks",
 	["STEAM_0:1:96000942"] = "Function new alt, Falcos,file stealing,aimware, ban me",
 	["STEAM_0:0:41191102"] = "d3x alt, history of cheating, ban me",
 	["STEAM_0:1:61792838"] = "dafrekkinnoobest, Troll names, RCON exploits",
@@ -933,7 +941,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:17353749"] = "Banlist",
 	["STEAM_0:0:41248830"] = "Banlist",
 	["STEAM_0:1:54945805"] = "Ban Evasion (STEAM_0:0:63856243)",
-	["STEAM_0:0:63344394"] = "Propkiller",
+	["STEAM_0:0:63344394"] = "shim, Propkiller",
 	["STEAM_0:0:32221157"] = "Hessu Hobo, various hacks",
 	["STEAM_0:0:35679861"] = "2S: AHack",
 	["STEAM_0:0:14035026"] = "Banlist",
@@ -6690,7 +6698,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:24859251"] = "SP2: Unknown",
 	["STEAM_0:0:45844828"] = "gDaap DB: iKnight (Enraged)",
 	["STEAM_0:0:79501291"] = "Hacks",
-	["STEAM_0:0:30912535"] = "frist, Skiddie",
+	["STEAM_0:0:30912535"] = "Frost, Skiddie",
 	["STEAM_0:1:38889300"] = "GLDB: Vriska, Cheats detected",
 	["STEAM_0:0:72761860"] = "lub  crackerdown2, lesp",
 	["STEAM_0:1:44652149"] = "Whillztah, Falcos",
