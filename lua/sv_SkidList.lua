@@ -11,9 +11,7 @@ Skid.HAC_DB = {
 
 
 
-
-
-
+	["STEAM_0:0:93571604"] = "prrr, giving away hacks, troll",
 	["STEAM_0:0:77960956"] = "31337_UEA/hafnium, troll names, 2x VAC bans",
 	["STEAM_0:0:45464397"] = "Button Mash, hacks",
 	["STEAM_0:1:25108861"] = "thisguyrighthere, hacks",
@@ -662,6 +660,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
 	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
 	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating, ban me",
+	["STEAM_0:1:11068285"] = "Troll names, d3x friend, cheater",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
@@ -4091,7 +4090,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:8345987"] = "SP2: Unknown",
 	["STEAM_0:0:18947080"] = "Banlist",
 	["STEAM_0:0:10713231"] = "SP2: Code Injection",
-	["STEAM_0:1:73426095"] = "2S: BlueBot",
+	["STEAM_0:1:73426095"] = "Troll names, 2S: BlueBot, BAN ME FOREVER",
 	["STEAM_0:0:17711590"] = "Mr Eazy",
 	["STEAM_0:0:36250162"] = "Blackops.cfg",
 	["STEAM_0:1:50887902"] = "Banlist",
@@ -6593,7 +6592,7 @@ Skid.HAC_DB = {
 	["STEAM_0:0:51519921"] = "2S: Unknown hack",
 	["STEAM_0:1:47008930"] = "2S: AHack",
 	["STEAM_0:1:60252116"] = "gDaap DB: vincentcronin (pickle)",
-	["STEAM_0:0:17518358"] = "Chuteuk",
+	["STEAM_0:0:17518358"] = "plex, Chuteuk",
 	["STEAM_0:0:27313124"] = "Banlist",
 	["STEAM_0:1:58232012"] = "Mapex",
 	["STEAM_0:0:18884031"] = "Blackops.cfg",
