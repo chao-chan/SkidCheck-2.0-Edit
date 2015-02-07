@@ -11,6 +11,10 @@ Skid.HAC_DB = {
 
 
 
+
+	["STEAM_0:1:60429028"] = "igotbanned, stealing server config files, RCON hacking",
+	["STEAM_0:1:41867753"] = "ASCII name, asking for hacks on HF",
+	["STEAM_0:1:43607376"] = "Captain Doom, asking for hacks on HF, 2S: Hera",
 	["STEAM_0:0:93571604"] = "prrr, giving away hacks, troll",
 	["STEAM_0:0:77960956"] = "31337_UEA/hafnium, troll names, 2x VAC bans",
 	["STEAM_0:0:45464397"] = "Button Mash, hacks",
@@ -901,7 +905,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:24857306"] = "Banlist",
 	["STEAM_0:1:78959584"] = "Ban Evasion (Alt of STEAM_0:0:59776105)",
 	["STEAM_0:1:24523569"] = "Banlist",
-	["STEAM_0:1:41711091"] = "Skittles 2.0, Dismay (stealing files), hera, ban me",
+	["STEAM_0:1:41711091"] = "Skittles 2.0, Dismay (stealing files), hera, 8 VAC BANS!",
 	["STEAM_0:0:31700656"] = "Skiddie",
 	["STEAM_0:1:41154609"] = "Banlist",
 	["STEAM_0:1:34158607"] = "CrowBarGaming: Dutchess",
@@ -5497,7 +5501,6 @@ Skid.HAC_DB = {
 	["STEAM_0:1:14829931"] = "Banlist",
 	["STEAM_0:1:26052782"] = "SP2: Code Injection",
 	["STEAM_0:0:20102730"] = "SP2: Code injection",
-	["STEAM_0:1:43607376"] = "2S: Hera",
 	["STEAM_0:1:24711568"] = "Skiddie",
 	["STEAM_0:0:29255499"] = "SP2: Code injection",
 	["STEAM_0:0:23221448"] = "Blackops.cfg",
