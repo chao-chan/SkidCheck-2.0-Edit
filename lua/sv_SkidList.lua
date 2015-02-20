@@ -12,6 +12,9 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:68209808"] = "DeeJay, VAC ban, autobanned for hacks, google his steamid",
+	["STEAM_0:1:21056185"] = "ds22/DarkShadow6, 'my hax I troll kids on darkrp with get detected pretty fast'",
+	["STEAM_0:1:49225816"] = "Mew, server addon backdoor, ban me forever",
 	["STEAM_0:1:60429028"] = "igotbanned, stealing server config files, RCON hacking",
 	["STEAM_0:1:41867753"] = "ASCII name, asking for hacks on HF",
 	["STEAM_0:1:43607376"] = "Captain Doom, asking for hacks on HF, 2S: Hera",

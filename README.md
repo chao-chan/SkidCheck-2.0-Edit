@@ -13,7 +13,7 @@ Commands:
 sk           --Does a re-check of everyone in game, does the sound and message.
 
 CVars:
-sk_kick 0/1  --Prevent players who are in the DB from joining. OFF by default
+sk_kick 0/1  --Prevent players who are in the DB from joining. ON by default
 
 Logs:
 sk_encounters.txt    --Logs every cheater that spawns

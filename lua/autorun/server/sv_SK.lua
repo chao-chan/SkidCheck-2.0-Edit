@@ -27,7 +27,7 @@ AddCSLuaFile("autorun/client/cl_SK.lua")
 util.AddNetworkString("Skid.Msg")
 
 Skid.WaitFor = 25 --Seconds to wait before message
-Skid.sk_kick = CreateConVar("sk_kick", 0, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
+Skid.sk_kick = CreateConVar("sk_kick", 1, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
 
 
 //Check
@@ -124,7 +124,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	
 	//Block if enabled
 	if Skid.sk_kick:GetBool() then
-		return false, "[SkidCheck] Connection blocked. <"..Reason..">"
+		return false, "You're on the naughty list: <"..Reason..">"
 	end
 end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
