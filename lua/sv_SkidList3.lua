@@ -7,6 +7,23 @@ local ExtraSkiddies = {
 
 
 	
+	["STEAM_0:0:48541125"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:79339714"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:94309015"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:63764582"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:125140616"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:101118429"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:63193822"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:52426926"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:10681576"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:61727888"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:20050941"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:75721468"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:46405880"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:105541652"] = "Member of bad group: faggothackers",
+	["STEAM_0:1:98144007"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:51447548"] = "Member of bad group: faggothackers",
+	["STEAM_0:0:67914891"] = "Member of bad group: faggothackers",
 	["STEAM_0:1:77968765"] = "Member of bad group: DoYouEvenLiftM8",
 	["STEAM_0:1:49798935"] = "Member of bad group: DoYouEvenLiftM8",
 	["STEAM_0:1:62976216"] = "Member of bad group: gaynig",
