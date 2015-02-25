@@ -13,6 +13,12 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:38369552"] = "Smor, VAC banned, Exploits",
+	["STEAM_0:1:61452881"] = "Filthy Frank, VAC banned, Exploits",
+	["STEAM_0:1:5728262"] = "KILLERBOBRge, Exploits",
+	["STEAM_0:0:43200348"] = "Troll names, Exploits",
+	["STEAM_0:1:6336252"] = "Purple, VAC banned, Exploits",
+	["STEAM_0:1:44781964"] = "Ninjastar258, Exploits",
 	["STEAM_0:1:40532439"] = "Cultist_Turtleist, troll, MPGH",
 	["STEAM_0:1:53055629"] = "2S: Mapex",
 	["STEAM_0:1:39991588"] = "2S: Unknown hack",
@@ -1627,7 +1633,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:24418752"] = "Banlist",
 	["STEAM_0:1:6076942"] = "SP2: Code injection",
 	["STEAM_0:0:45114256"] = "Banlist",
-	["STEAM_0:0:39690375"] = "SP2: Code Injection",
+	["STEAM_0:0:39690375"] = "Troll names, Exploits, SP2: Code Injection",
 	["STEAM_0:1:59354291"] = "2S: sv_allowcslua",
 	["STEAM_0:0:47809816"] = "gDaap DB: dustynigga (xXB00TYM33TXx)",
 	["STEAM_0:0:20495521"] = "[RevG] Devvy",
@@ -3557,7 +3563,7 @@ Skid.HAC_DB = {
 	["STEAM_0:1:43787712"] = "Banlist",
 	["STEAM_0:1:38260177"] = "Banlist",
 	["STEAM_0:1:12551692"] = "Banlist",
-	["STEAM_0:0:28938661"] = "Banlist",
+	["STEAM_0:0:28938661"] = "Troll names, VAC banned, Exploits, Banlist",
 	["STEAM_0:0:47960003"] = "Rei, Bluebot",
 	["STEAM_0:1:40034489"] = "EmperoR, mythik friend, ban me",
 	["STEAM_0:1:56427946"] = "2S: sv_allowcslua",
