@@ -13,6 +13,7 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:1:110899786"] = "iLikePuppys, Skiddie, MPGH",
 	["STEAM_0:1:38369552"] = "Smor, VAC banned, Exploits",
 	["STEAM_0:1:61452881"] = "Filthy Frank, VAC banned, Exploits",
 	["STEAM_0:1:5728262"] = "KILLERBOBRge, Exploits",
