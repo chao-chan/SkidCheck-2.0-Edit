@@ -7,6 +7,21 @@ local ExtraSkiddies = {
 
 
 	
+	["STEAM_0:0:47908110"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:34241486"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:25188696"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:46623653"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:37169252"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:60149649"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:1:52577863"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:46368756"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:39632808"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:1:26761970"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:1:1198325"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:49412688"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:0:41810941"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:1:44611681"] = "Member of bad group: 4realsfanclub",
+	["STEAM_0:1:53189353"] = "Member of bad group: tabernaclehacking",
 	["STEAM_0:1:50278224"] = "Member of bad group: DosGruppen",
 	["STEAM_0:0:83824314"] = "Member of bad group: Gangster_Paradise_",
 	["STEAM_0:1:49044649"] = "Member of bad group: Gangster_Paradise_",
