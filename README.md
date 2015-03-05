@@ -2,9 +2,9 @@
 === SkidCheck - 2.0 ===
 --By HeX
 
-This addon checks the HAC database (sv_SkidList.lua, over ~14,000 cheaters) and lets
+This addon checks the HAC database (sv_SkidList.lua, over ~18,000 cheaters) and lets
 everyone in the server know if any are on the current game. This can not *detect*
-cheaters, nor can it punish anyone it finds.
+cheaters, nor can it punish anyone it finds. It only does a warning message.
 
 How to use:
 Runs when players spawn. Nothing is needed to configure or set up.
@@ -13,11 +13,12 @@ Commands:
 sk           --Does a re-check of everyone in game, does the sound and message.
 
 CVars:
-sk_kick 0/1  --Prevent players who are in the DB from joining. ON by default
+sk_kick 1/0  --Prevent players who are in the DB from joining. ON by default
+sk_omit 0/1  --Don't send the SK message to the cheater in question. OFF by default
 
-Logs:
+Logs (in the /data folder):
 sk_encounters.txt    --Logs every cheater that spawns
-sk_blocked.txt       --Logs connection attempts if sk_kick 1 is set
+sk_blocked.txt       --Logs blocked cheater connection attempts if sk_kick is 1
 
 
 Hooks (SERVER side):

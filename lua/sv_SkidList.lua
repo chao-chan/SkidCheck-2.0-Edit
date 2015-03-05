@@ -1,11 +1,7 @@
-/*
-	=== SkidCheck - 2.0 ===
-	--By HeX
-*/
+--#1 - Banned by HAC/discovered from forums/cheats etc
 
 
---I won't be updating this much anymore, but feel free to use the list for anything.
-Skid.HAC_DB = {
+HAC.Skiddies = {
 
 
 
@@ -14,6 +10,10 @@ Skid.HAC_DB = {
 
 
 
+	["STEAM_0:0:55216258"] = "DheerajBhatt, MPGH, troll posts, ban me",
+	["STEAM_0:0:23823962"] = "Backdoor/exploits, VAC banned, ban me",
+	["STEAM_0:1:83634902"] = "sik, selling exploits",
+	["STEAM_0:0:48069769"] = "Jesus Crust/troll names, VAC banned",
 	["STEAM_0:0:19997930"] = "Jackie, ArcBank SendLua Exploit, Ban me",
 	["STEAM_0:1:85965529"] = "Backdoor/Exploits, scoreboard.lua, Ban me",
 	["STEAM_0:1:17780825"] = "Backdoor/Exploits, scoreboard.lua, Ban me",

@@ -27,6 +27,8 @@ function Skid.Msg()
 		Skid.PINK, "KNOWN CHEATER"
 	)
 	
+	//Sound
+	surface.PlaySound("ambient/machines/thumper_shutdown1.wav")
 	
 	//Log
 	if self == LocalPlayer() then return end

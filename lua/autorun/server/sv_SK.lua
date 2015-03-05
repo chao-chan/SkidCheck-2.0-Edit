@@ -3,31 +3,42 @@
 	--By HeX
 */
 
-
-function table.MergeEx(from,dest)
-	for k,v in pairs(from) do
-		dest[k] = v
-	end
-	from = nil
-	return dest
-end
-
 include("sh_SK.lua")
 
-//Main
-include("sv_SkidList.lua")
+Skid.WaitFor = 25 --Seconds to wait before message
+Skid.sk_kick = CreateConVar("sk_kick", 1, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
+Skid.sk_omit = CreateConVar("sk_omit", 0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question")
 
-//Groups
-include("sv_SkidList2.lua")
-include("sv_SkidList3.lua")
+if HAC then
+	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n")
+	return
+end
 
 AddCSLuaFile("sh_SK.lua")
 AddCSLuaFile("autorun/client/cl_SK.lua")
 
 util.AddNetworkString("Skid.Msg")
 
-Skid.WaitFor = 25 --Seconds to wait before message
-Skid.sk_kick = CreateConVar("sk_kick", 1, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
+
+
+//Load lists
+function table.MergeEx(from,dest)
+	for k,v in pairs(from) do
+		dest[k] = v
+	end
+	from = nil
+end
+
+HAC = {}
+	//Main
+	include("sv_SkidList.lua")
+	
+	//Groups
+	include("sv_SkidList2.lua")
+	include("sv_SkidList3.lua")
+	
+	Skid.HAC_DB = HAC.Skiddies
+HAC = nil
 
 
 //Check
@@ -40,8 +51,7 @@ function Skid.Check(server_only)
 		if hook.Run("OnSkid", v, Reason, (not server_only) ) then return end
 		
 		//Log
-		local Log = Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason)
-		file.Append("sk_encounters.txt", Log)
+		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason) )
 		
 		//Tell server
 		MsgC(Skid.GREY, "\n[")
@@ -63,11 +73,11 @@ function Skid.Check(server_only)
 			net.Start("Skid.Msg")
 				net.WriteEntity(v)
 				net.WriteString(Reason)
-			net.Broadcast()
-			
-			//Sound
-			for k,v in pairs( player.GetHumans() ) do
-				v:EmitSound("ambient/machines/thumper_shutdown1.wav")
+				
+			if Skid.sk_omit:GetBool() then
+				net.SendOmit(v)
+			else
+				net.Broadcast()
 			end
 		end
 	end
