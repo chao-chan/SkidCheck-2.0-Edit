@@ -10,6 +10,10 @@ HAC.Skiddies = {
 
 
 
+	["STEAM_0:0:92597893"] = "xXTheDarkOne123/TSWD Gaming, Obvious cheating, google his SteamID. BAN ME FOREVER",
+	["STEAM_0:1:6060773"] = "Clarkman28/peyto11, asking for help with stealing files/hacks. BAN ME",
+	["STEAM_0:1:88843019"] = "The Churro Master, troll names",
+	["STEAM_0:0:51913704"] = "Troll names, VAC banned, Member of bad group: honorableposters",
 	["STEAM_0:0:55216258"] = "DheerajBhatt, MPGH, troll posts, ban me",
 	["STEAM_0:0:23823962"] = "Backdoor/exploits, VAC banned, ban me",
 	["STEAM_0:1:83634902"] = "sik, selling exploits",
