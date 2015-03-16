@@ -7,7 +7,14 @@ HAC.Skiddies = {
 
 
 
-
+	
+	["STEAM_0:0:42194705"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	["STEAM_0:0:101348488"] = "Leystryku new, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	["STEAM_0:0:83376334"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	["STEAM_0:1:38725115"] = "Leystryku alt, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	["STEAM_0:1:83423668"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	
+	["STEAM_0:1:40971509"] = "Senpai Noodles, 2S: AHack",
 	["STEAM_0:1:96000942"] = "Invisible name, VAC banned, Exploits/asking for hacks/Member of bad group: formatmefans",
 	["STEAM_0:0:121038730"] = "thegreatenate, Exploits/asking for hacks",
 	["STEAM_0:1:107702006"] = "DEADOFWGKTA, VAC banned, Exploits/asking for hacks",
@@ -825,7 +832,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:35857948"] = "2S: AHack",
 	["STEAM_0:1:37810527"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:1:37883306"] = "2S: Unknown hack",
-	["STEAM_0:1:40971509"] = "2S: AHack",
 	["STEAM_0:1:42177814"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:0:92543531"] = "2S: Lenny",
 	["STEAM_0:0:89914555"] = "2S: sv_allowcslua bypass",
@@ -1762,8 +1768,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:72647621"] = "GLDB: AlphaKennyBody, Cheats detected",
 	["STEAM_0:0:40599908"] = "Lennys_Group",
 	["STEAM_0:0:47477583"] = "Skiddie",
-	["STEAM_0:0:42194705"] = "Leystryku, 2S: Cheats",
-	["STEAM_0:0:101348488"] = "Leystryku new, 2S: Cheats",
+	
 	["STEAM_0:1:78396829"] = "Troll/Hacks",
 	["STEAM_0:1:43874850"] = "2S: sv_allowcslua",
 	["STEAM_0:0:19573447"] = "Alice, Orange",
@@ -2567,7 +2572,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:16689138"] = "acica a47",
 	["STEAM_0:1:19774349"] = "Banlist",
 	["STEAM_0:0:15342841"] = "Banlist",
-	["STEAM_0:0:83376334"] = "abangcockm ley alt",
 	["STEAM_0:1:42332871"] = "Banlist",
 	["STEAM_0:0:28402443"] = "gDaap DB: krelian987 (Obvious)",
 	["STEAM_0:1:27285664"] = "Backdoor",
@@ -2670,7 +2674,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:48389999"] = "Nox: speedhacker",
 	["STEAM_0:0:5585985"] = "Banlist",
 	["STEAM_0:1:84850685"] = "Ban Evasion (Alt of STEAM_0:1:68433208)",
-	["STEAM_0:1:83423668"] = "lefag, Cheater (Alt of STEAM_0:0:42194705)",
 	["STEAM_0:0:41611487"] = "Hera, 2S: Hera",
 	["STEAM_0:0:27404539"] = "Banlist",
 	["STEAM_0:0:79611859"] = "2S: BlueBot",
@@ -2733,7 +2736,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:3790329"] = "Banlist",
 	["STEAM_0:0:42450063"] = "ZvaiveR",
 	["STEAM_0:1:86251359"] = "gDaap DB: ronanb123 (func_door_rotating)",
-	["STEAM_0:1:38725115"] = "Ley alt, Cheater (Alt of STEAM_0:0:42194705), ban me",
 	["STEAM_0:1:896653"] = "Lennys_Group",
 	["STEAM_0:0:40264220"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:93114817"] = "Dismay (stealing files), ban me",
@@ -4969,6 +4971,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:12406388"] = "SP2: Code injection",
 	["STEAM_0:0:35991390"] = "LESP",
 	["STEAM_0:1:90731720"] = "ImFriendly alt, Ban Evasion (Alt of STEAM_0:1:62132405)",
+	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically alt, DDoS, Falcos,Nospread,Mapex",
 	["STEAM_0:0:22466357"] = "Banlist",
 	["STEAM_0:1:21480249"] = "Blackops.cfg",
 	["STEAM_0:0:24473658"] = "2S: sv_allowcslua",
@@ -6862,7 +6865,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:28136046"] = "SSDB: BadRCC",
 	["STEAM_0:1:39464653"] = "SSDB: BadMetatable",
 	["STEAM_0:1:36386408"] = "Troll,cheater",
-	["STEAM_0:1:62132405"] = "ImFriendly alt, Anarchically, Falcos,Nospread,Mapex",
 	["STEAM_0:1:34120081"] = "Stewie",
 	["STEAM_0:0:30104210"] = "Banlist",
 	["STEAM_0:1:46317916"] = "SSDB: BadRCC",
