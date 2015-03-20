@@ -7,6 +7,10 @@ HAC.Skiddies = {
 
 
 
+
+	["STEAM_0:0:36527860"] = "DaaOtt, 'Me and a friend would make ESP and smooth aim-assist'",
+	["STEAM_0:0:37633127"] = "NIN, hacks",
+	["STEAM_0:1:21125463"] = "Mike/h0p3l355, hacks",
 	
 	["STEAM_0:0:42194705"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
 	["STEAM_0:0:101348488"] = "Leystryku new, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
@@ -2105,7 +2109,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:40372639"] = "DDoS",
 	["STEAM_0:1:26837409"] = "Banlist",
 	["STEAM_0:1:37311111"] = "SP2: Code Injection",
-	["STEAM_0:0:36527860"] = "Ott, Hacks",
 	["STEAM_0:1:15231011"] = "SP2: Unknown",
 	["STEAM_0:0:8424048"] = "Banlist",
 	["STEAM_0:1:43197919"] = "Blackops.cfg",

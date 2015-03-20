@@ -15,6 +15,19 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:56111152"] = "Member of bad group: USLOL",
+	["STEAM_0:0:64466802"] = "Member of bad group: USLOL",
+	["STEAM_0:1:61560927"] = "Member of bad group: USLOL",
+	["STEAM_0:0:31625059"] = "Member of bad group: USLOL",
+	["STEAM_0:0:56628945"] = "Member of bad group: USLOL",
+	["STEAM_0:1:60545873"] = "Member of bad group: USLOL",
+	["STEAM_0:1:53867781"] = "Member of bad group: USLOL",
+	["STEAM_0:1:41551721"] = "Member of bad group: USLOL",
+	["STEAM_0:0:59497199"] = "Member of bad group: USLOL",
+	["STEAM_0:1:29702030"] = "Member of bad group: USLOL",
+	["STEAM_0:1:59723187"] = "Member of bad group: USLOL",
+	["STEAM_0:1:10498752"] = "Member of bad group: USLOL",
+	["STEAM_0:0:56783559"] = "Member of bad group: USLOL",
 	["STEAM_0:0:49148616"] = "Member of bad group: ITFL",
 	["STEAM_0:0:37449837"] = "Member of bad group: ITFL",
 	["STEAM_0:1:72568540"] = "Member of bad group: ITFL",
