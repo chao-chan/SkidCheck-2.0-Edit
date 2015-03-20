@@ -7,7 +7,7 @@ HAC.Skiddies = {
 
 
 
-
+	["STEAM_0:1:5905033"] = "Nyaaa, Cheater. 2x VAC bans, writing and distributing a GMod bypass",
 	["STEAM_0:0:36527860"] = "DaaOtt, 'Me and a friend would make ESP and smooth aim-assist'",
 	["STEAM_0:0:37633127"] = "NIN, hacks",
 	["STEAM_0:1:21125463"] = "Mike/h0p3l355, hacks",
@@ -6863,7 +6863,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:39915884"] = "wetdreams82, 2S: Aimbot",
 	["STEAM_0:0:2237880"] = "Reim bluebot, Ban Evasion (Alt of STEAM_0:0:47960003)",
 	["STEAM_0:1:40018192"] = "SSDB: BadRCC",
-	["STEAM_0:1:5905033"] = "Cheater",
 	["STEAM_0:0:47215367"] = "Banlist",
 	["STEAM_0:0:28136046"] = "SSDB: BadRCC",
 	["STEAM_0:1:39464653"] = "SSDB: BadMetatable",
