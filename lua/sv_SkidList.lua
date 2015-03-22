@@ -7,6 +7,11 @@ HAC.Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:113230085"] = "DANKMEOW, member of troll groups, propkiller, DDoS",
+	["STEAM_0:0:41421228"] = "Troll names, troll groups, SIX VAC BANS. BAN ME FOREVER",
+	["STEAM_0:1:50326164"] = "K0IN, VAC ban",
 	["STEAM_0:1:5905033"] = "Nyaaa, Cheater. 2x VAC bans, writing and distributing a GMod bypass",
 	["STEAM_0:0:36527860"] = "DaaOtt, 'Me and a friend would make ESP and smooth aim-assist'",
 	["STEAM_0:0:37633127"] = "NIN, hacks",
@@ -1134,7 +1139,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:43738078"] = "Nox: lua_openscript_cl",
 	["STEAM_0:1:19015759"] = "The Phoenix",
 	["STEAM_0:1:79806652"] = "gDaap DB: richard69 (Im only 10)",
-	["STEAM_0:0:41421228"] = "huge skid",
 	["STEAM_0:0:86865946"] = "gDaap DB: UnrealSkybox (Miss Riot)",
 	["STEAM_0:0:28442183"] = "Banlist",
 	["STEAM_0:1:70822259"] = "Greg, mythik friend, ban me",
@@ -4622,7 +4626,7 @@ HAC.Skiddies = {
 	["STEAM_0:0:26195352"] = "Banlist",
 	["STEAM_0:0:23585574"] = "Banlist",
 	["STEAM_0:0:10935064"] = "Banlist",
-	["STEAM_0:0:42138604"] = "Liquidsocks, ban me",
+	["STEAM_0:0:42138604"] = "Liquidsocks",
 	["STEAM_0:1:8861721"] = "Banlist",
 	["STEAM_0:0:33905427"] = "Yelda",
 	["STEAM_0:1:20047375"] = "Banlist",
