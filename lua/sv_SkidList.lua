@@ -7,8 +7,10 @@ HAC.Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:51964687"] = "Backdoor/Exploits in workshop addons",
+	["STEAM_0:1:35715092"] = "Backdoor/Exploits in workshop addons",
+	["STEAM_0:1:18280147"] = "Backdoor/Exploits in workshop addons",
+	["STEAM_0:1:53736769"] = "Sal, backdoor exploits, 2x VAC bans",
 	["STEAM_0:1:113230085"] = "DANKMEOW, member of troll groups, propkiller, DDoS",
 	["STEAM_0:0:41421228"] = "Troll names, troll groups, SIX VAC BANS. BAN ME FOREVER",
 	["STEAM_0:1:50326164"] = "K0IN, VAC ban",

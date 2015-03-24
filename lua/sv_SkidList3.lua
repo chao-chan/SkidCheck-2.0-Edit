@@ -8,6 +8,12 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:78573085"] = "Member of bad group: gengiskuntlol",
+	["STEAM_0:1:5404780"] = "Member of bad group: gengiskuntlol",
+	["STEAM_0:0:73220195"] = "Member of bad group: gengiskuntlol",
+	["STEAM_0:1:106958741"] = "Member of bad group: gengiskuntlol",
+	["STEAM_0:1:60188767"] = "Member of bad group: gengiskuntlol",
+	["STEAM_0:0:55068526"] = "Member of bad group: gengiskuntlol",
 	["STEAM_0:0:55283524"] = "Member of bad group: PaKiPK",
 	["STEAM_0:0:78023637"] = "Member of bad group: faggothackers",
 	["STEAM_0:1:75693110"] = "Member of bad group: faggothackers",
