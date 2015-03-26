@@ -7,6 +7,12 @@ HAC.Skiddies = {
 
 
 
+	["STEAM_0:1:47561717"] = "scardigne, Backdoor/Exploits in workshop addons",
+	["STEAM_0:0:38951252"] = "Chief Marty, Backdoor/Exploits in workshop addons",
+	["STEAM_0:1:67615954"] = "Jago Shakur/Invisible name, Backdoor/Exploits in workshop addons",
+	["STEAM_0:0:6714176"] = "Xutax_Kamay, VAC banned, Skiddie",
+	["STEAM_0:1:89946543"] = "Ronald, 2x VAC bans, Skiddie",
+	["STEAM_0:1:103293734"]  = "Jake, Lennys scripts",
 	["STEAM_0:1:51964687"] = "Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:35715092"] = "Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:18280147"] = "Backdoor/Exploits in workshop addons",

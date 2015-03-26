@@ -36,6 +36,7 @@ HAC = {}
 	//Groups
 	include("sv_SkidList2.lua")
 	include("sv_SkidList3.lua")
+	include("sv_SkidList4.lua")
 	
 	Skid.HAC_DB = HAC.Skiddies
 HAC = nil
