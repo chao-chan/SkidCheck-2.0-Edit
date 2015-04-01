@@ -8,7 +8,9 @@ HAC.Skiddies = {
 
 
 
-
+	["STEAM_0:1:53406228"] = "Ilya/sofresh, VAC banned, cheats",
+	["STEAM_0:0:693787"] = "Ilya/sophresh, VAC banned, cheats",
+	["STEAM_0:1:6286814"] = "gesj/aethiisadorable/TheyCallMeDaz, writing/using many hacks, MPGH poster, BAN ME FOREVER",
 	["STEAM_0:0:122556442"] = "Thatguy12, VAC banned, troll names",
 	
 	["STEAM_0:0:48926883"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
@@ -6804,7 +6806,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:68229687"] = "LordOfGears2, Lordhack, 2S: Aimbot",
 	["STEAM_0:0:36594519"] = "Banlist",
 	["STEAM_0:0:33757097"] = "Banlist",
-	["STEAM_0:1:53406228"] = "ilya",
 	["STEAM_0:1:37692289"] = "Kinderknacht",
 	["STEAM_0:1:38736664"] = "k0nr4d99",
 	["STEAM_0:0:53455897"] = "2S: AHack",
