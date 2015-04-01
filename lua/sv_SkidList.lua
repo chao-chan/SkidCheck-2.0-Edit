@@ -8,7 +8,11 @@ HAC.Skiddies = {
 
 
 
-
+	["STEAM_0:0:25345204"] = "Opzon/Frank/simonsmsn119/rusher, 2x VAC bans, stealing files, JSP, gDaap, BAN ME FOREVER",
+	["STEAM_0:1:43933522"] = "NotSoSuper, 4x VAC bans, gDaap DB: Banana Lord, Dismay (stealing files), BAN ME FOREVER",
+	["STEAM_0:1:53406228"] = "Ilya/sofresh, VAC banned, cheats",
+	["STEAM_0:0:693787"] = "Ilya/sophresh, VAC banned, cheats",
+	["STEAM_0:1:6286814"] = "gesj/aethiisadorable/TheyCallMeDaz, writing/using many hacks, MPGH poster, BAN ME FOREVER",
 	["STEAM_0:0:122556442"] = "Thatguy12, VAC banned, troll names",
 	
 	["STEAM_0:0:48926883"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
@@ -2272,7 +2276,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:16298971"] = "Banlist",
 	["STEAM_0:1:29121980"] = "Blackops.cfg",
 	["STEAM_0:1:19955728"] = "CrowBarGaming: MegaDeath",
-	["STEAM_0:0:25345204"] = "Opzon/Frank/simonsmsn119/rusher/simonsmsn199, VAC bans, cheating",
 	["STEAM_0:1:55778425"] = "GLDB: Verum Dux, Troll Group",
 	["STEAM_0:1:12808689"] = "SP2: Sethhack",
 	["STEAM_0:0:56664932"] = "2S: sv_allowcslua",
@@ -3300,7 +3303,6 @@ HAC.Skiddies = {
 	["STEAM_0:0:62657485"] = "-UH- Tomeno, Tomeno, Admitted hacking, 'LMAOBOX premium'",
 	["STEAM_0:1:20524414"] = "Blackops.cfg",
 	["STEAM_0:1:48917688"] = "Nox: lua_openscript_cl isuckgames.lua",
-	["STEAM_0:1:43933522"] = "gDaap DB: Banana Lord (NotSoSuper), Dismay (stealing files), ban me",
 	["STEAM_0:0:29016340"] = "Banlist",
 	["STEAM_0:0:19326995"] = "CryoShocked",
 	["STEAM_0:1:13447259"] = "Banlist",
