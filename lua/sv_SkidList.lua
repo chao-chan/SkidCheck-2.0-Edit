@@ -5,8 +5,10 @@ HAC.Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
+	["STEAM_0:0:87834515"] = "cdriza alt, VAC bans, 2S: Unknown hack",
+	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
+	["STEAM_0:1:99708404"] = "Ghillie, Backdoor/Exploits in workshop addons, JSP cheat, ban me",
 	["STEAM_0:0:105412345"] = "x0s, Bad groups, troll names, skiddie",
 	["STEAM_0:0:42138604"] = "Liquidsocks, many hacks",
 	["STEAM_0:1:68768379"] = "Liquidsocks/Pengo, many hacks, 2S: sv_allowcslua, AHack, sv_cheats",
@@ -518,7 +520,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:66543979"] = "Johntheawe, propkiller, JSP cheat, ban me",
 	["STEAM_0:0:87639842"] = "warzsucks alt, JSP cheat, ban me",
 	["STEAM_0:0:84885847"] = "Jay alt (unban102), JSP cheat, ban me",
-	["STEAM_0:1:99708404"] = "Ghillie, JSP cheat, ban me",
 	["STEAM_0:1:102427990"] = "JSP cheat, ban me",
 	["STEAM_0:1:49643349"] = "nub, JSP cheat, ban me",
 	["STEAM_0:1:53458830"] = "Crazzkid, JSP cheat, ban me",
@@ -954,7 +955,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:33077188"] = "nurdmobiel/troll names",
 	["STEAM_0:0:41297976"] = "Frenchy, hacks",
 	["STEAM_0:1:42024534"] = "run2fl, VAC ban, trolling",
-	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
 	["STEAM_0:0:40034171"] = "Frost, DEM0LITION friend, hacks",
 	["STEAM_0:0:46254"] = "Troll names, DEM0LITION friend, hacks",
 	["STEAM_0:0:47286139"] = "stanley, DEM0LITION friend, hacks",
@@ -7500,8 +7500,6 @@ HAC.Skiddies = {
 	["STEAM_0:1:34848015"] = "NuzzyFipples",
 	["STEAM_0:1:20421636"] = "Banlist",
 	["STEAM_0:0:17605864"] = "Banlist",
-	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
-	["STEAM_0:0:87834515"] = "cdriza alt, VAC bans, 2S: Unknown hack",
 	["STEAM_0:1:63450645"] = "Niceman, ban me, custom hacks",
 	["STEAM_0:1:44195040"] = "Banlist",
 	["STEAM_0:1:30416345"] = "Nox: HARCKER",
