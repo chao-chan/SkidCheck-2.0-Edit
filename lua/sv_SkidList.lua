@@ -5,6 +5,12 @@ HAC.Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:4154719"] = "Warden1142/GPhys DarkCide, speedhacks, propkiller",
+	["STEAM_0:0:67232605"] = "Troll names, member of bad groups, BAN ME FOREVER",
+	["STEAM_0:1:92868636"] = "Obama, asking for hacks on MPGH",
 	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
 	["STEAM_0:0:87834515"] = "cdriza alt, VAC bans, 2S: Unknown hack",
 	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
@@ -432,7 +438,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:21056185"] = "ds22/DarkShadow6, 'my hax I troll kids on darkrp with get detected pretty fast'",
 	["STEAM_0:1:49225816"] = "Mew, server addon backdoor, ban me forever",
 	["STEAM_0:1:60429028"] = "igotbanned, stealing server config files, RCON hacking",
-	["STEAM_0:1:41867753"] = "ASCII name, asking for hacks on HF",
+	["STEAM_0:1:41867753"] = "Unicode Name, asking for hacks on HF",
 	["STEAM_0:1:43607376"] = "Captain Doom, asking for hacks on HF, 2S: Hera",
 	["STEAM_0:0:77960956"] = "31337_UEA/hafnium, troll names, 2x VAC bans",
 	["STEAM_0:0:45464397"] = "Button Mash, hacks",
@@ -1387,7 +1393,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:34051928"] = "Skiddie",
 	["STEAM_0:0:81347153"] = "olivier123, AHack",
 	["STEAM_0:0:39830848"] = "Banlist",
-	["STEAM_0:1:41096822"] = "ASCII Crap, ban me, AHack",
+	["STEAM_0:1:41096822"] = "Unicode Name crap, ban me, AHack",
 	["STEAM_0:1:57218147"] = "GLDB: Brick, Troll Group",
 	["STEAM_0:1:43867868"] = "Banlist",
 	["STEAM_0:0:40843744"] = "Banlist",
@@ -2425,7 +2431,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:69575551"] = "Lennys_Group",
 	["STEAM_0:0:32137839"] = "Banlist",
 	["STEAM_0:0:47873422"] = "Miku alt, Ban me, Ban Evasion (STEAM_0:1:80599466)",
-	["STEAM_0:1:39483232"] = "ASCII Name",
+	["STEAM_0:1:39483232"] = "Unicode Name",
 	["STEAM_0:0:37533797"] = "Lennys_Group",
 	["STEAM_0:0:49897261"] = "Banlist",
 	["STEAM_0:1:20636449"] = "2S: Cheats",
@@ -4626,7 +4632,7 @@ HAC.Skiddies = {
 	["STEAM_0:0:41961819"] = "Banlist",
 	["STEAM_0:1:38581282"] = "CrowBarGaming: iTerrorist",
 	["STEAM_0:1:51598927"] = "SSDB: BadRCC",
-	["STEAM_0:1:17693550"] = "ASCII name",
+	["STEAM_0:1:17693550"] = "Unicode Name",
 	["STEAM_0:1:60237263"] = "gDaap DB: dapro (NiPeZ_PRO)",
 	["STEAM_0:0:18102368"] = "The Black Cuervo",
 	["STEAM_0:0:66803814"] = "2S: BlueBot",
@@ -6114,7 +6120,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:50300534"] = "Banlist",
 	["STEAM_0:0:26431054"] = "SourceMan FIN",
 	["STEAM_0:1:27517358"] = "Banlist",
-	["STEAM_0:1:21380238"] = "ASCII",
+	["STEAM_0:1:21380238"] = "Unicode Name",
 	["STEAM_0:0:44574198"] = "2S: AHack",
 	["STEAM_0:0:38704795"] = "Blackops.cfg",
 	["STEAM_0:0:38816216"] = "2S: Bluebot",
