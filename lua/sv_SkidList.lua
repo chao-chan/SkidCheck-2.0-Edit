@@ -9,7 +9,8 @@ HAC.Skiddies = {
 
 
 
-
+	["STEAM_0:0:84431"] = "noapte/NA0X, Cheater aim-flex",
+	["STEAM_0:1:71918446"] = "fishgar/Sachiel/Schmetterling, Selling hacks, VAC banned, member of bad groups, BAN ME",
 	["STEAM_0:0:57812693"] = "Morning Kage, VAC banned, Skiddie, Member of bad group: myg0t_international",
 	["STEAM_0:1:37238974"] = "reallycoolguy420, VAC banned, Skiddie, Member of bad group: FightAutismInTitanClan",
 	["STEAM_0:0:10276503"] = "lyut, VAC banned, Skiddie, Member of bad group: tabernaclehacking",
@@ -46,15 +47,15 @@ HAC.Skiddies = {
 	["STEAM_0:1:90731720"] = "ImFriendly/Anarchically/Sadistic, DDoS,Falcos,Nospread,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically/Sadistic, DDoS,Falcos,Nospread,Mapex, BAN ME FOREVER",
 	
-	["STEAM_0:0:79182238"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:1:94707597"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:1:80703208"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:0:73336033"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:0:92257099"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:1:96000942"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:1:92373915"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:0:68245992"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
-	["STEAM_0:1:77421334"] = "Alex.Anszer/Function, DDoS,JSP,cheater,Dismay,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:0:79182238"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:1:94707597"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:1:80703208"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:0:73336033"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:0:92257099"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:1:96000942"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:1:92373915"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:0:68245992"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
+	["STEAM_0:1:77421334"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
 	
 	["STEAM_0:1:92021648"] = "MrCraigT, stealing files, hera, lots of hacks, Ban Evasion (Alt of STEAM_0:1:49624713), BAN ME FOREVER",
 	["STEAM_0:0:91991583"] = "MrCraigT, stealing files, hera, lots of hacks, Ban Evasion (Alt of STEAM_0:1:49624713), BAN ME FOREVER",
@@ -85,7 +86,7 @@ HAC.Skiddies = {
 	["STEAM_0:1:32634764"] = "Deagler, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:124979748"] = "Deagler alt, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:37916732"] = "Troll names, VAC banned",
-	["STEAM_0:1:54454921"] = "Scaro aim-flex, skiddie",
+	["STEAM_0:1:54454921"] = "Scaro, Cheater aim-flex, skiddie",
 	["STEAM_0:0:43504172"] = "mahmood good the niga socrates, Troll names",
 	["STEAM_0:0:102773291"] = "moneybot, skiddie",
 	["STEAM_0:1:55786205"] = "Tykor17",
@@ -348,7 +349,7 @@ HAC.Skiddies = {
 	["STEAM_0:0:101403368"] = "2S: BHop script",
 	["STEAM_0:0:84902886"] = "2S: BlueBot",
 	["STEAM_0:0:30019129"] = "2S: AHack",
-	["STEAM_0:0:71959399"] = "2S: Unknown hack",
+	["STEAM_0:0:71959399"] = "frosty97cz, 2S: Unknown hack",
 	["STEAM_0:1:63942829"] = "2S: AHack",
 	["STEAM_0:0:64664451"] = "2S: AHack",
 	["STEAM_0:1:103839075"] = "2S: sv_allowcslua bypass",
