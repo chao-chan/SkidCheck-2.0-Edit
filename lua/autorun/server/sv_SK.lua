@@ -3,16 +3,16 @@
 	--By HeX
 */
 
+if HAC then
+	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n")
+	return
+end
+
 include("sh_SK.lua")
 
 Skid.WaitFor = 25 --Seconds to wait before message
 Skid.sk_kick = CreateConVar("sk_kick", 1, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
 Skid.sk_omit = CreateConVar("sk_omit", 0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question")
-
-if HAC then
-	ErrorNoHalt("\n[SkidCheck] Disabled. Please remove HAC and restart the server\n")
-	return
-end
 
 AddCSLuaFile("sh_SK.lua")
 AddCSLuaFile("autorun/client/cl_SK.lua")
@@ -29,14 +29,14 @@ function table.MergeEx(from,dest)
 	from = nil
 end
 
-HAC = {}
+HAC = { Skiddies = {} }
+	//Groups
+	include("sv_SkidList_4.lua")
+	include("sv_SkidList_3.lua")
+	include("sv_SkidList_2.lua")
+	
 	//Main
 	include("sv_SkidList.lua")
-	
-	//Groups
-	include("sv_SkidList2.lua")
-	include("sv_SkidList3.lua")
-	include("sv_SkidList4.lua")
 	
 	Skid.HAC_DB = HAC.Skiddies
 HAC = nil

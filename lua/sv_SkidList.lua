@@ -1,7 +1,7 @@
 --#1 - Banned by HAC/discovered from forums/cheats/steam profiles etc
 
 
-HAC.Skiddies = {
+local Skiddies = {
 
 
 
@@ -7812,6 +7812,7 @@ HAC.Skiddies = {
 
 
 
+table.MergeEx(Skiddies, HAC.Skiddies)
 
 
 
