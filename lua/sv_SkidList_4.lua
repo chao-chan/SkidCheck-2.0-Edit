@@ -10,6 +10,9 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:47599166"] = "Member of bad group: 133333333337H4xs (Fuck VAC I Hack)",
+	["STEAM_0:0:10487877"] = "Member of bad group: 133333333337H4xs (Fuck VAC I Hack)",
+	["STEAM_0:0:13102108"] = "Member of bad group: 133333333337H4xs (Fuck VAC I Hack)",
 	["STEAM_0:1:26833848"] = "Member of bad group: LSSOWNS",
 	["STEAM_0:0:19950405"] = "Member of bad group: LSSOWNS",
 	["STEAM_0:1:9091620"] = "Member of bad group: LSSOWNS",
