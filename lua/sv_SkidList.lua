@@ -8,7 +8,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:40744642"] = "Razor/copyandpasta, 2x VAC bans, Razor hack, Member of bad group: Skidsquad",
 	["STEAM_0:0:84431"] = "noapte/NA0X, Cheater aim-flex",
 	["STEAM_0:1:71918446"] = "fishgar/Sachiel/Schmetterling, Selling hacks, VAC banned, member of bad groups, BAN ME",
 	["STEAM_0:0:57812693"] = "Morning Kage, VAC banned, Skiddie, Member of bad group: myg0t_international",
