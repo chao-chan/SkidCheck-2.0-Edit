@@ -9,7 +9,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:42753299"] = "PlaceTheHacks/Pajiaam, VAC banned, asking for hacks on MPGH",
+	["STEAM_0:0:16384484"] = "n0xius new, VAC banned, Member of bad group: myg0t_international",
 	["STEAM_0:1:25280302"] = "n0xius, VAC banned, Member of bad group: myg0t_international",
 	["STEAM_0:0:6858817"] = "Tankman, VAC banned, C++ cheats",
 	["STEAM_0:1:72618162"] = "Kieru, VAC banned,stealing files,nospread,JSP, Member of bad group: BXNDWIDTH",
@@ -3352,7 +3353,7 @@ local Skiddies = {
 	["STEAM_0:0:41774746"] = "Banlist",
 	["STEAM_0:0:40096529"] = "2S: Mapex",
 	["STEAM_0:1:31668419"] = "SP2: Code Injection",
-	["STEAM_0:0:62657485"] = "-UH- Tomeno, Tomeno, Admitted hacking, 'LMAOBOX premium'",
+	["STEAM_0:0:62657485"] = "Tomeno, Admitted hacking in TF2, 'LMAOBOX premium'",
 	["STEAM_0:1:20524414"] = "Blackops.cfg",
 	["STEAM_0:1:48917688"] = "Nox: lua_openscript_cl isuckgames.lua",
 	["STEAM_0:0:29016340"] = "Banlist",
