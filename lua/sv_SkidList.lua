@@ -8,6 +8,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: a hack a friend did, stealing files",
 	["STEAM_0:0:16742"] = "Troll names, member of bad groups, DDoS, BAN ME FOREVER",
 	["STEAM_0:0:19101478"] = "cancerwarrior/troll names, BAN ME FOREVER",
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",

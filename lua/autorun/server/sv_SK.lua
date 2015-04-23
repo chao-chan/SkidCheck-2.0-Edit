@@ -31,6 +31,8 @@ end
 
 HAC = { Skiddies = {} }
 	//Groups
+	include("sv_SkidList_7.lua")
+	include("sv_SkidList_6.lua")
 	include("sv_SkidList_5.lua")
 	include("sv_SkidList_4.lua")
 	include("sv_SkidList_3.lua")
