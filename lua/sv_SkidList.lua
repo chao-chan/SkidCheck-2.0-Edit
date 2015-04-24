@@ -7,8 +7,8 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:44427696"] = "Obama/Snipwnage, Gangster hack C++, ban me",
+	["STEAM_0:1:92084115"] = "Obama/Snipwnage alt, Gangster hack C++, ban me",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
 	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: a hack a friend did, stealing files",
 	["STEAM_0:0:16742"] = "Troll names, member of bad groups, DDoS, BAN ME FOREVER",
@@ -24,7 +24,7 @@ local Skiddies = {
 	["STEAM_0:0:6858817"] = "Tankman, VAC banned, C++ cheats",
 	["STEAM_0:1:72618162"] = "Kieru, VAC banned,stealing files,nospread,JSP, Member of hack/troll group: BXNDWIDTH",
 	["STEAM_0:1:40744642"] = "Razor/copyandpasta, 2x VAC bans, Razor hack, Member of hack/troll group: Skidsquad",
-	["STEAM_0:0:84431"] = "noapte/NA0X, aim-flex C++ cheats, C++ cheats",
+	["STEAM_0:0:84431"] = "noapte/NA0X, aim-flex C++ cheats",
 	["STEAM_0:1:71918446"] = "fishgar/Sachiel/Schmetterling, Selling hacks, VAC banned, Member of hack/troll groups, BAN ME",
 	["STEAM_0:0:57812693"] = "Morning Kage, VAC banned, Skiddie, Member of hack/troll group: myg0t_international",
 	["STEAM_0:1:37238974"] = "reallycoolguy420, VAC banned, Skiddie, Member of hack/troll group: FightAutismInTitanClan",
@@ -488,7 +488,7 @@ local Skiddies = {
 	["STEAM_0:1:57618487"] = "Troll names, hacks",
 	["STEAM_0:0:41191102"] = "d3x alt, history of cheating, ban me",
 	["STEAM_0:1:61792838"] = "dafrekkinnoobest, Troll names, RCON exploits",
-	["STEAM_0:0:100011237"] = "Troll names, cheater, Member of hack/troll group: imanigga, BAN ME FOREVER",
+	["STEAM_0:0:100011237"] = "copyandpaster/Troll names, cheater, Member of hack/troll group: imanigga, BAN ME FOREVER",
 	["STEAM_0:0:68756654"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:73307194"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:87481408"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
@@ -1864,7 +1864,6 @@ local Skiddies = {
 	["STEAM_0:0:11002940"] = "Banlist",
 	["STEAM_0:1:15521243"] = "Banlist",
 	["STEAM_0:0:33147875"] = "SethHack",
-	["STEAM_0:0:44427696"] = "Obama, Gangster hack",
 	["STEAM_0:1:33590389"] = "Banlist",
 	["STEAM_0:1:15575003"] = "Blackops.cfg",
 	["STEAM_0:0:75672888"] = "2S: BlueBot",
