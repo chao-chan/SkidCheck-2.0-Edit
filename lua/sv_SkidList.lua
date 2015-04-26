@@ -9,9 +9,10 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:90890"] = "Komol, Helping write hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)'",
 	["STEAM_0:0:128704682"] = "Reim/rei, new, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:0:47960003"] = "Reim/rei, Blue bot, cheating on alt",
-	["STEAM_0:0:2237880"] = "Reim/rei, Blu ebot, (cheating on Alt of STEAM_0:0:47960003)",
+	["STEAM_0:0:2237880"] = "Reim/rei, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:1:71682944"] = "bloodytoucan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:1:40264616)",
 	["STEAM_0:1:40264616"] = "bloodytoucan, 2x VAC bans, Ban Evasion (STEAM_0:1:71682944)",
 	["STEAM_0:0:44427696"] = "Obama/Snipwnage, Gangster hack C++, ban me",
