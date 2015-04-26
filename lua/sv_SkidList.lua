@@ -7,6 +7,13 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:128704682"] = "Reim/rei, new, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
+	["STEAM_0:0:47960003"] = "Reim/rei, Blue bot, cheating on alt",
+	["STEAM_0:0:2237880"] = "Reim/rei, Blu ebot, (cheating on Alt of STEAM_0:0:47960003)",
+	["STEAM_0:1:71682944"] = "bloodytoucan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:1:40264616)",
+	["STEAM_0:1:40264616"] = "bloodytoucan, 2x VAC bans, Ban Evasion (STEAM_0:1:71682944)",
 	["STEAM_0:0:44427696"] = "Obama/Snipwnage, Gangster hack C++, ban me",
 	["STEAM_0:1:92084115"] = "Obama/Snipwnage alt, Gangster hack C++, ban me",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
@@ -3848,7 +3855,6 @@ local Skiddies = {
 	["STEAM_0:1:38260177"] = "Banlist",
 	["STEAM_0:1:12551692"] = "Banlist",
 	["STEAM_0:0:28938661"] = "Troll names, VAC banned, Exploits, Banlist",
-	["STEAM_0:0:47960003"] = "Rei, Bluebot",
 	["STEAM_0:1:40034489"] = "EmperoR, mythik friend, ban me",
 	["STEAM_0:1:56427946"] = "2S: sv_allowcslua",
 	["STEAM_0:1:58063165"] = "Vilation: sv_cheats",
@@ -4475,7 +4481,6 @@ local Skiddies = {
 	["STEAM_0:1:38544854"] = "2S: AXpublic",
 	["STEAM_0:0:14084478"] = "SSDB: BadRCC",
 	["STEAM_0:1:21142494"] = "Banlist",
-	["STEAM_0:1:40414753"] = "The Calculator",
 	["STEAM_0:1:34839154"] = "Banlist",
 	["STEAM_0:1:31838268"] = "Ban Evasion (STEAM_0:0:46202363)",
 	["STEAM_0:1:67653869"] = "2S: Mapex",
@@ -6957,7 +6962,6 @@ local Skiddies = {
 	["STEAM_0:0:35836123"] = "Nox: Speedhacking",
 	["STEAM_0:1:21605065"] = "SP2: Code injection",
 	["STEAM_0:0:39915884"] = "wetdreams82, 2S: Aimbot",
-	["STEAM_0:0:2237880"] = "Reim bluebot, Ban Evasion (Alt of STEAM_0:0:47960003)",
 	["STEAM_0:1:40018192"] = "SSDB: BadRCC",
 	["STEAM_0:0:47215367"] = "Banlist",
 	["STEAM_0:0:28136046"] = "SSDB: BadRCC",
