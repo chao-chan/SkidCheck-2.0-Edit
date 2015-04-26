@@ -9,7 +9,12 @@ local Skiddies = {
 
 
 
-	["STEAM_0:1:90890"] = "Komol, Helping write hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)'",
+	["STEAM_0:1:4154719"] = "Warden1142/GPhys DarkCide, speedhacks, propkiller",
+	["STEAM_0:0:35810412"] = "KraN/Gmodpwnz, Stealing files,ahack,hera,nospread,propkiller,pbot,cvar3,lennys,illya,JSP,gdaap",
+	["STEAM_0:0:107971845"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:1:64947049), BAN ME FOREVER",
+	["STEAM_0:1:64947049"] = "Incognito/Troll names, C++ hacks,VAC banned,propkiller,Lennys,nanohack,ahack,mapex,falcos,bluebot,illya,razor,Ban evasion (Alt: STEAM_0:0:107971845), BAN ME FOREVER",
+	["STEAM_0:0:37245779"] = "Komol/Ikaros alt, Writing C++ hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)', Member of hack/troll group: QuikHop",
+	["STEAM_0:1:90890"] = "Komol/Ikaros, Writing C++ hacks for skids, 'Fake.pAim->EdgeAntiAim(pLocal, pCmd, 360.f)', Member of hack/troll group: QuikHop",
 	["STEAM_0:0:128704682"] = "Reim/rei, new, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:0:47960003"] = "Reim/rei, Blue bot, cheating on alt",
 	["STEAM_0:0:2237880"] = "Reim/rei, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
@@ -52,7 +57,6 @@ local Skiddies = {
 	["STEAM_0:1:55608548"] = "meharryp, 'Tbh the only thing I've been coding outside of scriptfodder is shitty Lua hacks'",
 	["STEAM_0:1:110286191"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
 	["STEAM_0:0:84796290"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
-	["STEAM_0:1:4154719"] = "Warden1142/GPhys DarkCide, speedhacks, propkiller",
 	["STEAM_0:0:67232605"] = "Troll names, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:92868636"] = "Obama, asking for hacks on MPGH",
 	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
@@ -1064,7 +1068,6 @@ local Skiddies = {
 	["STEAM_0:0:67779797"] = "Troll/invisible name, Lennys scripts, 2x VAC bans",
 	["STEAM_0:0:59529406"] = "Malthael, Lennys scripts, 2x VAC bans",
 	["STEAM_0:1:53846979"] = "CsGo Noob, Lennys scripts, VAC banned",
-	["STEAM_0:1:64947049"] = "Troll names, Lennys scripts",
 	["STEAM_0:1:68228923"] = "Jewelpet202, Lennys scripts, troll names",
 	["STEAM_0:0:36639557"] = "Zyfer, Lennys scripts, VAC banned",
 	["STEAM_0:1:44825152"] = "memeplayer, Lennys scripts",
@@ -3332,7 +3335,6 @@ local Skiddies = {
 	["STEAM_0:0:76706361"] = "2S: Mapex",
 	["STEAM_0:0:32111930"] = "Banlist",
 	["STEAM_0:0:71874784"] = "2S: AHack",
-	["STEAM_0:0:35810412"] = "Gmodpwnz",
 	["STEAM_0:0:17869291"] = "Banlist",
 	["STEAM_0:0:63492872"] = "Dismay (stealing files), Cheater, ban me",
 	["STEAM_0:1:8823562"] = "Nick",
