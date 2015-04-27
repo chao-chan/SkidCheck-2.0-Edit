@@ -10,6 +10,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:104343205"] = "Evoc, Backdoor/Exploits in addons",
 	["STEAM_0:1:45153092"] = "GGM8/Dustin1525, VAC banned, selling hacks, bridgehack, ban me",
 	["STEAM_0:1:61639885"] = "Honk Friend/Troll names, selling hacks, bridgehack, ban me",
 	["STEAM_0:1:34411781"] = "Nomad, Lennys, Member of hack/troll group: TrollSquad9000",

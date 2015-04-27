@@ -10,9 +10,10 @@ end
 
 include("sh_SK.lua")
 
-Skid.WaitFor = 25 --Seconds to wait before message
-Skid.sk_kick = CreateConVar("sk_kick", 1, FCVAR_ARCHIVE, "Prevent players on the HAC DB from joining")
-Skid.sk_omit = CreateConVar("sk_omit", 0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question")
+Skid.WaitFor 	= 25 --Seconds to wait before message
+Skid.sk_kick 	= CreateConVar("sk_kick",  1, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
+Skid.sk_omit 	= CreateConVar("sk_omit",  0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
+Skid.sk_admin	= CreateConVar("sk_admin", 0, FCVAR_ARCHIVE, "Only send SK messages to admins (Useless if sk_kick or sk_omit is 1)")
 
 AddCSLuaFile("sh_SK.lua")
 AddCSLuaFile("autorun/client/cl_SK.lua")
@@ -45,8 +46,18 @@ HAC = { Skiddies = {} }
 HAC = nil
 
 
+
 //Check
 function Skid.Check(server_only)
+	//Get admins, used for sk_admin
+	local Admins = {}
+	for k,v in pairs( player.GetHumans() ) do
+		if v:IsAdmin() then
+			table.insert(Admins, v)
+		end
+	end
+	
+	//Go!
 	for k,v in pairs( player.GetHumans() ) do
 		local Reason = Skid.HAC_DB[ v:SteamID() ]
 		if not Reason then continue end
@@ -78,10 +89,17 @@ function Skid.Check(server_only)
 				net.WriteEntity(v)
 				net.WriteString(Reason)
 				
+			//Send to everyone BUT cheater
 			if Skid.sk_omit:GetBool() then
 				net.SendOmit(v)
 			else
-				net.Broadcast()
+				//Admins
+				if Skid.sk_admin:GetBool() and #Admins > 0 then
+					net.Send(Admins) --Don't send if no admins and sk_admin is 1, OTHERWISE WILL SEND TO EVERYONE.
+				else
+					//Everyone
+					net.Broadcast()
+				end
 			end
 		end
 	end
