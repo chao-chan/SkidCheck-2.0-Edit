@@ -10,6 +10,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:12089618"] = "Tyguy/alexjohnyoung alt, Skiddie,thack, 12 year old",
+	["STEAM_0:0:46536587"] = "Friend of tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
+	["STEAM_0:1:13142739"] = "Tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
+	["STEAM_0:1:30062241"] = "Tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
 	["STEAM_0:1:104343205"] = "Evoc, Backdoor/Exploits in addons",
 	["STEAM_0:1:45153092"] = "GGM8/Dustin1525, VAC banned, selling hacks, bridgehack, ban me",
 	["STEAM_0:1:61639885"] = "Honk Friend/Troll names, selling hacks, bridgehack, ban me",
@@ -2469,7 +2474,6 @@ local Skiddies = {
 	["STEAM_0:0:65827105"] = "Lennys_Group",
 	["STEAM_0:0:40161943"] = "azansensation/rockbanh",
 	["STEAM_0:1:21523239"] = "SP2: Baconbot",
-	["STEAM_0:0:12089618"] = "Tyguy alt",
 	["STEAM_0:0:19008524"] = "Banlist",
 	["STEAM_0:0:12109606"] = "Banlist",
 	["STEAM_0:0:37853397"] = "Banlist",
@@ -2887,7 +2891,6 @@ local Skiddies = {
 	["STEAM_0:0:42438958"] = "2S: Aimbot",
 	["STEAM_0:0:77003489"] = "Dismay (stealing files), ban me",
 	["STEAM_0:0:35947069"] = "SSDB: BadRCC",
-	["STEAM_0:0:46536587"] = "Friend of tyguy",
 	["STEAM_0:0:39139232"] = "Banlist",
 	["STEAM_0:0:40665664"] = "Mistleteinn, mapex",
 	["STEAM_0:0:73835104"] = "Lennys_Group",
@@ -3281,7 +3284,6 @@ local Skiddies = {
 	["STEAM_0:0:20327715"] = "SP2: Sethhack",
 	["STEAM_0:1:40354991"] = "dysfunksion",
 	["STEAM_0:0:15641206"] = "Banlist",
-	["STEAM_0:1:13142739"] = "Tyguy-garry denied my friendinv, Skiddie",
 	["STEAM_0:0:61154269"] = "2S: Cheats",
 	["STEAM_0:0:38896771"] = "jimtsal60",
 	["STEAM_0:1:29186751"] = "Banlist",
@@ -3858,7 +3860,6 @@ local Skiddies = {
 	["STEAM_0:1:45036640"] = "Blackops.cfg",
 	["STEAM_0:1:23419864"] = "SSDB: BadMetatable",
 	["STEAM_0:0:46901883"] = "Skiddie",
-	["STEAM_0:1:30062241"] = "Tyguy, thack, 12 year old",
 	["STEAM_0:0:30149208"] = "SSDB: BadRCC",
 	["STEAM_0:0:36696267"] = "Cash4Cars, deus friend",
 	["STEAM_0:1:43787712"] = "Banlist",
