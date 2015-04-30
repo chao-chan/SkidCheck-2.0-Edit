@@ -11,6 +11,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:8251700"] = "Fluffy/daniel, 4x VAC bans, speedhacks, Propkiller, troll names",
 	["STEAM_0:0:12089618"] = "Tyguy/alexjohnyoung alt, Skiddie,thack, 12 year old",
 	["STEAM_0:0:46536587"] = "Friend of tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
 	["STEAM_0:1:13142739"] = "Tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
