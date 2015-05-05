@@ -10,6 +10,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:53779917"] = "AwPanda, dead_aimbot, money hacks, speed hacks",
 	["STEAM_0:0:18151919"] = "Stan, cheater",
 	["STEAM_0:1:54822367"] = "el_taco_saint/Luke, VAC banned, Murder_ESP,Prop_ESP, ban me",
 	["STEAM_0:0:66582323"] = "Spoiled_Milk/Troll names, Sasha,TreeBot, ban me",
