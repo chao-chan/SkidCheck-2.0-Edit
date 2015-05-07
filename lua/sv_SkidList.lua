@@ -9,7 +9,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:68024907"] = "defender2015/Zekiar/Novx/Ryu, 2x VAC bans, Dismay (stealing files), ban me",
+	["STEAM_0:1:38493868"] = "Zatara, skiddie. 3x VAC bans, MPGH",
 	["STEAM_0:1:53779917"] = "AwPanda, dead_aimbot, money hacks, speed hacks",
 	["STEAM_0:0:18151919"] = "Stan, cheater",
 	["STEAM_0:1:54822367"] = "el_taco_saint/Luke, VAC banned, Murder_ESP,Prop_ESP, ban me",
@@ -2983,7 +2984,6 @@ local Skiddies = {
 	["STEAM_0:1:19039199"] = "SSDB: gm_stringtables.dll",
 	["STEAM_0:1:25352929"] = "Banlist",
 	["STEAM_0:0:38972898"] = "2S: AHack",
-	["STEAM_0:1:68024907"] = "Dismay (stealing files), ban me",
 	["STEAM_0:0:50380234"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:34758802"] = "2S: AHack",
 	["STEAM_0:0:6189682"] = "Banlist",
