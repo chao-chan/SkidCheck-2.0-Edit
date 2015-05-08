@@ -10,7 +10,11 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:102403779"] = "cdriza alt, huge skid, C++ hacks,VAC bans,2S ban,mapex,ahack, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:83444632"] = "cdriza alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:87834515"] = "cdriza alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:37511807"] = "cdriza, huge skid, 2x VAC bans,C++ hacks, VAC bans,2S ban,mapex,ahack, Ban Evasion",
+	["STEAM_0:0:30559593"] = "cdriza/Hafnium alt/Onyx/_ari, hacks, troll names, BAN ME FOREVER",
 	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
 	["STEAM_0:0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, BAN ME",
 	["STEAM_0:0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, Member of hack/troll group: gayweedddads, BAN ME",
@@ -83,10 +87,6 @@ local Skiddies = {
 	["STEAM_0:0:84796290"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
 	["STEAM_0:0:67232605"] = "Troll names, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:92868636"] = "Obama, asking for hacks on MPGH",
-	["STEAM_0:0:83444632"] = "cdriza alt, VAC bans, 2S: Unknown hack",
-	["STEAM_0:0:87834515"] = "cdriza alt, VAC bans, 2S: Unknown hack",
-	["STEAM_0:0:37511807"] = "cdriza, 2x VAC bans, 2S ban",
-	["STEAM_0:0:30559593"] = "cdriza/Hafnium  alt, Onyx/_ari, hacks, troll names, BAN ME FOREVER",
 	["STEAM_0:1:99708404"] = "Ghillie, Backdoor/Exploits in workshop addons, JSP cheat, ban me",
 	["STEAM_0:0:105412345"] = "x0s, C++ cheats, Bad groups, troll names, skiddie",
 	["STEAM_0:0:42138604"] = "Liquidsocks/Pengo, VAC banned, many hacks, 2S: sv_allowcslua, AHack, sv_cheats",
