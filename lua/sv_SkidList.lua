@@ -9,6 +9,11 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
+	["STEAM_0:0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, BAN ME",
+	["STEAM_0:0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, Member of hack/troll group: gayweedddads, BAN ME",
 	["STEAM_0:1:68024907"] = "defender2015/Zekiar/Novx/Ryu, 2x VAC bans, Dismay (stealing files), ban me",
 	["STEAM_0:1:38493868"] = "Zatara, skiddie. 3x VAC bans, MPGH",
 	["STEAM_0:1:53779917"] = "AwPanda, dead_aimbot, money hacks, speed hacks",
@@ -42,7 +47,7 @@ local Skiddies = {
 	["STEAM_0:1:92084115"] = "Obama/Snipwnage alt, Gangster hack C++, ban me",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
 	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: a hack a friend did, stealing files",
-	["STEAM_0:0:16742"] = "Troll names, member of bad groups, DDoS, BAN ME FOREVER",
+	["STEAM_0:0:16742"] = "Troll names, Member of hack/troll groups, DDoS, BAN ME FOREVER",
 	["STEAM_0:0:19101478"] = "cancerwarrior/troll names, BAN ME FOREVER",
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",
 	["STEAM_0:1:70694849"] = "Xavier/xaviermettle, VAC banned, member of DDoS group",
