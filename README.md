@@ -6,6 +6,8 @@ This addon checks the HAC database (sv_SkidList.lua, over ~39,518 cheaters) and 
 everyone in the server know if any are on the current game. This can not *detect*
 cheaters, nor can it punish anyone it finds. It only does a warning message.
 
+Check back here often, more IDs added almost daily!
+
 How to use:
 Nothing is needed to configure or set up (Unless you want to). Default is to prevent
 connection to the server if the player is on the DB.
