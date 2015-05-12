@@ -9,7 +9,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:62956661"] = "Klutch, VAC banned",
 	["STEAM_0:1:19405109"] = "Possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:86309474"] = "Invisible name, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
 	["STEAM_0:1:26966820"] = "Ronin ltas, VAC banned, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
@@ -37,11 +37,11 @@ local Skiddies = {
 	["STEAM_0:0:50535096"] = "Lord Tyler, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["STEAM_0:1:33966080"] = "Vorox Goodman/sirvolmog, Backdoor/Exploits in addons (sv_purge,mayordeathdemote)",
-	["STEAM_0:1:102403779"] = "cdriza alt, huge skid, C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:83444632"] = "cdriza alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:87834515"] = "cdriza alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:37511807"] = "cdriza, huge skid, 2x VAC bans,C++ hacks, VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion",
-	["STEAM_0:0:30559593"] = "cdriza/Hafnium alt/Onyx/_ari, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
+	["STEAM_0:1:102403779"] = "cdriza/Connor alt, huge skid, C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:83444632"] = "cdriza/Connor alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:87834515"] = "cdriza/Connor alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:37511807"] = "cdriza/Connor, huge skid, 2x VAC bans,C++ hacks, VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion",
+	["STEAM_0:0:30559593"] = "cdriza/Connor/Hafnium alt/Onyx/_ari, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
 	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
 	["STEAM_0:0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, BAN ME",
 	["STEAM_0:0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, Member of hack/troll group: gayweedddads, BAN ME",
@@ -569,7 +569,7 @@ local Skiddies = {
 	["STEAM_0:1:25117797"] = "Loller, VAC banned",
 	["STEAM_0:0:59495543"] = "Jay",
 	["STEAM_0:0:92916576"] = "crypTx",
-	["STEAM_0:0:87015233"] = "Packet Lord",
+	["STEAM_0:0:87015233"] = "Packet Lord, DDoS, huge skid, ban me forever",
 	["STEAM_0:1:80334906"] = "sashinator",
 	["STEAM_0:1:48426763"] = "Quackit",
 	["STEAM_0:1:96545769"] = "Grey Hellios alt",
