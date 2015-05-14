@@ -9,8 +9,21 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:55226519"] = "xAstroBeat, AHack,razor, ban me",
+	["STEAM_0:0:29829119"] = "NICOLAU, FMurder,Hera,Lennys,Bluebot,darkness, ban me",
+	["STEAM_0:1:32068179"] = "Looninightoos, gDaap, ban me",
+	["STEAM_0:1:55548715"] = "Lolk, MonsterBot,Bluebot, ban me",
+	["STEAM_0:0:56813696"] = "Fireblast, DDoS, Lennys, ban me",
+	["STEAM_0:0:82859750"] = "Gobble Mike Hawk, Lennys, ban me",
+	["STEAM_0:1:59594774"] = "Gas, Lennys, ban me",
+	["STEAM_0:1:20704087"] = "Troll names, Lennys, ban me",
+	["STEAM_0:0:63166611"] = "Dildozer, BridgeHack, ban me",
+	["STEAM_0:0:126452034"] = "D4RE CLutch, AHack,Bluebot,Lennys, ban me",
+	["STEAM_0:0:129142622"] = "coolkillerftw, defcon, ban me",
+	["STEAM_0:0:42567360"] = "Blue Jay, DDoS, Lennys, ban me",
+	["STEAM_0:0:64925862"] = "Billj63, Traffichack,Anxition, ban me",
+	["STEAM_0:0:84322191"] = "Troll names, Sasha hacks,Treebot, ban me",
+	
 	["STEAM_0:0:4773741"] = "Reyjr43/Xutax,Kelse/troll names, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	["STEAM_0:1:72853997"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	["STEAM_0:0:21513525"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
@@ -19,10 +32,12 @@ local Skiddies = {
 	["STEAM_0:0:72861978"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	["STEAM_0:1:72855120"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	["STEAM_0:0:72845398"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	
 	["STEAM_0:0:128711600"] = "Haruki/l1m3w1r3, leaking code, 'OJ' cheat, attempted bypass, MPGH",
 	["STEAM_0:1:49151402"] = "Robby Phisher/Ampnode/Ampris, selling hacks",
 	["STEAM_0:1:51838685"] = "VeRage, speedhacks",
 	["STEAM_0:1:62956661"] = "Klutch, VAC banned",
+	
 	["STEAM_0:1:19405109"] = "Possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:86309474"] = "Invisible name, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
 	["STEAM_0:1:26966820"] = "Ronin ltas, VAC banned, possible jamieH alt, pasting hacks,Lennys,stealing files, leaking code, fucking ban me",
@@ -50,11 +65,13 @@ local Skiddies = {
 	["STEAM_0:0:50535096"] = "Lord Tyler, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["STEAM_0:1:33966080"] = "Vorox Goodman/sirvolmog, Backdoor/Exploits in addons (sv_purge,mayordeathdemote)",
+	
 	["STEAM_0:1:102403779"] = "cdriza/Connor alt, huge skid, C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:83444632"] = "cdriza/Connor alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:87834515"] = "cdriza/Connor alt, huge skid,C++ hacks,VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:37511807"] = "cdriza/Connor, huge skid, 2x VAC bans,C++ hacks, VAC bans,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion",
 	["STEAM_0:0:30559593"] = "cdriza/Connor/Hafnium alt/Onyx/_ari, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
+	
 	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
 	["STEAM_0:0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, BAN ME",
 	["STEAM_0:0:39379174"] = "DJ SpiderByte/djsb, VAC banned, selling hacks, Member of hack/troll group: gayweedddads, BAN ME",
@@ -64,7 +81,7 @@ local Skiddies = {
 	["STEAM_0:0:18151919"] = "Stan, cheater",
 	["STEAM_0:1:54822367"] = "el_taco_saint/Luke, VAC banned, Murder_ESP,Prop_ESP, ban me",
 	["STEAM_0:0:66582323"] = "Spoiled_Milk/Troll names, Sasha,TreeBot, ban me",
-	["STEAM_0:1:45057227"] = "Suckondeez5/Burnt_Rice, AHack,Lennys,gravko",
+	["STEAM_0:1:45057227"] = "Suckondeez5/Burnt_Rice, AHack,Lennys,gravko,'superaimbot'",
 	["STEAM_0:0:8251700"] = "Fluffy/daniel, 4x VAC bans, speedhacks, Propkiller, troll names",
 	["STEAM_0:0:12089618"] = "Tyguy/alexjohnyoung alt, Skiddie,thack, 12 year old",
 	["STEAM_0:0:46536587"] = "Friend of tyguy/alexjohnyoung, Skiddie,thack, 12 year old",
