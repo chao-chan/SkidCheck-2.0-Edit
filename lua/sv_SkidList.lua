@@ -11,7 +11,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:34824919"] = "Lulz Denz/troll names, VAC banned, hera, Member of hack/troll group: anti-cheatsquad",
 	["STEAM_0:1:70399482"] = "kyuubi/troll names, many hacks, C++ cheats, ban me",
 	
 	["STEAM_0:1:49986466"] = "Coke_Is_Awesome/DarkCoding, 2x VAC bans, AutoAim,KasHack,many hacks,C++ cheats,stealing files, ban me",
