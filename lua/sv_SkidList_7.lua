@@ -8,6 +8,30 @@ local ExtraSkiddies = {
 
 
 
+
+
+	["STEAM_0:1:88308738"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:43356702"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:0:17323003"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:0:60401558"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:35996466"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:108463150"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:0:75790725"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:111995159"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:106157084"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:1:61602265"] = "Member of hack/troll group: faggothackers",
+	["STEAM_0:0:97580129"] = "Member of hack/troll group: merngomafia2k15",
+	["STEAM_0:1:76527981"] = "Member of hack/troll group: merngomafia2k15",
+	["STEAM_0:1:11036"] = "Member of hack/troll group: merngomafia2k15",
+	["STEAM_0:0:115343499"] = "Member of hack/troll group: complimentmyvacban",
+	["STEAM_0:1:117966545"] = "Member of hack/troll group: aimflex",
+	["STEAM_0:1:87975245"] = "Member of hack/troll group: aimflex",
+	["STEAM_0:1:55829783"] = "Member of hack/troll group: Specialretarts",
+	["STEAM_0:0:37433367"] = "Member of hack/troll group: Specialretarts",
+	["STEAM_0:0:133632404"] = "Member of hack/troll group: Specialretarts",
+	["STEAM_0:1:47915755"] = "Member of hack/troll group: Specialretarts",
+	["STEAM_0:1:43123290"] = "Member of hack/troll group: Specialretarts",
+	["STEAM_0:1:51429012"] = "Member of hack/troll group: Specialretarts",
 	["STEAM_0:0:79344012"] = "Member of hack/troll group: ridersoftheprop",
 	["STEAM_0:0:72338804"] = "Member of hack/troll group: ridersoftheprop",
 	["STEAM_0:0:78215537"] = "Member of hack/troll group: ridersoftheprop",
