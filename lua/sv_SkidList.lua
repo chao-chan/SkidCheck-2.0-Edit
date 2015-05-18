@@ -10,7 +10,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:43242652"] = "Troll names, 2x VAC bans",
+	["STEAM_0:1:24223185"] = "HubbaJubba/Carter Reynolds/itsyourboyjuicyj/Cpt.Hubba, admitted to stealing files",
 	["STEAM_0:1:82205555"] = "maxxwadd, mApex",
 	["STEAM_0:1:59766480"] = "frostyyy, sv_allowcslua, 2X vac bans, 'nine_eleven_bot',rhook,dead_aimbot,defcon",
 	["STEAM_0:0:32955110"] = "code_gs, VAC banned, suspected cheater (pHack)",
