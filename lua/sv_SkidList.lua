@@ -10,8 +10,16 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:74983484"] = "Browser/ruskaya, nospread,TrafficHack,bluebot,razor, Member of hack/troll group: AIMWARE",
+	["STEAM_0:0:93504192"] = "The Hood lt3, VAC banned",
+	["STEAM_0:1:49415271"] = "way2gud4csgo, VAC banned",
+	["STEAM_0:1:57019700"] = "WhiteHouse, VAC banned",
+	["STEAM_0:1:54246315"] = "tnucaerauoy, VAC banned",
+	["STEAM_0:0:42115146"] = "EliteJaffaCake, VAC banned",
+	["STEAM_0:0:41487747"] = "Bobben, VAC banned",
+	["STEAM_0:0:49805937"] = "Ftooly VACation, VAC banned",
+	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying hacks",
+	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying hacks, Member of hack/troll group: imnnigggger",
 	["STEAM_0:0:31146760"] = "Troll names, Member of hack/troll groups, BAN ME",
 	["STEAM_0:0:56541555"] = "flowerishack/zombie4282, VAC banned, Member of hack/troll group: kittix",
 	
@@ -1359,7 +1367,7 @@ local Skiddies = {
 	["STEAM_0:0:15278246"] = "2S: AHack",
 	["STEAM_0:1:22442204"] = "Banlist",
 	["STEAM_0:1:20628272"] = "cvar3,Hera",
-	["STEAM_0:1:62445445"] = "Q2F2/Cave Johnson, liquid_aimbot, CAVE cheat",
+	["STEAM_0:1:62445445"] = "Q2F2/Cave Johnson/Troll names, exploiting addons,liquid,Custom hacks: BasedCAVE,Q2HAKE,anticheat truth engineering, seed manipulation,",
 	["STEAM_0:0:41307538"] = "SP2: tame",
 	["STEAM_0:1:33677768"] = "Banlist",
 	["STEAM_0:0:32870947"] = "Banlist",
