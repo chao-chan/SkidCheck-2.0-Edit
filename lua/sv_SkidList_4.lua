@@ -1,7 +1,7 @@
 --#4 - Even more groups
 
 
-ExtraSkiddies = {
+local ExtraSkiddies = {
 	["STEAM_0:0:10513241"] = "Member of hack/troll group: VAC_Disabled",
 	["STEAM_0:0:12205736"] = "Member of hack/troll group: VAC_Disabled",
 	["STEAM_0:0:20453195"] = "Member of hack/troll group: VAC_Disabled",
@@ -3893,7 +3893,6 @@ ExtraSkiddies = {
 	["STEAM_0:0:53685624"] = "SirFluffysServers: Speedhack",
 	["STEAM_0:0:77098899"] = "Member of hack/troll group: kittix",
 	["STEAM_0:0:80086214"] = "SirFluffysServers: OpJayItachi Uchiha, CVars, Lua cheats",
-	["STEAM_0:0:56541555"] = "Member of hack/troll group: kittix",
 	["STEAM_0:0:64981253"] = "Member of hack/troll group: AnonOficial",
 	["STEAM_0:0:10403396"] = "Member of hack/troll group: ORGANNER",
 	["STEAM_0:0:44651198"] = "Member of hack/troll group: kittix",

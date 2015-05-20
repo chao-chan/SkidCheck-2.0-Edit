@@ -11,6 +11,14 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:31146760"] = "Troll names, Member of hack/troll groups, BAN ME",
+	["STEAM_0:0:56541555"] = "flowerishack/zombie4282, VAC banned, Member of hack/troll group: kittix",
+	
+	["STEAM_0:1:113230085"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, Member of hack/troll groups, propkiller",
+	["STEAM_0:0:186057"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, Member of hack/troll groups, propkiller",
+	["STEAM_0:1:2015901"] = "DANKMEOW/Muffler, DDoS, 2x VAC bans, Member of hack/troll groups, propkiller",
+	
 	["STEAM_0:1:80091825"] = "heloplayer/d0shtheking/Troll names, troll groups, Alt STEAM_0:1:103330387",
 	["STEAM_0:1:103330387"] = "heloplayer/d0shtheking/Troll names, alt of STEAM_0:1:80091825",
 	["STEAM_0:0:136832"] = "z0mby/Lancer Trojanman/, VAC Banned, Member of hack/troll group: toughguys",
@@ -285,7 +293,7 @@ local Skiddies = {
 	["STEAM_0:1:58058392"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
 	["STEAM_0:0:93571604"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
 	
-	["STEAM_0:1:53189353"] = "Kawurftha/Ripper/Scetch08, 2x VAC bans, 'You steal the server's files to find out'",
+	["STEAM_0:1:53189353"] = "Kawurftha/Ripper/Scetch08, 2x VAC bans, stealing files, Member of hack/troll group: tabernaclehacking",
 	["STEAM_0:0:83847070"] = "Deagler new, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:1:32634764"] = "Deagler, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:124979748"] = "Deagler alt, dHack, Dismay (stealing files) ban me",
@@ -325,7 +333,6 @@ local Skiddies = {
 	["STEAM_0:1:35715092"] = "Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:18280147"] = "Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:53736769"] = "Sal, backdoor exploits, 2x VAC bans",
-	["STEAM_0:1:113230085"] = "DANKMEOW, member of troll groups, propkiller, DDoS",
 	["STEAM_0:0:41421228"] = "Troll names, troll groups, SIX VAC BANS. BAN ME FOREVER",
 	["STEAM_0:1:50326164"] = "K0IN, VAC ban",
 	["STEAM_0:1:5905033"] = "Nyaaa, Cheater. 2x VAC bans, writing and distributing a GMod bypass",
@@ -2962,7 +2969,7 @@ local Skiddies = {
 	["STEAM_0:0:3251161"] = "Skiddie",
 	["STEAM_0:0:17776505"] = "Banlist",
 	["STEAM_0:1:86737934"] = "no_policy, ban me, sv_cheats",
-	["STEAM_0:1:92585112"] = "0Wn4G3, DDoS threat, 12",
+	["STEAM_0:1:92585112"] = "0Wn4G3/BasZweers, DDoS threat, 12",
 	["STEAM_0:0:40423738"] = "Falcos",
 	["STEAM_0:0:48389999"] = "Nox: speedhacker",
 	["STEAM_0:0:5585985"] = "Banlist",
