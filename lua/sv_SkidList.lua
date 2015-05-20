@@ -10,7 +10,7 @@ local Skiddies = {
 
 
 
-	["STEAM_0:1:74983484"] = "Browser/ruskaya, nospread,TrafficHack,bluebot,razor, Member of hack/troll group: AIMWARE",
+	["STEAM_0:1:74983484"] = "Browser/ruskaya, VAC banned, nospread,TrafficHack,bluebot,razor, Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:93504192"] = "The Hood lt3, VAC banned",
 	["STEAM_0:1:49415271"] = "way2gud4csgo, VAC banned",
 	["STEAM_0:1:57019700"] = "WhiteHouse, VAC banned",
