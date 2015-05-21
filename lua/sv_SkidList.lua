@@ -10,6 +10,18 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+	["STEAM_0:0:75582092"] = "Raser/mirrorzplay, C++ hacks, VAC banned, AHack",
+	["STEAM_0:1:93715261"] = "Jason, C++ hacks, lua/sasha.lua, aimbot",
+	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying hacks",
+	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying hacks, Member of hack/troll group: imnnigggger",
+	["STEAM_0:1:49151402"] = "Ampnode/Robby Phisher/Ampris, selling hacks",
+	["STEAM_0:0:49044220"] = "ampriskeybot, bot used for selling GMod hack 'Ampris'",
+	
 	["STEAM_0:1:74983484"] = "Browser/ruskaya, VAC banned, nospread,TrafficHack,bluebot,razor, Member of hack/troll group: AIMWARE",
 	["STEAM_0:0:93504192"] = "The Hood lt3, VAC banned",
 	["STEAM_0:1:49415271"] = "way2gud4csgo, VAC banned",
@@ -18,8 +30,6 @@ local Skiddies = {
 	["STEAM_0:0:42115146"] = "EliteJaffaCake, VAC banned",
 	["STEAM_0:0:41487747"] = "Bobben, VAC banned",
 	["STEAM_0:0:49805937"] = "Ftooly VACation, VAC banned",
-	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying hacks",
-	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying hacks, Member of hack/troll group: imnnigggger",
 	["STEAM_0:0:31146760"] = "Troll names, Member of hack/troll groups, BAN ME",
 	["STEAM_0:0:56541555"] = "flowerishack/zombie4282, VAC banned, Member of hack/troll group: kittix",
 	
@@ -145,7 +155,6 @@ local Skiddies = {
 	["STEAM_0:0:72845398"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	
 	["STEAM_0:0:128711600"] = "Haruki/l1m3w1r3, leaking code, 'OJ' cheat, attempted bypass, MPGH",
-	["STEAM_0:1:49151402"] = "Robby Phisher/Ampnode/Ampris, selling hacks",
 	["STEAM_0:1:51838685"] = "VeRage, speedhacks",
 	["STEAM_0:1:62956661"] = "Klutch, VAC banned",
 	
