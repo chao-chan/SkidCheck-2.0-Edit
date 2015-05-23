@@ -13,8 +13,15 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
+	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
+	["STEAM_0:0:95111311"] = "Understatement/Jimmy, lua/uskid.lua",
+	
+	["STEAM_0:1:81517884"] = "Mokies, 2x versions of bridgehack,uSkid,razor,Lennys,AnXition",
+	["STEAM_0:0:7291863"] = "Quinn/quinnchero, VAC banned, Lending to cheater (STEAM_0:1:107519835), attempted anticheat bypass,JSP,speedhacks, ban me",
+	["STEAM_0:0:105227395"] = "Quinn/newquinnaccount, VAC banned, Lending to cheater (STEAM_0:1:107519835), attempted anticheat bypass,JSP,speedhacks, ban me",
+	["STEAM_0:1:107519835"] = "fite me/Troll names, attempted anticheat bypass,JSP,speedhacks, Ban Evasion (Alt of STEAM_0:0:105227395, Quinn), ban me",
+	
 	["STEAM_0:0:75582092"] = "Raser/mirrorzplay, C++ hacks, VAC banned, AHack",
 	["STEAM_0:1:93715261"] = "Jason, C++ hacks, lua/sasha.lua, aimbot",
 	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying hacks",
