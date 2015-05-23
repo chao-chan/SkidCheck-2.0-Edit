@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
 	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
 	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
 	["STEAM_0:0:95111311"] = "Understatement/Jimmy, lua/uskid.lua",
@@ -1248,7 +1248,6 @@ local Skiddies = {
 	["STEAM_0:1:80251249"] = "Joey Pixell, Lennys scripts",
 	["STEAM_0:1:42560457"] = "Double You, Lennys scripts",
 	["STEAM_0:1:48372420"] = "WolfynDragon, Lennys scripts",
-	["STEAM_0:0:44628543"] = "Laith_TheDemon, Lennys scripts, Lennys_Group",
 	["STEAM_0:1:64839604"] = "Call Of Duty Pro, Lennys scripts",
 	["STEAM_0:1:56829626"] = "zoomzoomfool, Lennys scripts",
 	["STEAM_0:1:78512916"] = "_ilove911, Lennys scripts",
