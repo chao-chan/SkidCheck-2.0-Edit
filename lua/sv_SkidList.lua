@@ -12,6 +12,14 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:37501294"] = "the swat dk, VAC banned, Lennys scripts",
+	["STEAM_0:0:40798816"] = "Latchy/Troll names, VAC banned, 2S: Cheats",
+	["STEAM_0:1:97494426"] = "wez/woodi, dead_aimbot, cvar3",
+	["STEAM_0:1:53003486"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, VAC banned, Member of hack/troll group: imadeumad",
+	["STEAM_0:0:59915803"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, VAC banned, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
 	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
 	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
@@ -237,7 +245,7 @@ local Skiddies = {
 	["STEAM_0:0:44427696"] = "Obama/Snipwnage, Gangster hack C++, ban me",
 	["STEAM_0:1:92084115"] = "Obama/Snipwnage alt, Gangster hack C++, ban me",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
-	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: a hack a friend did, stealing files",
+	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: 'a hack a friend did', stealing files",
 	["STEAM_0:0:16742"] = "Troll names, Member of hack/troll groups, DDoS, BAN ME FOREVER",
 	["STEAM_0:0:19101478"] = "cancerwarrior/troll names, BAN ME FOREVER",
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",
@@ -2262,7 +2270,8 @@ local Skiddies = {
 	["STEAM_0:1:32768248"] = "Banlist",
 	["STEAM_0:0:36820593"] = "Skiddie",
 	["STEAM_0:0:19765883"] = "Banlist",
-	["STEAM_0:1:78948226"] = "Dismay (stealing files), Vilation: sv_cheats, ban me",
+	["STEAM_0:1:78948226"] = "Korki/KorkiPoo/blunttoker6969/Troll names, Dismay (stealing files), Vilation: sv_cheats, Ban evasion (STEAM_0:1:39805245), ban me",
+	["STEAM_0:1:39805245"] = "Barrelstopper/im sorry/Troll names, modules, Lennys, Ban Evasion (STEAM_0:1:78948226)",
 	["STEAM_0:1:1447684"] = "Banlist",
 	["STEAM_0:0:30413470"] = "Banlist",
 	["STEAM_0:0:27618177"] = "SSDB: BadMetatable",
@@ -5295,7 +5304,6 @@ local Skiddies = {
 	["STEAM_0:0:49009808"] = "SP2: Code Injection",
 	["STEAM_0:0:1488874"] = "Banlist",
 	["STEAM_0:0:71829541"] = "meow meow, Lordhack, 2S: Cheats",
-	["STEAM_0:0:40798816"] = "Latchy, 2S: Cheats",
 	["STEAM_0:0:25869397"] = "aidan",
 	["STEAM_0:1:13374194"] = "Banlist",
 	["STEAM_0:0:68640815"] = "Hollistupid, ban me, custom hacks",
@@ -7552,7 +7560,6 @@ local Skiddies = {
 	["STEAM_0:0:90984434"] = "Neko nya, Ban me, Ban Evasion (Alt of STEAM_0:1:44927647)",
 	["STEAM_0:0:53874479"] = "2S: Cheats",
 	["STEAM_0:1:63646929"] = "Nox: lua_openscript_cl",
-	["STEAM_0:1:39805245"] = "come dance with me buddy, im sorry, modules, Lennys, Ban Evasion (STEAM_0:1:78948226)",
 	["STEAM_0:1:65561318"] = "2S: AHack",
 	["STEAM_0:1:45804198"] = "Nox: lua_openscript_cl shitplayer.lua",
 	["STEAM_0:0:20814373"] = "Banlist",
