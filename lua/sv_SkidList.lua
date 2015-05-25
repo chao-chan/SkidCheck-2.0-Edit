@@ -13,7 +13,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn,VAC banned, 2S: AHack", 
+	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn,VAC banned, 2S: AHack", 
 	["STEAM_0:0:63278775"] = "MokneyBob/XxAssinationxX/Jake Myers/Troll names, DDoS attacks",
 	["STEAM_0:1:37501294"] = "the swat dk, VAC banned, Lennys scripts",
 	["STEAM_0:0:40798816"] = "Latchy/Troll names, VAC banned, 2S: Cheats",
@@ -605,7 +606,6 @@ local Skiddies = {
 	["STEAM_0:1:69148762"] = "2S: Mapex",
 	["STEAM_0:0:67379499"] = "2S: AHack",
 	["STEAM_0:1:49450002"] = "2S: sv_allowcslua bypass",
-	["STEAM_0:0:39199518"] = "2S: AHack",
 	["STEAM_0:1:24334709"] = "2S: AHack",
 	["STEAM_0:0:60488186"] = "2S: Mapex",
 	["STEAM_0:0:60404405"] = "2S: AHack",
