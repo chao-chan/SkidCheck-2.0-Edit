@@ -14,12 +14,12 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:63278775"] = "MokneyBob/XxAssinationxX/Jake Myers/Troll names, DDoS attacks",
 	["STEAM_0:1:37501294"] = "the swat dk, VAC banned, Lennys scripts",
 	["STEAM_0:0:40798816"] = "Latchy/Troll names, VAC banned, 2S: Cheats",
 	["STEAM_0:1:97494426"] = "wez/woodi, dead_aimbot, cvar3",
-	["STEAM_0:1:53003486"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, VAC banned, Member of hack/troll group: imadeumad",
-	["STEAM_0:0:59915803"] = "pyro/DarkPyro/xbeastguyx, Falcos scripts, VAC banned, Member of hack/troll group: imadeumad",
+	["STEAM_0:1:53003486"] = "pyro/DarkPyro, Falcos scripts, darkness/hera, Member of hack/troll group: imadeumad",
+	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
 	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
 	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
