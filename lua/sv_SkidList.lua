@@ -13,14 +13,17 @@ local Skiddies = {
 
 
 
-	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn,VAC banned, 2S: AHack", 
-	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn,VAC banned, 2S: AHack", 
+	["STEAM_0:0:82154876"] = "MtnDewBunney, hera",
+	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, stealing and leaking code, VAC banned, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
+	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
+	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
+	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
 	["STEAM_0:0:63278775"] = "MokneyBob/XxAssinationxX/Jake Myers/Troll names, DDoS attacks",
 	["STEAM_0:1:37501294"] = "the swat dk, VAC banned, Lennys scripts",
 	["STEAM_0:0:40798816"] = "Latchy/Troll names, VAC banned, 2S: Cheats",
 	["STEAM_0:1:97494426"] = "wez/woodi, dead_aimbot, cvar3",
 	["STEAM_0:1:53003486"] = "pyro/DarkPyro, Falcos scripts, darkness/hera, Member of hack/troll group: imadeumad",
-	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Member of hack/troll group: imadeumad",
+	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Lennys scripts, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
 	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
 	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
@@ -4122,7 +4125,6 @@ local Skiddies = {
 	["STEAM_0:1:29070371"] = "Banlist",
 	["STEAM_0:0:15113269"] = "Banlist",
 	["STEAM_0:1:25429973"] = "Various Hacks",
-	["STEAM_0:0:60971854"] = "Dismay (stealing files), gDaap DB: dakilla123, ban me",
 	["STEAM_0:1:29474814"] = "Banlist",
 	["STEAM_0:0:24834331"] = "Banlist",
 	["STEAM_0:0:27942974"] = "trollface",
