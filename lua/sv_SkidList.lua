@@ -11,7 +11,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:39200508"] = "Philip/getrekttime/codeking1998 alt, 2x VAC bans, AHack, attempted server crash",
+	["STEAM_0:0:23511506"] = "Philip/getrekttime/codeking1998, 2x VAC bans, AHack, attempted server crash",
+	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:1:92883147"] = "Domi2301, AHack",
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
