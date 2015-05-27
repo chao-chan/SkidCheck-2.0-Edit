@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:1:92883147"] = "Domi2301, AHack",
 	["STEAM_0:0:82154876"] = "MtnDewBunney, hera",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, stealing and leaking code, VAC banned, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
