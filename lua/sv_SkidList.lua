@@ -14,7 +14,7 @@ local Skiddies = {
 
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:1:92883147"] = "Domi2301, AHack",
-	["STEAM_0:0:82154876"] = "MtnDewBunney, hera",
+	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, stealing and leaking code, VAC banned, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
