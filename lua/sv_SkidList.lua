@@ -10,13 +10,14 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:92883147"] = "KackeHD/Domi2301, AHack, Ban Evasion (Alt STEAM_0:1:114217826)",
+	["STEAM_0:1:114217826"] = "KackeHD/Domi2301 alt, AHack, Ban Evasion (Alt of STEAM_0:1:92883147)",
+	
 	["STEAM_0:0:39200508"] = "Philip/getrekttime/codeking1998 alt, 2x VAC bans, AHack, attempted server crash",
 	["STEAM_0:0:23511506"] = "Philip/getrekttime/codeking1998, 2x VAC bans, AHack, attempted server crash",
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
-	["STEAM_0:1:92883147"] = "Domi2301, AHack",
-	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
+	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, stealing and leaking code, VAC banned, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
@@ -206,7 +207,7 @@ local Skiddies = {
 	["STEAM_0:0:83202816"] = "Lord Tyler alt, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:50535096"] = "Lord Tyler, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
-	["STEAM_0:1:33966080"] = "Vorox Goodman/sirvolmog, Backdoor/Exploits in addons (sv_purge,mayordeathdemote)",
+	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,mayordeathdemote)",
 	
 	["STEAM_0:0:628697407"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:2144575003"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",

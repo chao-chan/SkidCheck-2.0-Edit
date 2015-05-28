@@ -12,6 +12,8 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:1:37814043"] = "Member of hack/troll group: imnnigggger",
+	["STEAM_0:0:53634613"] = "Member of hack/troll group: imnnigggger",
 	["STEAM_0:0:45872956"] = "SwagServers: NForce, lua hacks",
 	["STEAM_0:1:31015925"] = "SwagServers: sodium ethoxide, exploits",
 	["STEAM_0:0:71728396"] = "SwagServers: Magic, Crashing Server + Blaming It On His Brother",
