@@ -10,10 +10,8 @@ local Skiddies = {
 
 
 
-
-
-
-
+	["STEAM_0:1:60447231"] = "aTom, VAC banned, Sasha hack",
+	["STEAM_0:0:11185999"] = "DaReK/TRIDENT/Atom, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
 	["STEAM_0:0:115233959"] = "wakeupfromyourasleep/aim boat', VAC banned/troll names",
 	["STEAM_0:1:92883147"] = "KackeHD/Domi2301, AHack, Ban Evasion (Alt STEAM_0:1:114217826)",
 	["STEAM_0:1:114217826"] = "KackeHD/Domi2301 alt, AHack, Ban Evasion (Alt of STEAM_0:1:92883147)",
@@ -1973,7 +1971,6 @@ local Skiddies = {
 	["STEAM_0:0:3749847"] = "SP2: Unknown",
 	["STEAM_0:1:69516967"] = "CinnamonTr0lls, deus friend",
 	["STEAM_0:0:64001898"] = "MPGH",
-	["STEAM_0:0:11185999"] = "Project-Dead.lua, Falco hack, 2S: Skiddie Scripts",
 	["STEAM_0:1:30862688"] = "Banlist",
 	["STEAM_0:0:18957995"] = "(AoN) Vallis",
 	["STEAM_0:1:47405960"] = "GLDB: Steve The Lizard, Griefing Group",
