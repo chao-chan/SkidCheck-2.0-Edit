@@ -10,6 +10,11 @@ local Skiddies = {
 
 
 
+
+
+
+
+	["STEAM_0:0:115233959"] = "wakeupfromyourasleep/aim boat', VAC banned/troll names",
 	["STEAM_0:1:92883147"] = "KackeHD/Domi2301, AHack, Ban Evasion (Alt STEAM_0:1:114217826)",
 	["STEAM_0:1:114217826"] = "KackeHD/Domi2301 alt, AHack, Ban Evasion (Alt of STEAM_0:1:92883147)",
 	
@@ -105,7 +110,7 @@ local Skiddies = {
 	["STEAM_0:0:100368373"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:1:90731720"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
-	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:0:77568751"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	
 	["STEAM_0:1:18855627"] = "BorhilIan",
