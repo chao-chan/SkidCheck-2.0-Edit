@@ -10,6 +10,11 @@ local Skiddies = {
 
 
 
+
+
+
+
+	["STEAM_0:1:90682003"] = "mr awsome, Sasha hack",
 	["STEAM_0:1:60447231"] = "aTom, VAC banned, Sasha hack",
 	["STEAM_0:0:11185999"] = "DaReK/TRIDENT/Atom, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
 	["STEAM_0:0:115233959"] = "wakeupfromyourasleep/aim boat', VAC banned/troll names",
