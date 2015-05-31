@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-	["STEAM_0:1:116253136"] = "masterkittycat/beefy moot/Troll names, All friends are cheaters",
+	["STEAM_0:1:49654808"] = "pcserverdude/100% troll names, Member of hack/troll group: imnnigggger/fatkids",
 	["STEAM_0:1:90682003"] = "mr awsome, Sasha hack",
 	["STEAM_0:1:60447231"] = "aTom, VAC banned, Sasha hack",
 	["STEAM_0:0:11185999"] = "DaReK/TRIDENT/Atom, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
@@ -126,13 +126,16 @@ local Skiddies = {
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
 	
-	["STEAM_0:1:114266012"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban,50x4",
-	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:0:8447102"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:0:72208515"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:0:115343499"] = "Kittix/f0rmatmypsu/Master kitty/wutarmelon/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
-	["STEAM_0:0:258964"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of hack/troll group: complimentmyvacban",
+	
+	["STEAM_0:1:15435635"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:1:116253136"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:1:114266012"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:8447102"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:72208515"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:115343499"] = "Kittix/f0rmatmypsu/Master kitty/wutarmelon/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:258964"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	
 	["STEAM_0:1:43242652"] = "Troll names, 2x VAC bans",
 	["STEAM_0:1:24223185"] = "HubbaJubba/Carter Reynolds/itsyourboyjuicyj/Cpt.Hubba, admitted to stealing files",
