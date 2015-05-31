@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:116253136"] = "masterkittycat/beefy moot/Troll names, All friends are cheaters",
 	["STEAM_0:1:90682003"] = "mr awsome, Sasha hack",
 	["STEAM_0:1:60447231"] = "aTom, VAC banned, Sasha hack",
 	["STEAM_0:0:11185999"] = "DaReK/TRIDENT/Atom, stealing files,28 skiddie scripts, cvar3,sv_allowcslua,falcos,anxition,propkiller,razor,2S: Skiddie Scripts",
@@ -215,7 +215,7 @@ local Skiddies = {
 	["STEAM_0:0:83202816"] = "Lord Tyler alt, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:50535096"] = "Lord Tyler, 2x VAC bans, Backdoor/Exploits in workshop addons, sv_lordtyler/hammerfall, ban me",
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
-	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,mayordeathdemote)",
+	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,voroxwep,mayordeathdemote)",
 	
 	["STEAM_0:1:119369476"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:628697407"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
