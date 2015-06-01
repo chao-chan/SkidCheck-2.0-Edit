@@ -13,6 +13,12 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
+	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
+	["STEAM_0:0:68738466"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
+	["STEAM_0:0:92482634"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
+	
 	["STEAM_0:1:49654808"] = "pcserverdude/100% troll names, Member of hack/troll group: imnnigggger/fatkids",
 	["STEAM_0:1:90682003"] = "mr awsome, Sasha hack",
 	["STEAM_0:1:60447231"] = "aTom, VAC banned, Sasha hack",
@@ -20,7 +26,6 @@ local Skiddies = {
 	["STEAM_0:0:115233959"] = "wakeupfromyourasleep/'aim boat', VAC banned/troll names",
 	["STEAM_0:1:92883147"] = "KackeHD/Domi2301, AHack, Ban Evasion (Alt STEAM_0:1:114217826)",
 	["STEAM_0:1:114217826"] = "KackeHD/Domi2301 alt, AHack, Ban Evasion (Alt of STEAM_0:1:92883147)",
-	
 	["STEAM_0:0:39200508"] = "Philip/getrekttime/codeking1998 alt, 2x VAC bans, AHack, attempted server crash",
 	["STEAM_0:0:23511506"] = "Philip/getrekttime/codeking1998, 2x VAC bans, AHack, attempted server crash",
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
@@ -145,9 +150,6 @@ local Skiddies = {
 	["STEAM_0:0:33167998"] = "Thelastpenguin, writing hacks (pHack)",
 	["STEAM_0:1:41249453"] = "aStonedPenguin, writing hacks (pHack)",
 	["STEAM_0:0:69139712"] = "Dr. Edward Richtofen, stealing files",
-	["STEAM_0:0:39618012"] = "phoon/Snorflake, DDoS threat, 2x VAC bans, many hacks, 12 year old",
-	["STEAM_0:1:58753229"] = "phoon/Snorflake, DDoS threat, 2x VAC bans, many hacks, 12 year old",
-	["STEAM_0:0:68738466"] = "phoon/Snorflake alt, DDoS threat, 2x VAC bans, many hacks, 12 year old",
 	["STEAM_0:0:88570022"] = "Xildrite, JSP cheat",
 	["STEAM_0:0:34824919"] = "Lulz Denz/troll names, VAC banned, hera, Member of hack/troll group: anti-cheatsquad",
 	["STEAM_0:1:70399482"] = "kyuubi/troll names, many hacks, C++ cheats, ban me",
