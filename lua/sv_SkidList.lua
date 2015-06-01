@@ -131,8 +131,7 @@ local Skiddies = {
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
 	
-	
-	["STEAM_0:1:15435635"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups",
 	["STEAM_0:1:116253136"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:1:114266012"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
