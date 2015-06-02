@@ -12,7 +12,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:50833519"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (Alt of STEAM_0:1:40671233)",
+	["STEAM_0:1:40671233"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (STEAM_0:0:50833519)",
+	
 	["STEAM_0:0:29168159"] = "pezzaisgreat/Buttered Toast/Troll names, Dismay (stealing files), ban me",
 	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
 	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
