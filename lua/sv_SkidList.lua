@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:29168159"] = "pezzaisgreat/Buttered Toast/Troll names, Dismay (stealing files), ban me",
 	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
 	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
 	["STEAM_0:0:68738466"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
@@ -3181,7 +3181,6 @@ local Skiddies = {
 	["STEAM_0:0:217737"] = "Banlist",
 	["STEAM_0:0:32016608"] = "Banlist",
 	["STEAM_0:1:88629101"] = "Dismay (stealing files), ban me",
-	["STEAM_0:0:29168159"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:19039199"] = "SSDB: gm_stringtables.dll",
 	["STEAM_0:1:25352929"] = "Banlist",
 	["STEAM_0:0:38972898"] = "2S: AHack",
