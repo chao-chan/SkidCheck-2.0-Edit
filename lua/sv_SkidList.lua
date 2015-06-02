@@ -12,6 +12,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, hera,member of 3 hack/troll groups",
+	["STEAM_0:0:50528548"] = "warriergod, gDaap,sv_allowcslua, Mapex,sasha hack,defcon,AHack",
 	["STEAM_0:0:50833519"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (Alt of STEAM_0:1:40671233)",
 	["STEAM_0:1:40671233"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (STEAM_0:0:50833519)",
 	
@@ -1990,7 +1993,6 @@ local Skiddies = {
 	["STEAM_0:0:26285276"] = "Banlist",
 	["STEAM_0:0:37790285"] = "Banlist",
 	["STEAM_0:0:37919749"] = "Skiddie",
-	["STEAM_0:0:33099483"] = "polivilas/troll names, hera, VAC banned",
 	["STEAM_0:0:68140512"] = "TerriGod, ban me",
 	["STEAM_0:1:21996971"] = "Nox: Speedhacking",
 	["STEAM_0:0:42185993"] = "Skiddie",

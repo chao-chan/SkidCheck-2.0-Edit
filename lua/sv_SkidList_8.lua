@@ -12,6 +12,22 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:92761198"] = "Member of hack/troll group: VACbannedclub",
+	["STEAM_0:1:105254358"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:119013372"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:88750992"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:89890263"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:121592232"] = "Member of hack/troll group: MEMEWARE",
+	["STEAM_0:1:88560574"] = "Member of hack/troll group: VACBENS",
+	["STEAM_0:1:110482218"] = "Member of hack/troll group: VACBENS",
+	["STEAM_0:1:69139428"] = "Member of hack/troll group: antibirusnet",
+	["STEAM_0:1:119458244"] = "Member of hack/troll group: aimflex",
+	["STEAM_0:0:130313510"] = "Member of hack/troll group: Gangster_Paradise_",
+	["STEAM_0:1:56921552"] = "Member of hack/troll group: complimentmyvacban",
+	["STEAM_0:1:113199669"] = "Member of hack/troll group: CopPast",
+	["STEAM_0:0:118478271"] = "Member of hack/troll group: CopPast",
+	["STEAM_0:0:6921266"] = "Member of hack/troll group: CopPast",
+	["STEAM_0:0:49513121"] = "Member of hack/troll group: CopPast",
 	["STEAM_0:1:24098433"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:65419897"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:38801521"] = "Member of hack/troll group: complimentmyvacban",
