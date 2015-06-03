@@ -12,6 +12,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:51887787"] = "Kaddonnie/Clement, mApex",
 	["STEAM_0:1:75239713"] = "Jimmy Dean/Quad12/Troll names, stealing files, VAC banned, leaking code, huge skid, Member of hack/troll group: GarrysModSpammers, BAN ME FOREVER",
 	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, hera,member of 3 hack/troll groups",
 	["STEAM_0:0:50528548"] = "warriergod, gDaap,sv_allowcslua, Mapex,sasha hack,defcon,AHack",
@@ -19,10 +20,10 @@ local Skiddies = {
 	["STEAM_0:1:40671233"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (STEAM_0:0:50833519)",
 	
 	["STEAM_0:0:29168159"] = "pezzaisgreat/Buttered Toast/Troll names, Dismay (stealing files), ban me",
-	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
-	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
-	["STEAM_0:0:68738466"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
-	["STEAM_0:0:92482634"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,,many hacks,member of many hack/troll groups,12 year old",
+	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
+	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
+	["STEAM_0:0:68738466"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
+	["STEAM_0:0:92482634"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
 	
 	["STEAM_0:1:49654808"] = "pcserverdude/100% troll names, Member of hack/troll group: imnnigggger/fatkids",
 	["STEAM_0:1:90682003"] = "mr awsome, Sasha hack",
@@ -2941,7 +2942,6 @@ local Skiddies = {
 	["STEAM_0:1:65884599"] = "2S: sv_allowcslua",
 	["STEAM_0:0:33078072"] = "SSDB: pp_pixelrender",
 	["STEAM_0:0:41223741"] = "gDaap DB: Scaloled (GoldWolf (Scal))",
-	["STEAM_0:0:40320801"] = "Banlist",
 	["STEAM_0:0:10537318"] = "2S: AHack",
 	["STEAM_0:0:20122220"] = "2S: Hera",
 	["STEAM_0:0:41592262"] = "SoftDrink",
