@@ -157,15 +157,15 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	
 	//Block if enabled
 	if Skid.sk_kick:GetBool() then
-		return false, "You're on the naughty list: <"..Reason..">"
+		return false, "You're on the naughty list: <"..Reason.."> ("..SID..")"
 	end
 end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 
 
-MsgC(Skid.GREEN, "[SkidCheck] Loaded. Will notify of ")
-MsgC(Skid.RED, tostring( table.Count(Skid.HAC_DB) ) )
-MsgC(Skid.GREEN, " skiddies!\n")
+MsgC(Skid.GREEN, 	"[SkidCheck] Loaded. Will notify of ")
+MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ) )
+MsgC(Skid.GREEN, 	" skiddies!\n")
 
 
 

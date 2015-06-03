@@ -12,6 +12,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:89938320"] = "Crayzzit156, sv_allowcslua, sv_cheats, AHack,dead_aimbot,pony hack",
 	["STEAM_0:0:51887787"] = "Kaddonnie/Clement, mApex",
 	["STEAM_0:1:75239713"] = "Jimmy Dean/Quad12/Troll names, stealing files, VAC banned, leaking code, huge skid, Member of hack/troll group: GarrysModSpammers, BAN ME FOREVER",
 	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, hera,member of 3 hack/troll groups",
@@ -742,7 +743,7 @@ local Skiddies = {
 	["STEAM_0:1:57618487"] = "Troll names, hacks",
 	["STEAM_0:0:41191102"] = "d3x alt, history of cheating, ban me",
 	["STEAM_0:1:61792838"] = "dafrekkinnoobest/Troll names, 2x VAC bans, shitposting, RCON exploits, member of 3 hack/troll groups, BAN ME",
-	["STEAM_0:0:100011237"] = "copyandpaster/Troll names, cheater, Member of hack/troll group: imanigga, BAN ME FOREVER",
+	["STEAM_0:0:100011237"] = "copyandpaster/Troll names, DDoS threat, cheater, Member of hack/troll group: imanigga, BAN ME FOREVER",
 	["STEAM_0:0:68756654"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:73307194"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
 	["STEAM_0:1:87481408"] = "Member of hack/troll group: 8Bit_Pro (exploits)",
