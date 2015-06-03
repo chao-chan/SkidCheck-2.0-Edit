@@ -11,7 +11,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:76485743"] = "MoNsTeR_ALEXKILL/MoNsTeR_ALEX57, Mapex, VAC banned, Ban Evasion (Alt of STEAM_0:0:65447692)",
+	["STEAM_0:0:65447692"] = "MoNsTeR_ALEXKILL/MoNsTeR_ALEX57, Mapex, VAC banned, Ban Evasion (STEAM_0:1:76485743)",
 	["STEAM_0:1:89938320"] = "Crayzzit156, sv_allowcslua, sv_cheats, AHack,dead_aimbot,pony hack",
 	["STEAM_0:0:51887787"] = "Kaddonnie/Clement, mApex",
 	["STEAM_0:1:75239713"] = "Jimmy Dean/Quad12/Troll names, stealing files, VAC banned, leaking code, huge skid, Member of hack/troll group: GarrysModSpammers, BAN ME FOREVER",
