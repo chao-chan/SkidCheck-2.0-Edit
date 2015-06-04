@@ -11,6 +11,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:71115287"] = "spaceman/Nikita, 2x VAC bans",
+	["STEAM_0:1:89273093"] = "coachlukasHD, AHack",
 	["STEAM_0:1:76485743"] = "MoNsTeR_ALEXKILL/MoNsTeR_ALEX57, Mapex, VAC banned, Ban Evasion (Alt of STEAM_0:0:65447692)",
 	["STEAM_0:0:65447692"] = "MoNsTeR_ALEXKILL/MoNsTeR_ALEX57, Mapex, VAC banned, Ban Evasion (STEAM_0:1:76485743)",
 	["STEAM_0:1:89938320"] = "Crayzzit156, sv_allowcslua, sv_cheats, AHack,dead_aimbot,pony hack",
