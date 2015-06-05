@@ -10,8 +10,10 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:55009854"] = "CodeGibus/Troll names, admitted hacking, writing hacks, attempted bypass, Member of DDoS/hacking groups",
+	["STEAM_0:1:102830179"] = "Open Sourcerer/'Anon'/Troll names, 24 cheats, VAC banned, attempted bypass, sv_allowcslua, Ban Evasion (Alt of STEAM_0:0:102225297)",
+	["STEAM_0:0:102225297"] = "Open Sourcerer/'Anon'/Troll names, 24 cheats, VAC banned, attempted bypass, sv_allowcslua, Ban Evasion (STEAM_0:1:102830179)",
+	["STEAM_0:1:119613547"] = "Niz/itzniz, copy+pasting a pack of cheating scripts, ban me",
 	["STEAM_0:0:71115287"] = "spaceman/Nikita, 2x VAC bans",
 	["STEAM_0:1:89273093"] = "coachlukasHD, AHack",
 	["STEAM_0:1:76485743"] = "MoNsTeR_ALEXKILL/MoNsTeR_ALEX57, Mapex, VAC banned, Ban Evasion (Alt of STEAM_0:0:65447692)",
@@ -6934,7 +6936,7 @@ local Skiddies = {
 	["STEAM_0:0:36631720"] = "2S: Aimbot",
 	["STEAM_0:1:33518480"] = "Skiddie",
 	["STEAM_0:0:76852681"] = "nerve, Alt of STEAM_0:1:56357048",
-	["STEAM_0:0:69773252"] = "Hafnium, mythik friend, sv_cheats, ban me",
+	["STEAM_0:0:69773252"] = "Hafnium/Ariaa/Chr0nicles/Troll names, LOTS of hacks, sv_cheats, Member of 5 hacking groups, BAN ME FOREVER",
 	["STEAM_0:1:24696322"] = "Banlist",
 	["STEAM_0:1:24115736"] = "SSDB: Name_Enabler.dll",
 	["STEAM_0:1:33285866"] = "2S: BlueBot",
