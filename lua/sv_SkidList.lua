@@ -10,6 +10,12 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:35145949"] = "Loah/mlgluke/Luke Hanham, VAC banned, attacking servers, exploiting prop protection",
+	["STEAM_0:0:65576596"] = "Fluxx/ezy_su8z3r0/DigitalDesiqn alt, VAC banned, attacking servers 'just going to load my crash.dll'",
+	["STEAM_0:1:50127100"] = "Fluxx/ezy_su8z3r0/DigitalDesiqn, VAC banned, attacking servers 'just going to load my crash.dll'",
+	["STEAM_0:0:126846504"] = "Mozeral, attacking servers",
 	["STEAM_0:1:55009854"] = "CodeGibus/Troll names, admitted hacking, writing hacks, attempted bypass, Member of DDoS/hacking groups",
 	["STEAM_0:1:102830179"] = "Open Sourcerer/'Anon'/Troll names, 24 cheats, VAC banned, attempted bypass, sv_allowcslua, Ban Evasion (Alt of STEAM_0:0:102225297)",
 	["STEAM_0:0:102225297"] = "Open Sourcerer/'Anon'/Troll names, 24 cheats, VAC banned, attempted bypass, sv_allowcslua, Ban Evasion (STEAM_0:1:102830179)",
@@ -44,7 +50,7 @@ local Skiddies = {
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
-	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, stealing and leaking code, VAC banned, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
+	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
 	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
@@ -66,8 +72,8 @@ local Skiddies = {
 	
 	["STEAM_0:0:75582092"] = "Raser/mirrorzplay, C++ hacks, VAC banned, AHack",
 	["STEAM_0:1:93715261"] = "Jason, C++ hacks, lua/sasha.lua, aimbot",
-	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying hacks",
-	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying hacks, Member of hack/troll group: imnnigggger",
+	["STEAM_0:0:47591039"] = "Meanyacho/Meanacho1, buying Ampris hack",
+	["STEAM_0:1:60663324"] = "thekingninny/Dan/Ninny, buying Ampris hack, Member of hack/troll group: imnnigggger",
 	["STEAM_0:1:49151402"] = "Ampnode/Robby Phisher/Ampris, selling hacks",
 	["STEAM_0:0:49044220"] = "ampriskeybot, bot used for selling GMod hack 'Ampris'",
 	
@@ -2104,7 +2110,7 @@ local Skiddies = {
 	["STEAM_0:0:68257419"] = "cvar3",
 	["STEAM_0:1:29884665"] = "Banlist",
 	["STEAM_0:0:68203274"] = "gDaap DB: chunker156 (Chebre)",
-	["STEAM_0:0:41543066"] = "gDaap DB: VirusX (Virus)",
+	["STEAM_0:0:41543066"] = "seank124, gDaap DB: VirusX",
 	["STEAM_0:0:74617519"] = "2S: sv_allowcslua",
 	["STEAM_0:0:11002940"] = "Banlist",
 	["STEAM_0:1:15521243"] = "Banlist",
@@ -2196,7 +2202,6 @@ local Skiddies = {
 	["STEAM_0:0:68218737"] = "2S: BlueBot",
 	["STEAM_0:1:51841641"] = "2S: Mapex",
 	["STEAM_0:0:38010792"] = "Banlist",
-	["STEAM_0:1:50127100"] = "ezy_su8z3r0",
 	["STEAM_0:0:40873196"] = "Banlist",
 	["STEAM_0:1:34012034"] = "Banlist",
 	["STEAM_0:1:25734583"] = "gDaap DB: jordylion (JordyLion)",
