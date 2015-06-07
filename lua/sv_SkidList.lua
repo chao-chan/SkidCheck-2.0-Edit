@@ -12,6 +12,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:0:37653422"] = "Janne/DelaYY, FIVE VAC bans!",
 	["STEAM_0:0:35145949"] = "Loah/mlgluke/Luke Hanham, VAC banned, attacking servers, exploiting prop protection",
 	["STEAM_0:0:65576596"] = "Fluxx/ezy_su8z3r0/DigitalDesiqn alt, VAC banned, attacking servers 'just going to load my crash.dll'",
 	["STEAM_0:1:50127100"] = "Fluxx/ezy_su8z3r0/DigitalDesiqn, VAC banned, attacking servers 'just going to load my crash.dll'",
@@ -50,7 +53,7 @@ local Skiddies = {
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
-	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
+	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
 	["STEAM_0:0:109030719"] = "Cpt Sunshine Hoovy/castor troy/Troll names alt, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
