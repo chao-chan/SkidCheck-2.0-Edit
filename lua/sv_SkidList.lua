@@ -240,6 +240,7 @@ local Skiddies = {
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,voroxwep,mayordeathdemote)",
 	
+	["STEAM_0:0:120044119"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:1:119369476"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:628697407"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:2144575003"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
