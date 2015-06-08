@@ -11,8 +11,17 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:90740139"] = "12345lift/Troll/Hack names, Member of hack/troll group: code_4ddicts",
+	["STEAM_0:1:25093207"] = "SniperNoSniping/Troll names, Member of hack/troll group: code_4ddicts",
+	["STEAM_0:1:51922554"] = "Gavin, Troll names, Member of 5 hack/troll groups",
+	["STEAM_0:0:118841215"] = "digital qt alt/Bear/Element/Hack names/possible d3x alt, history of cheating, BAN ME",
+	["STEAM_0:1:93049506"] = "digital qt/Bear/Element/Hack names/possible d3x alt, history of cheating, BAN ME",
+	["STEAM_0:1:7339672"] = "d3x alt, VAC banned, gp_steamid_whitelist.c, history of cheating, BAN ME",
+	["STEAM_0:0:83089480"] = "d3x alt, VAC banned, gp_steamid_whitelist.c, history of cheating, BAN ME",
+	["STEAM_0:0:51634297"] = "d3x, VAC banned, gp_steamid_whitelist.c, history of cheating, BAN ME",
+	["STEAM_0:1:26750957"] = "d3x alt/Troll names, VAC banned, history of cheating, BAN ME",
+	["STEAM_0:1:11068285"] = "Troll names, d3x friend, cheater, Member of hack/troll group: dnkdInc, BAN ME",
+	
 	["STEAM_0:1:61425914"] = "Lies/dardyloominati, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
 	["STEAM_0:0:37653422"] = "Janne/DelaYY, FIVE VAC bans!",
 	["STEAM_0:0:35145949"] = "Loah/mlgluke/Luke Hanham, VAC banned, attacking servers, exploiting prop protection",
@@ -1378,11 +1387,6 @@ local Skiddies = {
 	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
-	["STEAM_0:1:93049506"] = "d3x alt, history of cheating, ban me",
-	["STEAM_0:1:7339672"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
-	["STEAM_0:0:83089480"] = "d3x alt, gp_steamid_whitelist.c, history of cheating, ban me",
-	["STEAM_0:0:51634297"] = "d3x, gp_steamid_whitelist.c, history of cheating, ban me",
-	["STEAM_0:1:11068285"] = "Troll names, d3x friend, cheater, Member of hack/troll group: dnkdInc",
 	["STEAM_0:1:15789263"] = "Banlist",
 	["STEAM_0:0:22247737"] = "SP2: Baconbot",
 	["STEAM_0:0:17231232"] = "CrowBarGaming: CG Nayr",
@@ -2282,6 +2286,7 @@ local Skiddies = {
 	["STEAM_0:0:25452630"] = "Banlist",
 	["STEAM_0:0:23960325"] = "gDaap DB: Godlike (Prince Ali)",
 	["STEAM_0:0:18980599"] = "formatme #realitydubstep",
+	["STEAM_0:1:15212427"] = "formatme alt, Member of hack/troll group: code_4ddicts",
 	["STEAM_0:0:16018224"] = "SP2: Convar forcing",
 	["STEAM_0:0:17493981"] = "Greg, mythik friend, ban me",
 	["STEAM_0:1:72575477"] = "Nox: Hacking",
