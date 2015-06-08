@@ -14,7 +14,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:38747623"] = "Koala/oilkoala/Wil$t r1, 3x VAC bans, Member of hack/troll group: omniscientscripts",
 	["STEAM_0:0:134282504"] = "Troll nanes, cdriza friends",
 	["STEAM_0:1:53385625"] = "AKX, VAC banned, cdriza friends",
 	["STEAM_0:1:116951113"] = "Troll names, VAC banned, cdriza friends",
@@ -263,15 +263,15 @@ local Skiddies = {
 	["STEAM_0:0:58223149"] = "Deyron, Hera,AHack,Sasha hack",
 	["STEAM_0:1:33966080"] = "Vorox Goodman/Afroman/pierremitou/sirvolmog, Backdoor/Exploits in addons (sv_purge,voroxwep,mayordeathdemote)",
 	
-	["STEAM_0:0:120044119"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:1:119369476"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:628697407"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:2144575003"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:103759470"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:1:102403779"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:83444632"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:87834515"] = "cdriza/Connor alt, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
-	["STEAM_0:0:37511807"] = "cdriza/Connor, stealing files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (5 alts)",
+	["STEAM_0:0:120044119"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:1:119369476"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:628697407"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:2144575003"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:103759470"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:1:102403779"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:83444632"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:87834515"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
+	["STEAM_0:0:37511807"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (5 alts)",
 	["STEAM_0:0:30559593"] = "cdriza/Connor/Hafnium alt/Onyx/_ari, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
 	
 	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
