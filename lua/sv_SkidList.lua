@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:61425914"] = "Lies/dardyloominati, 2x VAC bans, stealing files, biggest banlog ever. Over 6000 cheats, BAN ME FOREVER",
 	["STEAM_0:0:37653422"] = "Janne/DelaYY, FIVE VAC bans!",
 	["STEAM_0:0:35145949"] = "Loah/mlgluke/Luke Hanham, VAC banned, attacking servers, exploiting prop protection",
 	["STEAM_0:0:65576596"] = "Fluxx/ezy_su8z3r0/DigitalDesiqn alt, VAC banned, attacking servers 'just going to load my crash.dll'",

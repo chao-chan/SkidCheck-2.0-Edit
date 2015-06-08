@@ -10,7 +10,13 @@ local ExtraSkiddies = {
 
 
 
-
+	["STEAM_0:1:38747623"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:1:64052870"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:0:80160867"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:0:55637611"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:0:87647691"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:0:34227406"] = "Member of hack/troll group: omniscientscripts",
+	["STEAM_0:1:53337546"] = "Member of hack/troll group: omniscientscripts",
 	["STEAM_0:0:64321779"] = "Member of hack/troll group: faggothackers",
 	["STEAM_0:0:78048811"] = "Member of hack/troll group: faggothackers",
 	["STEAM_0:0:132882710"] = "Member of hack/troll group: faggothackers",
