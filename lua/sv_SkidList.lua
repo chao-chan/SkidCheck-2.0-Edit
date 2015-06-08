@@ -11,6 +11,17 @@ local Skiddies = {
 
 
 
+
+
+
+
+	["STEAM_0:0:134282504"] = "Troll nanes, cdriza friends",
+	["STEAM_0:1:53385625"] = "AKX, VAC banned, cdriza friends",
+	["STEAM_0:1:116951113"] = "Troll names, VAC banned, cdriza friends",
+	["STEAM_0:0:91895677"] = "Dashing, VAC banned",
+	["STEAM_0:1:64052870"] = "DarkSoul Alt Acc/Troll names, VAC banned, Member of hack/troll group: omniscientscripts",
+	["STEAM_0:0:96096672"] = "Koala/Troll names, ban me",
+	["STEAM_0:1:18296695"] = "Handsome Matt, VAC banned",
 	["STEAM_0:0:90740139"] = "12345lift/Troll/Hack names, Member of hack/troll group: code_4ddicts",
 	["STEAM_0:1:25093207"] = "SniperNoSniping/Troll names, Member of hack/troll group: code_4ddicts",
 	["STEAM_0:1:51922554"] = "Gavin, Troll names, Member of 5 hack/troll groups",
@@ -146,7 +157,7 @@ local Skiddies = {
 	["STEAM_0:1:68411231"] = "Natecat/idsz, console variable manipulation, clientside lua execution",
 	["STEAM_0:0:43917806"] = "Tie the Terrorist/tymessen, DCInjector",
 	
-	["STEAM_0:0:100368373"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:0:100368373"] = "Users, stealing files,pHack",
 	["STEAM_0:1:90731720"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
 	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
@@ -383,7 +394,7 @@ local Skiddies = {
 	["STEAM_0:0:83847070"] = "Deagler new, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:1:32634764"] = "Deagler, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:124979748"] = "Deagler alt, dHack, Dismay (stealing files) ban me",
-	["STEAM_0:0:37916732"] = "Troll names, VAC banned",
+	["STEAM_0:0:37916732"] = "RoflWaffle/shitfucker86/Troll names, 2x VAC bans",
 	["STEAM_0:1:54454921"] = "Scaro, aim-flex C++ cheats, skiddie",
 	["STEAM_0:0:43504172"] = "mahmood good the niga socrates, Troll names",
 	["STEAM_0:0:102773291"] = "moneybot, skiddie",
@@ -2190,7 +2201,6 @@ local Skiddies = {
 	["STEAM_0:1:24418752"] = "Banlist",
 	["STEAM_0:1:6076942"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:0:45114256"] = "Banlist",
-	["STEAM_0:0:39690375"] = "Troll names, Exploits, SP2: Code injection (Sethhack)",
 	["STEAM_0:1:59354291"] = "2S: sv_allowcslua",
 	["STEAM_0:0:47809816"] = "gDaap DB: dustynigga (xXB00TYM33TXx)",
 	["STEAM_0:0:20495521"] = "[RevG] Devvy",
@@ -2285,6 +2295,7 @@ local Skiddies = {
 	["STEAM_0:0:38362287"] = "SP2: Sethhack",
 	["STEAM_0:0:25452630"] = "Banlist",
 	["STEAM_0:0:23960325"] = "gDaap DB: Godlike (Prince Ali)",
+	["STEAM_0:0:39690375"] = "formatme/Troll names, Exploits, SP2: Code injection (Sethhack), BAN ME",
 	["STEAM_0:0:18980599"] = "formatme #realitydubstep",
 	["STEAM_0:1:15212427"] = "formatme alt, Member of hack/troll group: code_4ddicts",
 	["STEAM_0:0:16018224"] = "SP2: Convar forcing",
@@ -4758,7 +4769,7 @@ local Skiddies = {
 	["STEAM_0:0:34052885"] = "Skiddie",
 	["STEAM_0:0:41181958"] = "Banlist",
 	["STEAM_0:1:68378379"] = "2S: AHack",
-	["STEAM_0:0:40657861"] = "Niller303/GhoztRec0n, Dismay (stealing files),hera, fucking ban me.",
+	["STEAM_0:0:40657861"] = "Niller303/GhoztRec0n, Dismay (stealing files), 2x VAC bans, hera, FUCKING BAN ME",
 	["STEAM_0:0:48862496"] = "Lennys_Group",
 	["STEAM_0:0:24205901"] = "Banlist",
 	["STEAM_0:0:11008196"] = "Banlist",
@@ -5291,6 +5302,7 @@ local Skiddies = {
 	["STEAM_0:0:12230876"] = "Banlist",
 	["STEAM_0:0:49594806"] = "Propkiller",
 	["STEAM_0:0:18329169"] = "Banlist",
+	["STEAM_0:1:28770633"] = "LuaStoned alt, running HackVsHack server, many many cheats",
 	["STEAM_0:1:15858852"] = "LuaStoned, running HackVsHack server, many many cheats",
 	["STEAM_0:1:27043140"] = "Banlist",
 	["STEAM_0:1:59601079"] = "Devry, Troll names, VAC ban, Propkiller",
@@ -7374,7 +7386,7 @@ local Skiddies = {
 	["STEAM_0:1:24828187"] = "go.lua",
 	["STEAM_0:1:26404233"] = "SSDB: BadMetatable",
 	["STEAM_0:0:81700087"] = "YouMustBeVeryDumb, Ban Evasion (Alt of STEAM_0:1:74595103)",
-	["STEAM_0:0:17302808"] = "c-unit",
+	["STEAM_0:0:17302808"] = "c-unit, VAC banned, many hacks",
 	["STEAM_0:1:63849706"] = "SC-TTT: sv_allowcslua",
 	["STEAM_0:0:37641228"] = "SP2: Code injection (Sethhack), 2S: Cheats",
 	["STEAM_0:1:26591565"] = "2S: Skiddie Scripts",
