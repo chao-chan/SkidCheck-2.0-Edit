@@ -8,9 +8,7 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:0:52599295"] = "GamingRetro/Sam Yund, C++ hacks, Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
 	["STEAM_0:0:135903246"] = "Solaris/Gnome alt 2, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
 	["STEAM_0:0:65800028"] = "Solaris/Gnome alt, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
@@ -79,6 +77,7 @@ local Skiddies = {
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
+	["STEAM_0:0:86385858"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names alt, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
 	["STEAM_0:0:39199518"] = "Cpt Sunshine Hoovy/castor troy/Troll names, VAC banned, cvar3,AHack,stealing files,pony_bypass,dead_aimbot,GEAR2,acidburn, 2S: AHack", 
@@ -1364,7 +1363,6 @@ local Skiddies = {
 	["STEAM_0:1:81758887"] = "'BestCheat'",
 	["STEAM_0:1:61474438"] = "MaxiM, sv_cheats/aimbot",
 	["STEAM_0:1:90074222"] = "sv_cheats",
-	["STEAM_0:1:53391542"] = "Aimbot",
 	["STEAM_0:0:37568296"] = "Troll name, Asking for hacks",
 	["STEAM_0:1:30747019"] = "Little shanie/ThatGuy, Wallhack/ESP, asking for hacks 'Give me BlueBot hacks please'",
 	["STEAM_0:0:88149263"] = "Bad hooks",
@@ -2626,7 +2624,7 @@ local Skiddies = {
 	["STEAM_0:1:17895924"] = "Falco hack, 2S: Skiddie Scripts",
 	["STEAM_0:0:25219666"] = "Blueman #2",
 	["STEAM_0:0:14598615"] = "Ban Evasion (STEAM_0:1:78093404)",
-	["STEAM_0:0:42188210"] = "Banlist",
+	["STEAM_0:0:42188210"] = "",
 	["STEAM_0:1:20303838"] = "Banlist",
 	["STEAM_0:0:80987472"] = "2S: sv_allowcslua",
 	["STEAM_0:0:12195073"] = "Banlist",
