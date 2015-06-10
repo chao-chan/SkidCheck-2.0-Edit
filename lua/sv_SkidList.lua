@@ -8,6 +8,13 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+
+	["STEAM_0:1:56736013"] = "Super-poney, Mapex,FMurder,ESP",
 	["STEAM_0:0:52599295"] = "GamingRetro/Sam Yund, C++ hacks, Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
 	["STEAM_0:0:135903246"] = "Solaris/Gnome alt 2, VAC banned, stealing files, sv_cheats,gdaap,hera,ampris,illya,nanohack,BigHack,dead_aimbot, Ban Evasion (Alt of STEAM_0:1:49507627)",
