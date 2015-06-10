@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep, C++ hacks, Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:56736013"] = "Super-poney, Mapex,FMurder,ESP",
 	["STEAM_0:0:52599295"] = "GamingRetro/Sam Yund, C++ hacks, Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
