@@ -13,7 +13,12 @@ local Skiddies = {
 
 
 
-	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep, C++ hacks, Member of hack/troll group: MEMEWARE",
+
+	["STEAM_0:1:46230933"] = "Votton/VottonHD, 3x VAC bans, stealing files, gDaap,cvar3,nospread,JSP,RCON hacking,memeware,ampris, BAN ME FOREVER",
+	["STEAM_0:1:18955910"] = "McSnip, stealing files, hacks",
+	["STEAM_0:1:90500208"] = "Naminu/Troll names, 2x VAC bans",
+	["STEAM_0:0:32374738"] = "Tevran/Dracqar, DDoS",
+	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep/tooret fock, C++ hacks, Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:56736013"] = "Super-poney, Mapex,FMurder,ESP",
 	["STEAM_0:0:52599295"] = "GamingRetro/Sam Yund, C++ hacks, Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
@@ -7499,7 +7504,7 @@ local Skiddies = {
 	["STEAM_0:0:55259111"] = "SSDB: engineConsoleCommand",
 	["STEAM_0:1:19487854"] = "Skiddie",
 	["STEAM_0:0:40916020"] = "SSDB: engineConsoleCommand",
-	["STEAM_0:0:8120439"] = "SSDB: Detours",
+	["STEAM_0:0:8120439"] = "Troll names, VAC banned, possible sykranos alt, SSDB: Detours",
 	["STEAM_0:0:41803971"] = "LESP",
 	["STEAM_0:0:29400918"] = "Banlist",
 	["STEAM_0:1:47908630"] = "2S: AHack",
@@ -7822,7 +7827,6 @@ local Skiddies = {
 	["STEAM_0:0:30863254"] = "Banlist",
 	["STEAM_0:0:20743276"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:0:60959023"] = "2S: AHack",
-	["STEAM_0:1:18955910"] = "McSimp, Hacks",
 	["STEAM_0:0:40418112"] = "Saucy",
 	["STEAM_0:1:44511758"] = "dese/quintosh",
 	["STEAM_0:1:29932662"] = "Blackops.cfg",
@@ -7893,7 +7897,6 @@ local Skiddies = {
 	["STEAM_0:1:24335624"] = "Banlist",
 	["STEAM_0:0:24294040"] = "Banlist",
 	["STEAM_0:1:5762375"] = "Link2006",
-	["STEAM_0:1:46230933"] = "gDaap DB: VottonHD (VottonHD)",
 	["STEAM_0:1:36225130"] = "Hacking, 2S: BHop script",
 	["STEAM_0:1:26596622"] = "Banlist",
 	["STEAM_0:0:33438782"] = "Banlist",
