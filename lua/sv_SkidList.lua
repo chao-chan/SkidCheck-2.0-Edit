@@ -9,11 +9,6 @@ local Skiddies = {
 
 
 
-
-
-
-
-
 	["STEAM_0:1:46230933"] = "Votton/VottonHD, 3x VAC bans, stealing files, gDaap,cvar3,nospread,JSP,RCON hacking,memeware,ampris, BAN ME FOREVER",
 	["STEAM_0:1:18955910"] = "McSnip, stealing files, hacks",
 	["STEAM_0:1:90500208"] = "Naminu/Troll names, 2x VAC bans",
@@ -170,7 +165,7 @@ local Skiddies = {
 	["STEAM_0:1:102794407"] = "Ey B0SS/Zenaku, VAC banned, Console variable manipulation",
 	["STEAM_0:0:114094523"] = "CyberWarrior/fEAGT/EThug Mio/troll names",
 	["STEAM_0:1:81400129"] = "bonnie/EThug Mashiro/troll names",
-	["STEAM_0:0:85871039"] = "railslut/_cyr/troll names",
+	["STEAM_0:0:85871039"] = "railslut/_cyr/troll names, leaking code",
 	["STEAM_0:1:68411231"] = "Natecat/idsz, console variable manipulation, clientside lua execution",
 	["STEAM_0:0:43917806"] = "Tie the Terrorist/tymessen, DCInjector",
 	
@@ -3388,7 +3383,7 @@ local Skiddies = {
 	["STEAM_0:0:68368709"] = "FaZe Temperrr, ampbot",
 	["STEAM_0:1:41221427"] = "Banlist",
 	["STEAM_0:1:52445673"] = "2S: AHack",
-	["STEAM_0:0:41876886"] = "Nox/Troll namese, C++ cheats, Hacking on an alt account",
+	["STEAM_0:0:41876886"] = "Nox/Troll namese, C++ cheats, Hacking on an alt account, leaking code",
 	["STEAM_0:0:43709814"] = "Cobs",
 	["STEAM_0:0:14325047"] = "Banlist",
 	["STEAM_0:0:44383450"] = "Banlist",
