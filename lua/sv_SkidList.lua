@@ -9,6 +9,12 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+	["STEAM_0:0:58570342"] = "Capptein.T.T.S, VAC banned, sv_allowcslua, defcon_aimbot,Mapex,nanohack, 2S: sv_allowcslua",
 	["STEAM_0:1:46230933"] = "Votton/VottonHD, 3x VAC bans, stealing files, gDaap,cvar3,nospread,JSP,RCON hacking,memeware,ampris, BAN ME FOREVER",
 	["STEAM_0:1:18955910"] = "McSnip, stealing files, hacks",
 	["STEAM_0:1:90500208"] = "Naminu/Troll names, 2x VAC bans",
@@ -1384,7 +1390,7 @@ local Skiddies = {
 	["STEAM_0:0:88383929"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:59636496"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:79101794"] = "Ban me, gp_steamid_whitelist.c",
-	["STEAM_0:1:44840799"] = "Ban me, gp_steamid_whitelist.c",
+	["STEAM_0:1:44840799"] = "Strafola/HappyLlama, 3x VAC bans, Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:51192130"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:85787876"] = "Ban me, gp_steamid_whitelist.c",
 	["STEAM_0:1:21406310"] = "Ban me, gp_steamid_whitelist.c",
@@ -4424,7 +4430,6 @@ local Skiddies = {
 	["STEAM_0:0:27973261"] = "Blackops.cfg",
 	["STEAM_0:1:32890178"] = "the creampie kid, tanex89",
 	["STEAM_0:1:11928918"] = "gHack, 2S: gHack",
-	["STEAM_0:0:58570342"] = "2S: sv_allowcslua",
 	["STEAM_0:0:20078865"] = "Banlist",
 	["STEAM_0:0:22039036"] = "Banlist",
 	["STEAM_0:1:56214509"] = "Lou Tenant Brody, Falcos",
