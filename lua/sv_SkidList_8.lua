@@ -2,18 +2,6 @@
 
 
 local ExtraSkiddies = {
-
-
-
-
-
-
-
-
-
-
-
-
 	["STEAM_0:0:54660585"] = "Member of hack/troll group: VACLifetimeMembership",
 	["STEAM_0:0:55343238"] = "Member of hack/troll group: coolestkidsontheblock",
 	["STEAM_0:1:38696852"] = "Member of hack/troll group: coolestkidsontheblock",
