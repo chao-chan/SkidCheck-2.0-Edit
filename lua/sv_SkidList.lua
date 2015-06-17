@@ -12,6 +12,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:92721588"] = "Dark white, falco's scripts",
+	["STEAM_0:0:122194318"] = "CHATOT3, DDoS, VAC banned",
+	["STEAM_0:1:120338831"] = "satori, skiddie, ban me",
 	["STEAM_0:1:56517146"] = "ugottricked/Moe Szyslak/Troll names, VAC banned",
 	["STEAM_0:0:17652506"] = "Kigo/KiiGz/Kiglet, 2x VAC bans, member of hack/troll groups",
 	["STEAM_0:1:49878498"] = "Devin Wolf/Troll names, 2x VAC bans, Fire-Hack",
