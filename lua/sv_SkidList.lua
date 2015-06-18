@@ -13,6 +13,15 @@ local Skiddies = {
 
 
 
+
+
+
+
+	["STEAM_0:0:43729643"] = "Map backdoor",
+	["STEAM_0:1:33127709"] = "Map backdoor",
+	["STEAM_0:0:39840171"] = "Map backdoor",
+	["STEAM_0:1:28979300"] = "Map backdoor",
+	["STEAM_0:0:102562320"] = "Troll names, uSkid, possible alt of Sir Exalot (STEAM_0:0:47795844, stealing files, sv_cheats,gDaap,JSP,nospread,exploits,sasha,MPGH)",
 	["STEAM_0:0:118936695"] = "BantaMaster2000/masterintensedev, Aimware, stealing files",
 	["STEAM_0:0:47795844"] = "Sir. Exalot/Sniper Schnitzel Warrior, stealing files, sv_cheats,gDaap,JSP,nospread,exploits,sasha,MPGH",
 	["STEAM_0:1:55463717"] = "Eos/PropGamer/insensibility, 2x VAC bans",
@@ -118,9 +127,9 @@ local Skiddies = {
 	["STEAM_0:1:53003486"] = "pyro/DarkPyro, Falcos scripts, darkness/hera, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Lennys scripts, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
-	["STEAM_0:0:41045922"] = "Josh/Troll names, lua/uskid.lua",
-	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, lua/uskid.lua",
-	["STEAM_0:0:95111311"] = "Understatement/Jimmy, lua/uskid.lua",
+	["STEAM_0:0:41045922"] = "Josh/Troll names, XMenu cheat, lua/uskid.lua",
+	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, Xmenu cheat, lua/uskid.lua",
+	["STEAM_0:0:95111311"] = "Understatement/Jimmy, Xmenu cheat, lua/uskid.lua",
 	
 	["STEAM_0:1:81517884"] = "Mokies, 2x versions of bridgehack,uSkid,razor,Lennys,AnXition",
 	["STEAM_0:0:7291863"] = "Quinn/quinnchero, VAC banned, Lending to cheater (STEAM_0:1:107519835), attempted anticheat bypass,JSP,speedhacks, ban me",
@@ -202,7 +211,7 @@ local Skiddies = {
 	["STEAM_0:0:62209911"] = "Invisible name",
 	["STEAM_0:1:117853397"] = "Lizard Squad Satori, VAC banned",
 	["STEAM_0:1:58022559"] = "AnUnlaidEgg, VAC banned",
-	["STEAM_0:0:56486352"] = "Regan, VAC banned, Member of hack/troll group: theexploitersco",
+	["STEAM_0:0:56486352"] = "Regan, VAC banned, Xmenu cheat, Member of hack/troll group: theexploitersco",
 	["STEAM_0:1:95997606"] = "DANGO Jay, VAC banned, Member of hack/troll group: DangoMafia",
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
