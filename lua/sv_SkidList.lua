@@ -13,6 +13,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:118936695"] = "BantaMaster2000/masterintensedev, Aimware, stealing files",
+	["STEAM_0:0:47795844"] = "Sir. Exalot/Sniper Schnitzel Warrior, stealing files, sv_cheats,gDaap,JSP,nospread,exploits,sasha,MPGH",
 	["STEAM_0:1:55463717"] = "Eos/PropGamer/insensibility, 2x VAC bans",
 	["STEAM_0:1:30044389"] = "SRGTops 7, VAC banned, sv_allowcslua, CheatEngine,kawaii,defcon,naisho,AHack,Ilya,razor,MPGH",
 	["STEAM_0:0:92721588"] = "Dark white, falco's scripts",
