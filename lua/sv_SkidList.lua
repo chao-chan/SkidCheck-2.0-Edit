@@ -13,6 +13,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:55463717"] = "Eos/PropGamer/insensibility, 2x VAC bans",
+	["STEAM_0:1:30044389"] = "SRGTops 7, VAC banned, sv_allowcslua, CheatEngine,kawaii,defcon,naisho,AHack,Ilya,razor,MPGH",
 	["STEAM_0:0:92721588"] = "Dark white, falco's scripts",
 	["STEAM_0:0:122194318"] = "CHATOT3, DDoS, VAC banned",
 	["STEAM_0:1:120338831"] = "satori, skiddie, ban me",
@@ -219,7 +221,7 @@ local Skiddies = {
 	["STEAM_0:1:59766480"] = "frostyyy, sv_allowcslua, 2X vac bans, 'nine_eleven_bot',rhook,dead_aimbot,defcon",
 	["STEAM_0:0:32955110"] = "code_gs, VAC banned, suspected cheater (pHack)",
 	["STEAM_0:0:33167998"] = "Thelastpenguin, writing hacks (pHack)",
-	["STEAM_0:1:41249453"] = "aStonedPenguin, writing hacks (pHack)",
+	["STEAM_0:1:41249453"] = "aStonedPenguin/zach, writing hacks (pHack)",
 	["STEAM_0:0:69139712"] = "Dr. Edward Richtofen, stealing files",
 	["STEAM_0:0:88570022"] = "Xildrite, JSP cheat",
 	["STEAM_0:0:34824919"] = "Lulz Denz/troll names, VAC banned, hera, Member of hack/troll group: anti-cheatsquad",
