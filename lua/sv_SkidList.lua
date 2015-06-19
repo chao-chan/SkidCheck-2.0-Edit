@@ -17,6 +17,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:92343469"] = "LeSomnifere, 2x VAC bans",
 	["STEAM_0:0:43729643"] = "Map backdoor",
 	["STEAM_0:1:33127709"] = "Map backdoor",
 	["STEAM_0:0:39840171"] = "Map backdoor",
