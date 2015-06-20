@@ -1,4 +1,4 @@
---#1 - Banned by HAC/discovered from forums/cheats/steam profiles etc
+--#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc
 
 
 local Skiddies = {
@@ -17,6 +17,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:40957330"] = "Troll names",
+	["STEAM_0:0:46460299"] = "Troll names",
 	["STEAM_0:0:92343469"] = "LeSomnifere, 2x VAC bans",
 	["STEAM_0:0:43729643"] = "Map backdoor",
 	["STEAM_0:1:33127709"] = "Map backdoor",

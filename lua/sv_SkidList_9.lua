@@ -18,7 +18,27 @@ local ExtraSkiddies = {
 
 
 
-
+	["STEAM_0:0:110507213"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:64623103"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:53352069"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:6042408"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:134501538"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:89715315"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:100037829"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:50269935"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:94962573"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:24964108"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:30445753"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:64800182"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:86402428"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:1:52915361"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:88469196"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:94561873"] = "Member of hack/troll group: stealthyfuckers",
+	["STEAM_0:0:59878557"] = "Member of hack/troll group: TubSquad",
+	["STEAM_0:1:71483543"] = "Member of hack/troll group: TubSquad",
+	["STEAM_0:1:66438942"] = "Member of hack/troll group: TubSquad",
+	["STEAM_0:0:33030633"] = "Member of hack/troll group: TubSquad",
+	["STEAM_0:1:60426754"] = "Member of hack/troll group: TubSquad",
 	["STEAM_0:0:69870078"] = "Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:0:73005097"] = "Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:0:16659"] = "Member of hack/troll group: bombasscombo",
