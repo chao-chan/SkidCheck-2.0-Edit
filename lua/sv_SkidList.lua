@@ -16,8 +16,10 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:41852032"] = "ThaRealCamotrax/camotrax alt, 2x VAC bans",
+	["STEAM_0:1:26141130"] = "ThaRealCamotrax/camotrax, 2x VAC bans",
+	["STEAM_0:1:3148654"] = "Reverze Jack/Milan/OrkaBruecke0627, stealing files, JSP cheat,cvar3,sasha",
+	["STEAM_0:1:61639620"] = "SlaxOne/philipp7248/philipp wahlich, stealing files, JSP cheat,cvar3,nano.lua",
 	["STEAM_0:1:40957330"] = "Troll names",
 	["STEAM_0:0:46460299"] = "Troll names",
 	["STEAM_0:0:92343469"] = "LeSomnifere, 2x VAC bans",
