@@ -16,6 +16,10 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:88001155"] = "Potato/TheTerribleTroller, anxition",
+	["STEAM_0:1:54067661"] = "Chronic_Nobody/0Beef, defcon.lua",
+	["STEAM_0:0:85282974"] = "Pykh on duty/Andearheagh/Andreea, Falcos scripts"
 	["STEAM_0:1:41852032"] = "ThaRealCamotrax/camotrax alt, 2x VAC bans",
 	["STEAM_0:1:26141130"] = "ThaRealCamotrax/camotrax, 2x VAC bans",
 	["STEAM_0:1:3148654"] = "Reverze Jack/Milan/OrkaBruecke0627, stealing files, JSP cheat,cvar3,sasha",
