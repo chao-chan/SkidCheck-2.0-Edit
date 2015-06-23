@@ -1,4 +1,4 @@
---#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc
+ --#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc
 
 
 local Skiddies = {
@@ -17,6 +17,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:102114323"] = "baron2014500, VAC banned, mApex.lua",
 	["STEAM_0:0:15074561"] = "Osama Bin Putin/Wicks, 3x VAC bans",
 	["STEAM_0:1:88001155"] = "Potato/TheTerribleTroller, anxition",
 	["STEAM_0:1:54067661"] = "Chronic_Nobody/0Beef, defcon.lua",
