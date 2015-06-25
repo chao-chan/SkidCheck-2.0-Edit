@@ -8,18 +8,17 @@ if HAC then
 	return
 end
 
-include("sh_SK.lua")
-
 Skid.WaitFor 	= 25 --Seconds to wait before message
-Skid.sk_kick 	= CreateConVar("sk_kick",  1, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
-Skid.sk_omit 	= CreateConVar("sk_omit",  0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
-Skid.sk_admin	= CreateConVar("sk_admin", 0, FCVAR_ARCHIVE, "Only send SK messages to admins (Useless if sk_kick or sk_omit is 1)")
+Skid.sk_kick 	= CreateConVar("sk_kick",	1, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
+Skid.sk_omit 	= CreateConVar("sk_omit",	0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
+Skid.sk_admin	= CreateConVar("sk_admin",	0, FCVAR_ARCHIVE, "Only send SK messages to admins (Useless if sk_kick or sk_omit is 1)")
+Skid.sk_sync	= CreateConVar("sk_sync",	6, FCVAR_ARCHIVE, "Allow list sync from GitHub? value == hours to check for updates (0 to disable)")
 
-AddCSLuaFile("sh_SK.lua")
+
+AddCSLuaFile("autorun/sh_SK.lua")
 AddCSLuaFile("autorun/client/cl_SK.lua")
 
 util.AddNetworkString("Skid.Msg")
-
 
 
 //Load lists
@@ -30,19 +29,13 @@ function table.MergeEx(from,dest)
 	from = nil
 end
 
+Skid.Lists = file.Find("lua/SkidCheck/sv_SkidList*.lua", "GAME", "nameasc")
+
 HAC = { Skiddies = {} }
-	//Groups
-	include("sv_SkidList_9.lua")
-	include("sv_SkidList_8.lua")
-	include("sv_SkidList_7.lua")
-	include("sv_SkidList_6.lua")
-	include("sv_SkidList_5.lua")
-	include("sv_SkidList_4.lua")
-	include("sv_SkidList_3.lua")
-	include("sv_SkidList_2.lua")
-	
-	//Main
-	include("sv_SkidList.lua")
+	//Must load in reverse order! 9 > 1
+	for k,v in pairs(Skid.Lists) do
+		include("SkidCheck/"..v)
+	end
 	
 	Skid.HAC_DB = HAC.Skiddies
 HAC = nil
@@ -138,10 +131,13 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	local Reason = Skid.HAC_DB[ SID ]
 	if not Reason then return end
 	
+	//Log
+	file.Append("sk_blocked.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason) )
+	
 	//Message
 	MsgC(Skid.GREY, "\n[")
 	MsgC(Skid.WHITE2, "Skid")
-	MsgC(Skid.BLUE, "Check-")
+	MsgC(Skid.BLUE, "Check")
 	MsgC(Skid.ORANGE, "Connect")
 	MsgC(Skid.GREY, "] ")
 	MsgC(Skid.RED, user)
@@ -152,10 +148,6 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	MsgC(Skid.RED, Reason)
 	MsgC(Skid.GREY, ">")
 	
-	//Log
-	local Log = Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason)
-	file.Append("sk_blocked.txt", Log)
-	
 	//Block if enabled
 	if Skid.sk_kick:GetBool() then
 		return false, "You're on the naughty list: <"..Reason.."> ("..SID..")"
@@ -164,11 +156,26 @@ end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 
 
-MsgC(Skid.GREEN, 	"[SkidCheck] Loaded. Will notify of ")
-MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ) )
-MsgC(Skid.GREEN, 	" skiddies!\n")
 
+//List sync from GitHub
+Skid.CanSync = ""
+if Skid.sk_sync:GetBool() and file.Exists("sk_Sync.lua", "LUA") then
+	Skid.CanSync = " (Will sync on map change)"
+	
+	include("sk_Sync.lua")
+end
 
+//Loaded
+function Skid.Ready()
+	MsgC(Skid.GREY, 	"\n[")
+	MsgC(Skid.WHITE2, 	"Skid")
+	MsgC(Skid.BLUE, 	"Check")
+	MsgC(Skid.GREY, 	"] ")
+	MsgC(Skid.GREEN, 	"Ready. Checking ")
+	MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ):Comma() )
+	MsgC(Skid.GREEN, 	" bad players!"..Skid.CanSync.."\n\n")
+end
+timer.Simple(1, Skid.Ready)
 
 
 

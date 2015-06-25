@@ -3,7 +3,6 @@
 	--By HeX
 */
 
-include("sh_SK.lua")
 
 //Message
 function Skid.Msg()

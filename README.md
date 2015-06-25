@@ -10,10 +10,8 @@ Check back here often, more IDs added almost daily!
 
 How to use:
 Nothing is needed to configure or set up (Unless you want to). Default is to prevent
-connection to the server if the player is on the DB.
-
-Commands:
-sk            --Does a re-check of everyone in game, does the sound and message.
+connection to the server if the player is on the database, and to update the database
+from GitHub on server map change, and every 6 hours after.
 
 CVars:
 sk_kick  1/0  --Prevent players who are in the DB from joining.
@@ -24,6 +22,16 @@ OFF by default, useless if sk_kick or sk_admin is 1
 
 sk_admin 0/1  --Only send SK messages to admins.
 OFF by default, useless if sk_kick or sk_omit is 1
+
+sk_sync  6/0  --Allow list sync from GitHub? value == hours to check for updates.
+ON by default
+
+
+Commands:
+sk            --Does a re-check of everyone in game, does the sound and message.
+
+sk_update     --Sync all lists rignt now, usually runs every sk_sync hours
+
 
 
 Logs (in the /data folder):
