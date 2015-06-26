@@ -141,7 +141,7 @@ function Skid.Sync.GetIndex()
 	
 	local Index = {}
 	
-	http.Fetch("https://api.github.com/repositories/22792657/contents/lua", function(body)
+	http.Fetch("https://api.github.com/repositories/22792657/contents/lua/SkidCheck", function(body)
 		//body
 		if not ( isstring(body) and #body > 9 ) then
 			Error("GitHub body error (Got "..tostring(body)..")")
@@ -150,7 +150,7 @@ function Skid.Sync.GetIndex()
 		
 		//JSON
 		body = util.JSONToTable(body)
-		if not ( istable(body) and #body > 9 ) then
+		if not ( istable(body) and #body >= 9 ) then
 			Error("GitHub JSON decode error (Got "..type(body)..")")
 			return
 		end

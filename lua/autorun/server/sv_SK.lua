@@ -159,7 +159,7 @@ hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 
 //List sync from GitHub
 Skid.CanSync = ""
-if Skid.sk_sync:GetBool() and file.Exists("sk_Sync.lua", "LUA") then
+if Skid.sk_sync:GetBool() then
 	Skid.CanSync = " (Will sync on map change)"
 	
 	include("sk_Sync.lua")
