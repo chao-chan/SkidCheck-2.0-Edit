@@ -13,8 +13,7 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:74304413"] = "StickyTron, VAC banned, AHack, asking for hacks",
 	["STEAM_0:1:63172579"] = "El_Kebabo/Mats Holmkvist, Falcos scripts",
 	["STEAM_0:1:113605163"] = "Patrick/Yentin3/QueenKitty, 3x VAC bans, big skiddie, member of 3 hack/troll groups",
 	["STEAM_0:0:100054312"] = "DeadpooI_ThePirate_68/FreddyZator, Sasha.lua hack",
@@ -128,6 +127,7 @@ local Skiddies = {
 	["STEAM_0:0:42989816"] = "Katock, 3x VAC bans, sv_allowcslua, FMurder,toggle_wallhack,dead_aimbot, Member of hack/troll group: WildNiggas",
 	["STEAM_0:1:80957864"] = "Creativerasheed, 4x VAC bans!!!, crashing servers, sv_allowcslua, Member of hack/troll group: propkillarmy", 
 	["STEAM_0:0:82154876"] = "MtnDewBunney/Mitchell, VAC banned, hera,cvar3,nospread,rhook,uskid.lua,naisho,anxition",
+	["STEAM_0:0:67939418"] = "Explicity/BootyPride/HalfBakedWaldo, attempted server crash, friend of cheater 'dakilla345/OJ', BAN ME FOREVER",
 	["STEAM_0:0:86385858"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names alt, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:60971854"] = "dakilla345/OJ/ljfoubneuccdsneiu/Troll names, DDoS, 3x VAC bans, stealing and leaking code, Dismay, gDaap DB: dakilla123, BAN ME FOREVER",
 	["STEAM_0:0:48000672"] = "RyanM/CS Ryan, MPGH skid, VAC banned",
