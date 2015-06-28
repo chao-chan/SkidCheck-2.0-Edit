@@ -13,6 +13,10 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
+	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller",
 	["STEAM_0:0:74304413"] = "StickyTron, VAC banned, AHack, asking for hacks",
 	["STEAM_0:1:63172579"] = "El_Kebabo/Mats Holmkvist, Falcos scripts",
 	["STEAM_0:1:113605163"] = "Patrick/Yentin3/QueenKitty, 3x VAC bans, big skiddie, member of 3 hack/troll groups",
