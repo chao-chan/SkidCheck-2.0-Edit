@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:91797597"] = "ProGamer29/ProGaMeR/Vanoss, Mapex",
 	["STEAM_0:1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
 	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller",
 	["STEAM_0:0:74304413"] = "StickyTron, VAC banned, AHack, asking for hacks",
