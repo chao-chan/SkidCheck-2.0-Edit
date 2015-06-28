@@ -1,3 +1,5 @@
+![](http://i.imgur.com/3bxeiqQ.png)
+
 ```
 === SkidCheck - 2.0 ===
 --By HeX
