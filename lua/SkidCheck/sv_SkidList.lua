@@ -15,6 +15,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:2358021"] = "yungdewp/Troll names alt, Bluebot,Luabot",
+	["STEAM_0:0:62551614"] = "yungdewp/Troll names, Bluebot,Luabot",
 	["STEAM_0:0:91797597"] = "ProGamer29/ProGaMeR/Vanoss, Mapex",
 	["STEAM_0:1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
 	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller",
