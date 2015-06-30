@@ -12,8 +12,15 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:100228864"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:1:26874507"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:0:27194803"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:0:45172329"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:1:29088907"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:1:36435476"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:0:48590998"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:1:41849352"] = "NullCore/V952, C++ hacks, VAC banned",
+	["STEAM_0:1:79495014"] = "MozartT KDEN/Heroin/Chewbacca/Troll names, DDoS attacks",
 	["STEAM_0:0:913401"] = "iteaTime/Truix, Asking for hacks ('I have $500 for a private Garry's Mod cheat'), 'My cheats still work', Member of hack/troll group: skeetetc",
 	["STEAM_0:1:110246682"] = "iteaTime/Truix alt, Asking for hacks ('I have $500 for a private Garry's Mod cheat'), 'My cheats still work', Member of hack/troll group: skeetetc",
 	["STEAM_0:0:2358021"] = "yungdewp/Troll names alt, DDoS, Bluebot,Luabot",
