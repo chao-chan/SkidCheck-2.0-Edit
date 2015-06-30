@@ -14,9 +14,10 @@ local Skiddies = {
 
 
 
-
-	["STEAM_0:0:2358021"] = "yungdewp/Troll names alt, Bluebot,Luabot",
-	["STEAM_0:0:62551614"] = "yungdewp/Troll names, Bluebot,Luabot",
+	["STEAM_0:0:913401"] = "iteaTime/Truix, Asking for hacks ('I have $500 for a private Garry's Mod cheat'), 'My cheats still work', Member of hack/troll group: skeetetc",
+	["STEAM_0:1:110246682"] = "iteaTime/Truix alt, Asking for hacks ('I have $500 for a private Garry's Mod cheat'), 'My cheats still work', Member of hack/troll group: skeetetc",
+	["STEAM_0:0:2358021"] = "yungdewp/Troll names alt, DDoS, Bluebot,Luabot",
+	["STEAM_0:0:62551614"] = "yungdewp/Troll names, DDoS, Bluebot,Luabot",
 	["STEAM_0:0:91797597"] = "ProGamer29/ProGaMeR/Vanoss, Mapex",
 	["STEAM_0:1:105581179"] = "KQLYFornia/JWonderchild, 2x VAC bans",
 	["STEAM_0:1:87877095"] = "Pineapple/oliver/oyolo, sv_allowcslua, defcon aimbot, propkiller",
@@ -243,7 +244,7 @@ local Skiddies = {
 	["STEAM_0:0:8447102"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:72208515"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
-	["STEAM_0:0:115343499"] = "wutarmelon/bigspeedscripter/fucksdklesscheats/skittz10/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:115343499"] = "wutarmelon/bigspeedscripter/fucksdklesscheats/skittz10/DdHashu02/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:258964"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	
 	["STEAM_0:1:43242652"] = "Troll names, 2x VAC bans",
