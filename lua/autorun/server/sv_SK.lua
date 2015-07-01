@@ -171,9 +171,9 @@ function Skid.Ready()
 	MsgC(Skid.WHITE2, 	"Skid")
 	MsgC(Skid.BLUE, 	"Check")
 	MsgC(Skid.GREY, 	"] ")
-	MsgC(Skid.GREEN, 	"Ready. Checking ")
+	MsgC(Skid.GREEN, 	"Ready. ")
 	MsgC(Skid.RED,		 tostring( table.Count(Skid.HAC_DB) ):Comma() )
-	MsgC(Skid.GREEN, 	" bad players!"..Skid.CanSync.."\n\n")
+	MsgC(Skid.GREEN, 	" bad players in local lists!"..Skid.CanSync.."\n\n")
 end
 timer.Simple(1, Skid.Ready)
 

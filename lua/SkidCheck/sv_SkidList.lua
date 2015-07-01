@@ -11,6 +11,8 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:61681502"] = "Haroon/MonsieurLaCrepe/Jordan/suckurmudda, Mapex, VAC banned, 2S: Mapex",
 	["STEAM_0:1:53391542"] = "DeLiGiT, Aimbot, Member of hack/troll group: DLGT",
 	["STEAM_0:1:100228864"] = "NullCore/V952, C++ hacks, VAC banned",
 	["STEAM_0:1:26874507"] = "NullCore/V952, C++ hacks, VAC banned",
@@ -1152,7 +1154,6 @@ local Skiddies = {
 	["STEAM_0:0:69909990"] = "2S: AHack",
 	["STEAM_0:0:11983117"] = "2S: Unknown hack",
 	["STEAM_0:1:77212188"] = "2S: AHack",
-	["STEAM_0:1:61681502"] = "2S: Mapex",
 	["STEAM_0:1:87797397"] = "2S: AHack",
 	["STEAM_0:0:50306043"] = "2S: AHack",
 	["STEAM_0:1:64689651"] = "2S: AHack",
