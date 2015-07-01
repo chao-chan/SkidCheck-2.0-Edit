@@ -11,7 +11,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:53391542"] = "DeLiGiT, Aimbot, Member of hack/troll group: DLGT",
 	["STEAM_0:1:100228864"] = "NullCore/V952, C++ hacks, VAC banned",
 	["STEAM_0:1:26874507"] = "NullCore/V952, C++ hacks, VAC banned",
 	["STEAM_0:0:27194803"] = "NullCore/V952, C++ hacks, VAC banned",
@@ -764,7 +764,8 @@ local Skiddies = {
 	["STEAM_0:0:62623402"] = "2S: Unknown hack",
 	["STEAM_0:1:75620182"] = "2S: BHop script",
 	["STEAM_0:1:79658478"] = "2S: AHack",
-	["STEAM_0:1:71209027"] = "2S: sv_allowcslua bypass",
+	["STEAM_0:0:120941798"] = "IPod/BooBoo Keys alt, C++ hacks, MPGH (Alt STEAM_0:1:71209027), 2S: sv_allowcslua bypass",
+	["STEAM_0:1:71209027"] = "IPod/BooBoo Keys alt, C++ hacks, MPGH (Alt of STEAM_0:0:120941798), 2S: sv_allowcslua bypass",
 	["STEAM_0:1:68652044"] = "2S: AHack",
 	["STEAM_0:1:6796637"] = "2S: Lenny",
 	["STEAM_0:1:67293110"] = "2S: AHack",

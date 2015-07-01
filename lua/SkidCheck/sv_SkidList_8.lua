@@ -4061,7 +4061,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:50703784"] = "Member of hack/troll group: DLGT",
 	["STEAM_0:1:86002421"] = "Member of hack/troll group: DLGT",
 	["STEAM_0:0:91792138"] = "Member of hack/troll group: DLGT",
-	["STEAM_0:1:53391542"] = "DeLiGiT, Aimbot, Member of hack/troll group: DLGT",
 	["STEAM_0:0:42188210"] = "Banlist, Member of hack/troll group: DLGT",
 	["STEAM_0:1:52579888"] = "SwagServers: Spectre, Bad file: lua/ahack.lua, Member of hack/troll group: DLGT",
 	["STEAM_0:1:34444519"] = "SwagServers: Unknown, Claims to have hacked the server",
