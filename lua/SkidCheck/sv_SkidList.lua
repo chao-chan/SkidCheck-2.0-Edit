@@ -12,6 +12,9 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:49002548"] = "spawnkilla98/Zanehood/Troll names, VAC banned, Member of hack/troll group: complimentmyvacban, MPGH",
 	["STEAM_0:0:50378334"] = "Miffo/miffo15/Troll names, sv_cheats, VAC banned, copypasted baconbot",
 	["STEAM_0:1:61681502"] = "Haroon/MonsieurLaCrepe/Jordan/suckurmudda, Mapex, VAC banned, 2S: Mapex",
 	["STEAM_0:1:53391542"] = "DeLiGiT, Aimbot, Member of hack/troll group: DLGT",
@@ -296,14 +299,16 @@ local Skiddies = {
 	["STEAM_0:0:64925862"] = "Billj63, Traffichack,Anxition, ban me",
 	["STEAM_0:0:84322191"] = "Troll names, Sasha hacks,Treebot, ban me",
 	
-	["STEAM_0:0:4773741"] = "Reyjr43/Xutax,Kelse/troll names, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:1:72853997"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:0:21513525"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:1:72851226"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:1:72848367"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:0:72861978"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:1:72855120"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
-	["STEAM_0:0:72845398"] = "Reyjr43/Xutax,Kelse/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:1:6286814"] = "TheyCallMeDaz/kelse/CombineGuru/troll names, VAC banned, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:0:4773741"] = "TheyCallMeDaz/kelse/CombineGuru/troll names, VAC banned, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:0:21513525"] = "TheyCallMeDaz/kelse/CombineGuru/troll names alt, VAC banned, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	
+	["STEAM_0:1:72853997"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:1:72851226"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:1:72848367"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:0:72861978"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:1:72855120"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
+	["STEAM_0:0:72845398"] = "Reyjr43/Xutax/troll names alt, DEM0LITION, MPGH, selling hacks, stealing files, BAN ME FOREVER",
 	
 	["STEAM_0:0:128711600"] = "Haruki/l1m3w1r3, leaking code, 'OJ' cheat, attempted bypass, MPGH",
 	["STEAM_0:1:51838685"] = "VeRage, speedhacks",
@@ -452,7 +457,6 @@ local Skiddies = {
 	["STEAM_0:1:43933522"] = "NotSoSuper, 4x VAC bans, gDaap DB: Banana Lord, Dismay (stealing files), BAN ME FOREVER",
 	["STEAM_0:1:53406228"] = "Ilya/sofresh, VAC banned, cheats",
 	["STEAM_0:0:693787"] = "Ilya/sophresh, VAC banned, cheats",
-	["STEAM_0:1:6286814"] = "gesj/aethiisadorable/TheyCallMeDaz, writing/using many hacks, MPGH poster, BAN ME FOREVER",
 	["STEAM_0:0:122556442"] = "Thatguy12, VAC banned, troll names",
 	
 	["STEAM_0:0:48926883"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
