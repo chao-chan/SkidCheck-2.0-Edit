@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:40474879"] = "BENDO/Jeezy, 2x VAC bans",
 	["STEAM_0:1:70239499"] = "SPVT NIKK_KILLER, Mapex, AHack, VAC banned",
 	["STEAM_0:1:112789937"] = "RaikizPro, DDoS threat",
 	["STEAM_0:1:49002548"] = "spawnkilla98/Zanehood/Troll names, VAC banned, Member of hack/troll group: complimentmyvacban, MPGH",
@@ -132,6 +132,7 @@ local Skiddies = {
 	["STEAM_0:1:40671233"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (STEAM_0:0:50833519)",
 	
 	["STEAM_0:0:29168159"] = "pezzaisgreat/Buttered Toast/Troll names, Dismay (stealing files), ban me",
+	["STEAM_0:1:9213"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
 	["STEAM_0:0:39618012"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
 	["STEAM_0:1:58753229"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
 	["STEAM_0:0:68738466"] = "phoon/Snorflake/Troll names, DDoS threat, stealing files, C++ hacks, 2x VAC bans,5 skiddie scripts,'Competitive Copy Pasters League',12 year old",
