@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:41687673"] = "collincraig123/Collin Craig, 2x VAC bans, Member of hack/troll group: 133333333337H4xs",
 	["STEAM_0:1:59327119"] = "WoodenHouse, Lennys",
 	["STEAM_0:0:78720436"] = "Bills Cat, Lennys",
 	["STEAM_0:0:72394734"] = "Heisenburger, Lennys",
