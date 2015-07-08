@@ -3210,7 +3210,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:113971543"] = "2S: Unknown hack",
 	["STEAM_0:1:101363666"] = "2S: Unknown hack",
 	["STEAM_0:0:55821171"] = "2S: AHack",
-	["STEAM_0:1:61320605"] = "2S: AHack",
 	["STEAM_0:1:59990080"] = "2S: BHop script",
 	["STEAM_0:0:79809121"] = "2S: Unknown hack",
 	["STEAM_0:1:104337716"] = "2S: Unknown hack",

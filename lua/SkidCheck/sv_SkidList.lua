@@ -18,13 +18,9 @@ local Skiddies = {
 
 
 
-
-
-
-
-
+	["STEAM_0:1:61320605"] = "Biggie/Frogz/Troll names, aimbot, 2x VAC bans, ESP, 2S: AHack, Member of hack/troll group: RAIP4L1F3, BAN ME FOREVER",
 	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
-	["STEAM_0:0:58068155"] = "Author, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
+	["STEAM_0:0:58068155"] = "Author/Authorjames, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
 	["STEAM_0:0:41687673"] = "collincraig123/Collin Craig, 2x VAC bans, Member of hack/troll group: 133333333337H4xs",
 	["STEAM_0:1:59327119"] = "WoodenHouse, Lennys",
 	["STEAM_0:0:78720436"] = "Bills Cat, Lennys",
@@ -1523,11 +1519,11 @@ local Skiddies = {
 	["STEAM_0:0:90141564"] = "killerblisk, selling hacks on MPGH",
 	["STEAM_0:0:57189193"] = "Troll name, 2x VAC bans",
 	
-	["STEAM_0:0:90527737"] = "Kif3r alt, RCON hacking, VAC bans",
-	["STEAM_0:1:86830160"] = "Kif3r alt, RCON hacking, VAC bans",
-	["STEAM_0:1:38132042"] = "Kif3r alt, RCON hacking, VAC bans",
-	["STEAM_0:1:87676208"] = "Kif3r alt, RCON hacking, VAC bans",
-	["STEAM_0:0:84587132"] = "Kif3r alt, RCON hacking, VAC bans",
+	["STEAM_0:0:90527737"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:86830160"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:38132042"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:1:87676208"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
+	["STEAM_0:0:84587132"] = "Kif3r/Troll names, DDoS, RCON hacking, VAC bans",
 	["STEAM_0:1:69530933"] = "Badbad22, RCON hacking, 2x VAC bans",
 	
 	["STEAM_0:1:15789263"] = "Banlist",
