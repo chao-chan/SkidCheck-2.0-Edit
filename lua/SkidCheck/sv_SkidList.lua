@@ -1,4 +1,4 @@
---#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc
+--#1 - Banned by HAC/discovered from forums/cheats/steam profiles, etc. The main list.
 
 
 local Skiddies = {
@@ -14,6 +14,16 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+
+
+
+
+	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
 	["STEAM_0:0:58068155"] = "Author, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
 	["STEAM_0:0:41687673"] = "collincraig123/Collin Craig, 2x VAC bans, Member of hack/troll group: 133333333337H4xs",
 	["STEAM_0:1:59327119"] = "WoodenHouse, Lennys",
@@ -119,7 +129,7 @@ local Skiddies = {
 	["STEAM_0:1:18955910"] = "McSnip, stealing files, hacks",
 	["STEAM_0:1:90500208"] = "Naminu/Troll names, 2x VAC bans",
 	["STEAM_0:0:32374738"] = "Tevran/Dracqar, DDoS",
-	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep/tooret fock, C++ hacks, Member of hack/troll group: MEMEWARE",
+	["STEAM_0:0:115219037"] = "aGangster Toaster/toctep/tooret fock/Troll names, C++ hacks, Member of hack/troll group: MEMEWARE",
 	["STEAM_0:1:56736013"] = "Super-poney, Mapex,FMurder,ESP",
 	["STEAM_0:0:52599295"] = "GamingRetro/Sam Yund, C++ hacks, Member of hack/troll group: complimentmyvacban",
 	["STEAM_0:1:110371064"] = "social_justice_warrior_hipster/bubbins/cheat to win/Troll names, VAC banned",
@@ -300,7 +310,7 @@ local Skiddies = {
 	["STEAM_0:0:8447102"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:27853779"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	["STEAM_0:0:72208515"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
-	["STEAM_0:0:115343499"] = "wutarmelon/bigspeedscripter/fucksdklesscheats/skittz10/DdHashu02/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
+	["STEAM_0:0:115343499"] = "wutarmelon/bigspeedscripter/fucksdklesscheats/skittz10/DdHashu02/Troll names, DDoS,VAC banned,C++ hacks,MPGH,Ban Evasion, Member of 6 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:258964"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
 	
 	["STEAM_0:1:43242652"] = "Troll names, 2x VAC bans",
