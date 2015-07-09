@@ -17,7 +17,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:34654275"] = "Rogue Cheney/The Master, Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:61320605"] = "Biggie/Frogz/Troll names, aimbot, 2x VAC bans, ESP, 2S: AHack, Member of hack/troll group: RAIP4L1F3, BAN ME FOREVER",
 	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
 	["STEAM_0:0:58068155"] = "Author/Authorjames, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
