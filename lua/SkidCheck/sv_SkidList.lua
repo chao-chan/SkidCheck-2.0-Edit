@@ -15,8 +15,11 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:59872134"] = "NickLD/Nick/nickldominator, VAC banned, asking for hacks",
+	["STEAM_0:1:45699289"] = "nullern/MarcusMus/Troll names, 2x VAC bans, Member of hack/troll group: BAN ME FOR ETERNITY",
+	["STEAM_0:0:36430791"] = "Niller/Nicklas Hansen, 2x VAC bans",
+	["STEAM_0:1:29105931"] = "balloony/Luffe/gravko, stealing files, 4x VAC bans, JSP cheat, falco's scripts, propkiller, possible cdriza alt",
+	["STEAM_0:0:88789289"] = "EpiC MoonsteR/Borys Sadowski, Falcos scripts",
 	["STEAM_0:1:34654275"] = "Rogue Cheney/The Master, Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:61320605"] = "Biggie/Frogz/Troll names, aimbot, 2x VAC bans, ESP, 2S: AHack, Member of hack/troll group: RAIP4L1F3, BAN ME FOREVER",
 	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
@@ -4988,7 +4991,7 @@ local Skiddies = {
 	["STEAM_0:1:65054927"] = "Propkiller",
 	["STEAM_0:1:63587066"] = "Ban Evasion (STEAM_0:0:88422219)",
 	["STEAM_0:1:67635100"] = "gDaap DB: megaman1321 (Megaman)",
-	["STEAM_0:0:41787894"] = "Hacking, 2S: BHop script",
+	["STEAM_0:0:41787894"] = "Plasticheka/Metro, 3x VAC bans, 2S: BHop script",
 	["STEAM_0:0:31611103"] = "SSDB: BadRCC",
 	["STEAM_0:1:24840872"] = "Banlist",
 	["STEAM_0:1:39724060"] = "dagalexus",
