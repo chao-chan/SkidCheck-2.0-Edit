@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:34799862"] = "neff/neffr/NF, Stealing files, MPGH",
 	["STEAM_0:1:59872134"] = "NickLD/Nick/nickldominator, VAC banned, asking for hacks",
 	["STEAM_0:1:45699289"] = "nullern/MarcusMus/Troll names, 2x VAC bans, Member of hack/troll group: BAN ME FOR ETERNITY",
 	["STEAM_0:0:36430791"] = "Niller/Nicklas Hansen, 2x VAC bans",
