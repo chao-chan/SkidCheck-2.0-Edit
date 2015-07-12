@@ -14,14 +14,15 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:45273483"] = "Cyanide/klindahl12/mgog/Dr.Zoidberg, Troll names",
+	["STEAM_0:0:61734191"] = "MrRoy/royprofile/Roy13212, sv_allowcslua bypass, bitchbot.lua (Ampris), sashahek.lua, cvar3, nospread modules",
 	["STEAM_0:1:34799862"] = "neff/neffr/NF, Stealing files, MPGH",
 	["STEAM_0:1:59872134"] = "NickLD/Nick/nickldominator, VAC banned, asking for hacks",
 	["STEAM_0:1:45699289"] = "nullern/MarcusMus/Troll names, 2x VAC bans, Member of hack/troll group: BAN ME FOR ETERNITY",
 	["STEAM_0:0:36430791"] = "Niller/Nicklas Hansen, 2x VAC bans",
 	["STEAM_0:1:29105931"] = "balloony/Luffe/gravko, stealing files, 4x VAC bans, JSP cheat, falco's scripts, propkiller, possible cdriza alt",
 	["STEAM_0:0:88789289"] = "EpiC MoonsteR/Borys Sadowski, Falcos scripts",
-	["STEAM_0:1:34654275"] = "Rogue Cheney/The Master, Backdoor/Exploits in workshop addons",
+	["STEAM_0:1:34654275"] = "Rogue Cheney/baldursgate3/Rogue Dragneel/The Master, Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:61320605"] = "Biggie/Frogz/Troll names, aimbot, 2x VAC bans, ESP, 2S: AHack, Member of hack/troll group: RAIP4L1F3, BAN ME FOREVER",
 	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
 	["STEAM_0:0:58068155"] = "Author/Authorjames, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
@@ -113,7 +114,7 @@ local Skiddies = {
 	["STEAM_0:1:30044389"] = "SRGTops 7, VAC banned, sv_allowcslua, CheatEngine,kawaii,defcon,naisho,AHack,Ilya,razor,MPGH",
 	["STEAM_0:0:92721588"] = "Dark white, falco's scripts",
 	["STEAM_0:0:122194318"] = "CHATOT3, DDoS, VAC banned",
-	["STEAM_0:1:120338831"] = "satori, skiddie, ban me",
+	["STEAM_0:1:120338831"] = "satori/Troll names, dango, backdoor/exploits, skiddie, cdriza friend, BAN ME",
 	["STEAM_0:1:56517146"] = "ugottricked/Moe Szyslak/Troll names, VAC banned",
 	["STEAM_0:0:17652506"] = "Kigo/KiiGz/Kiglet, 2x VAC bans, member of hack/troll groups",
 	["STEAM_0:1:49878498"] = "Devin Wolf/Troll names, 2x VAC bans, Fire-Hack",
