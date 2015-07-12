@@ -14,7 +14,8 @@ local Skiddies = {
 
 
 
-	["STEAM_0:0:85706507"] = "LikeDelirious/CollinM/LikeXKillah/Vanoss, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
+	["STEAM_0:1:118626554"] = "LikeDelirious/collindelorijn alt, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
+	["STEAM_0:0:85706507"] = "LikeDelirious/CollinM/LikeXKillah/collindelorijn, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
 	["STEAM_0:0:63434100"] = "KacperNoBiceps/SilverSmurfer, 2x VAC bans",
 	["STEAM_0:0:45273483"] = "Cyanide/klindahl12/mgog/Dr.Zoidberg, Troll names",
 	["STEAM_0:0:61734191"] = "MrRoy/royprofile/Roy13212, sv_allowcslua bypass, bitchbot.lua (Ampris), sashahek.lua, cvar3, nospread modules",
