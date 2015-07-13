@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:66677353"] = "ryak20/Ryan/Ryak200, Asking for bypasses, MPGH",
 	["STEAM_0:1:118626554"] = "LikeDelirious/collindelorijn alt, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
 	["STEAM_0:0:85706507"] = "LikeDelirious/CollinM/LikeXKillah/collindelorijn, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
 	["STEAM_0:0:63434100"] = "KacperNoBiceps/SilverSmurfer, 2x VAC bans",
