@@ -12,6 +12,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:99406150"] = "CeRJLock XoJLmS/MR.Watson/Mapkenob/KOTIK, mApex",
 	["STEAM_0:0:103232183"] = "RabidRunner/garrys_modification/Troll names,, stealing files, C++ hacks, MPGH, Member of 7 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:66677353"] = "ryak20/Ryan/Ryak200, Asking for bypasses, MPGH",
 	["STEAM_0:1:118626554"] = "LikeDelirious/collindelorijn alt, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
