@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:103232183"] = "RabidRunner/garrys_modification/Troll names,, stealing files, C++ hacks, MPGH, Member of 7 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:66677353"] = "ryak20/Ryan/Ryak200, Asking for bypasses, MPGH",
 	["STEAM_0:1:118626554"] = "LikeDelirious/collindelorijn alt, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
 	["STEAM_0:0:85706507"] = "LikeDelirious/CollinM/LikeXKillah/collindelorijn, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
@@ -271,7 +271,7 @@ local Skiddies = {
 	["STEAM_0:0:984454"] = "Mike Jones/ayy40000, VAC banned, Member of hack/troll group: faggothackers",
 	["STEAM_0:1:87397038"] = "y0gurt/Todd Reese/Troll names, Aimware, Member of hack/troll group: gayweedddads",
 	["STEAM_0:0:84408790"] = "sp00k/The Terminator/Troll names, 3x VAC bans, Member of hack/troll group: myg0t_international",
-	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/Troll names, VAC banned, Member of hack/troll group: faggothackers, BAN ME",
+	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME",
 	["STEAM_0:0:39907011"] = "Kappa/Turtle Justice/Troll names, Member of hack/troll group: Rule-De-Game",
 	["STEAM_0:1:68606171"] = "Troll names, VAC banned",
 	["STEAM_0:0:43081833"] = "xKnight/Fragen,stayler999, VAC banned, Member of hack/troll group: Rule-De-Game",
@@ -3328,7 +3328,7 @@ local Skiddies = {
 	["STEAM_0:1:41231090"] = "Skiddie",
 	["STEAM_0:1:58078937"] = "2S: Cheats",
 	["STEAM_0:1:40538254"] = "Nox: ted bundy alt",
-	["STEAM_0:0:46335706"] = "2S: AHack",
+	["STEAM_0:0:46335706"] = "Niki3015, VAC banned, backdoor/exploiting servers, 2S: AHack",
 	["STEAM_0:0:65139386"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:65319403"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:56925055"] = "2S: Lenny",
