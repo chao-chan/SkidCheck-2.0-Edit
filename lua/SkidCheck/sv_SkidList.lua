@@ -12,8 +12,18 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+	["STEAM_0:0:44600895"] = "IMF_LOLPONY/Louisa/Troll names, VAC banned, Member of 5 hack/troll groups",
+	["STEAM_0:0:63265223"] = "Matilda, aimware, VAC banned, skiddie",
+	["STEAM_0:1:98244245"] = "Samon, VAC banned, skiddie",
+	["STEAM_0:1:63154965"] = "Masterbrian123, skiddie",
+	["STEAM_0:1:59448288"] = "Anchovy/malagasy/Troll names, 5x VAC BANS!, Member of hack/troll group: Dango_Mafia_Fan_club",
 	["STEAM_0:0:99406150"] = "CeRJLock XoJLmS/MR.Watson/Mapkenob/KOTIK, mApex",
-	["STEAM_0:0:103232183"] = "RabidRunner/garrys_modification/Troll names,, stealing files, C++ hacks, MPGH, Member of 7 hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:0:103232183"] = "RabidRunner/garrys_modification/Troll names, stealing files, C++ hacks, MPGH, Member of 7 hack/troll groups, possible cdriza alt, BAN ME FOREVER",
 	["STEAM_0:1:66677353"] = "ryak20/Ryan/Ryak200, Asking for bypasses, MPGH",
 	["STEAM_0:1:118626554"] = "LikeDelirious/collindelorijn alt, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
 	["STEAM_0:0:85706507"] = "LikeDelirious/CollinM/LikeXKillah/collindelorijn, stealing files, 3x VAC bans, sv_cheats, Sasha hack, hera, defcon aimbot",
@@ -28,7 +38,7 @@ local Skiddies = {
 	["STEAM_0:0:88789289"] = "EpiC MoonsteR/Borys Sadowski, Falcos scripts",
 	["STEAM_0:1:34654275"] = "Rogue Cheney/baldursgate3/Rogue Dragneel/The Master, Backdoor/Exploits in workshop addons",
 	["STEAM_0:1:61320605"] = "Biggie/Frogz/Troll names, aimbot, 2x VAC bans, ESP, 2S: AHack, Member of hack/troll group: RAIP4L1F3, BAN ME FOREVER",
-	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat, C++ hacks",
+	["STEAM_0:0:1702444"] = "DUSTY LEEK/kittydecat/Troll names, C++ hacks, BAN ME FOREVER",
 	["STEAM_0:0:58068155"] = "Author/Authorjames, stealing files, lua bypass, Member of hack/troll groups: gm_exploited, imadethem",
 	["STEAM_0:0:41687673"] = "collincraig123/Collin Craig, 2x VAC bans, Member of hack/troll group: 133333333337H4xs",
 	["STEAM_0:1:59327119"] = "WoodenHouse, Lennys",
@@ -295,7 +305,7 @@ local Skiddies = {
 	["STEAM_0:0:100368373"] = "Users, stealing files,pHack",
 	["STEAM_0:1:90731720"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
-	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically/Troll names, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	["STEAM_0:0:77568751"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	
 	["STEAM_0:1:18855627"] = "BorhilIan",
@@ -304,7 +314,7 @@ local Skiddies = {
 	["STEAM_0:1:117853397"] = "Lizard Squad Satori, VAC banned",
 	["STEAM_0:1:58022559"] = "AnUnlaidEgg, VAC banned",
 	["STEAM_0:0:56486352"] = "Regan, VAC banned, Xmenu cheat, Member of hack/troll group: theexploitersco",
-	["STEAM_0:1:95997606"] = "DANGO Jay, VAC banned, Member of hack/troll group: DangoMafia",
+	["STEAM_0:1:95997606"] = "DANGO Jay/Neko/Troll names, VAC banned, Member of hack/troll group: DangoMafia, BAN ME",
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
 	
@@ -478,7 +488,7 @@ local Skiddies = {
 	["STEAM_0:0:5693636"] = "emmy, Skiddie",
 	["STEAM_0:1:2115760"] = "j, Skiddie",
 	["STEAM_0:1:73027696"] = "Ray Ray, Skiddie",
-	["STEAM_0:0:13541"] = "hxzc/'evil hex', 'I'm da master of all cheaters', member of cheating groups",
+	["STEAM_0:0:13541"] = "0x/lazyness/hxzc/'evil hex'/Troll names, 'I'm da master of all cheaters', member of cheating groups",
 	["STEAM_0:1:55608548"] = "meharryp, 'Tbh the only thing I've been coding outside of scriptfodder is shitty Lua hacks'",
 	["STEAM_0:1:110286191"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
 	["STEAM_0:0:84796290"] = "mrsuperunknown/Unknown Gamer, admitted to stealing files",
@@ -527,7 +537,7 @@ local Skiddies = {
 	["STEAM_0:1:58058392"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
 	["STEAM_0:0:93571604"] = "Tyler/snixzz alt, writing & giving away many hacks, troll, BAN ME FOREVER",
 	
-	["STEAM_0:1:53189353"] = "Kawurftha/Ripper/Scetch08, 2x VAC bans, stealing files, Member of hack/troll group: tabernaclehacking",
+	["STEAM_0:1:53189353"] = "Kawurftha/Ripper/Scetch08, 3x VAC bans, stealing files, C++ HACKS, Member of hack/troll group: tabernaclehacking",
 	["STEAM_0:0:83847070"] = "Deagler new, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:1:32634764"] = "Deagler, dHack, Dismay (stealing files) ban me",
 	["STEAM_0:0:124979748"] = "Deagler alt, dHack, Dismay (stealing files) ban me",
@@ -4915,7 +4925,7 @@ local Skiddies = {
 	["STEAM_0:0:8345987"] = "SP2: Unknown",
 	["STEAM_0:0:18947080"] = "Banlist",
 	["STEAM_0:0:10713231"] = "SP2: Code injection (Sethhack)",
-	["STEAM_0:1:73426095"] = "Kami/Troll names, 4x VAC bans, 2S: BlueBot, BAN ME FOREVER",
+	["STEAM_0:1:73426095"] = "Kami/Kirby/Troll names, 4x VAC bans, 2S: BlueBot, BAN ME FOREVER",
 	["STEAM_0:0:17711590"] = "Mr Eazy",
 	["STEAM_0:0:36250162"] = "Blackops.cfg",
 	["STEAM_0:1:50887902"] = "Banlist",
