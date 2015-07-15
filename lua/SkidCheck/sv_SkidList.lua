@@ -17,7 +17,8 @@ local Skiddies = {
 
 
 
-	["STEAM_0:0:44600895"] = "IMF_LOLPONY/Louisa/Troll names, VAC banned, Member of 5 hack/troll groups",
+	["STEAM_0:0:85122077"] = "IMF_LOLPONY/Louisa/ZaibatsuTEAM alt, VAC banned, Member of 5 hack/troll groups",
+	["STEAM_0:0:44600895"] = "IMF_LOLPONY/Louisa/ZaibatsuTEAM/Troll names, VAC banned, Member of 5 hack/troll groups",
 	["STEAM_0:0:63265223"] = "Matilda, aimware, VAC banned, skiddie",
 	["STEAM_0:1:98244245"] = "Samon, VAC banned, skiddie",
 	["STEAM_0:1:63154965"] = "Masterbrian123, skiddie",
