@@ -6,15 +6,15 @@
 
 Skid.Sync = {
 	//List of files to download
-	Index 	= {},
+	Index 			= {},
 	
 	//Run the list files here
-	HAC = {
-		Skiddies = {},
+	HAC 			= {
+		Skiddies	= {},
 	},
 	
-	table = {
-		MergeEx = table.MergeEx,
+	table 			= {
+		MergeEx 	= table.MergeEx,
 	},
 }
 
@@ -28,7 +28,7 @@ local function MsgN(str, err)
 	MsgC(Skid.PINK, 	"Sync")
 	MsgC(Skid.GREY, 	"] ")
 	if err then
-		MsgC(Skid.RED,		"ERROR: ")
+		MsgC(Skid.RED,	"ERROR: ")
 	end
 	MsgC(Skid.ORANGE, 	str.."\n")
 end

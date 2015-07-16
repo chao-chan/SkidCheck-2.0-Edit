@@ -16,7 +16,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:85214317"] = "pHack/notoriouskkk/pCrosshair, Banned, member of hack/troll groups",
 	["STEAM_0:0:85122077"] = "IMF_LOLPONY/Louisa/ZaibatsuTEAM alt, VAC banned, Member of 5 hack/troll groups",
 	["STEAM_0:0:44600895"] = "IMF_LOLPONY/Louisa/ZaibatsuTEAM/Troll names, VAC banned, Member of 5 hack/troll groups",
 	["STEAM_0:0:63265223"] = "Matilda, aimware, VAC banned, skiddie",
@@ -5452,7 +5452,7 @@ local Skiddies = {
 	["STEAM_0:1:28770633"] = "LuaStoned alt, running HackVsHack server, many many cheats",
 	["STEAM_0:1:15858852"] = "LuaStoned, running HackVsHack server, many many cheats",
 	["STEAM_0:1:27043140"] = "Banlist",
-	["STEAM_0:1:59601079"] = "Devry, Troll names, VAC ban, Propkiller",
+	["STEAM_0:1:59601079"] = "Devry/Troll names, VAC banned, Propkiller, member of 9 hack/troll groups",
 	["STEAM_0:1:88290219"] = "gDaap DB: omara2000hack (Master)",
 	["STEAM_0:1:25877793"] = "2S: Aimbot",
 	["STEAM_0:1:42612352"] = "Banlist",
