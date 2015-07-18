@@ -13,7 +13,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:50085327"] = "dj-br0n3/Sucre, asking for C++ hacks, ban me",
 	["STEAM_0:0:100401143"] = "Vantom/Vanton/Dedruss, stealing files, attempted bypass, mapex, ahack, ghack, gdaap",
 	["STEAM_0:1:85214317"] = "pHack/notoriouskkk/pCrosshair, Banned, member of hack/troll groups",
 	["STEAM_0:0:85122077"] = "IMF_LOLPONY/Louisa/ZaibatsuTEAM alt, VAC banned, Member of 5 hack/troll groups",
