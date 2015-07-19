@@ -4,7 +4,7 @@
 === SkidCheck - 2.0 ===
 --By HeX
 
-This addon checks the HAC database (sv_SkidList.lua, over ~48,394 cheaters) and lets
+This addon checks the HAC database (sv_SkidList.lua, over ~50,470 cheaters) and lets
 everyone in the server know if any are on the current game. This can not *detect*
 cheaters, nor can it punish anyone it finds. It only does a warning message.
 
