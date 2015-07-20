@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:31564120"] = "FLaaVEn/cyberhuskyflaaven/Fabian Sporlein, 2x VAC bans",
 	["STEAM_0:0:50085327"] = "dj-br0n3/Sucre, asking for C++ hacks, ban me",
 	["STEAM_0:0:100401143"] = "Vantom/Vanton/Dedruss, stealing files, attempted bypass, mapex, ahack, ghack, gdaap",
 	["STEAM_0:1:85214317"] = "pHack/notoriouskkk/pCrosshair, Banned, member of hack/troll groups",
@@ -496,8 +496,8 @@ local Skiddies = {
 	["STEAM_0:1:92868636"] = "Obama, asking for hacks on MPGH",
 	["STEAM_0:1:99708404"] = "Ghillie, Backdoor/Exploits in workshop addons, JSP cheat, ban me",
 	["STEAM_0:0:105412345"] = "x0s, C++ cheats, Bad groups, troll names, skiddie",
-	["STEAM_0:0:42138604"] = "Liquidsocks/Pengo, 2x VAC bans, many hacks, 2S: sv_allowcslua, AHack, sv_cheats",
-	["STEAM_0:1:68768379"] = "Liquidsocks/Pengo, 2x VAC bans, many hacks, 2S: sv_allowcslua, AHack, sv_cheats",
+	["STEAM_0:0:42138604"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
+	["STEAM_0:1:68768379"] = "Liquidsocks/Pengo/Troll names, 2x VAC bans, many hacks, skiddie, 2S: sv_allowcslua, AHack, sv_cheats",
 	["STEAM_0:0:62184463"] = "Juggle Bubblels/The Tech Pony, stealing files, Aimware, gDaap DB: TheTechPony, BAN ME FOREVER",
 	["STEAM_0:0:376620"] = "fnox/troll names, VAC banned, troll, skiddie, Member of hack/troll group",
 	["STEAM_0:0:85513655"] = "Kiotaa, exploits,VAC banned,speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
@@ -1596,7 +1596,7 @@ local Skiddies = {
 	["STEAM_0:0:15278246"] = "2S: AHack",
 	["STEAM_0:1:22442204"] = "Banlist",
 	["STEAM_0:1:20628272"] = "cvar3,Hera",
-	["STEAM_0:1:62445445"] = "Q2F2/Cave Johnson/Troll names, exploiting addons,liquid,Custom hacks: BasedCAVE,Q2HAKE,anticheat truth engineering, seed manipulation,",
+	["STEAM_0:1:62445445"] = "Q2F2/Cave Johnson/Troll names, exploiting addons, skid friends, writing hacks: BasedCAVE,Q2HAKE,ghook,AC truth engineering, nospread",
 	["STEAM_0:0:41307538"] = "SP2: tame",
 	["STEAM_0:1:33677768"] = "Banlist",
 	["STEAM_0:0:32870947"] = "Banlist",
@@ -7874,8 +7874,8 @@ local Skiddies = {
 	["STEAM_0:0:49660408"] = "Garry Nelson, Mapex,AHack, Ban Evasion (STEAM_0:1:89001107)",
 	["STEAM_0:0:17488508"] = "Skiddie",
 	["STEAM_0:1:39971225"] = "2S: AHack",
-	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337, 2x VAC bans, troll, propkiller, 2S: Unknown hack",
-	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337 alt, 2x VAC bans, troll, propkiller, 2S: Unknown hack",
+	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
+	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
 	["STEAM_0:1:18655301"] = "Skiddie",
 	["STEAM_0:1:75664275"] = "Dismay (stealing files), 2S: Mapex, ban me",
 	["STEAM_0:1:29473782"] = "JABJAB",
