@@ -12,6 +12,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:106994543"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino, 2x VAC bans",
 	["STEAM_0:1:31564120"] = "FLaaVEn/cyberhuskyflaaven/Fabian Sporlein, 2x VAC bans",
 	["STEAM_0:0:50085327"] = "dj-br0n3/Sucre, asking for C++ hacks, ban me",
 	["STEAM_0:0:100401143"] = "Vantom/Vanton/Dedruss, stealing files, attempted bypass, mapex, ahack, ghack, gdaap",
