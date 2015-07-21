@@ -10,8 +10,9 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:86047179"] = "BigBadWilly alt, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
+	["STEAM_0:0:82346308"] = "BigBadWilly, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
+	["STEAM_0:1:560283"] = "BigBadWilly new alt, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
 	["STEAM_0:1:106994543"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino, 2x VAC bans",
 	["STEAM_0:1:31564120"] = "FLaaVEn/cyberhuskyflaaven/Fabian Sporlein, 2x VAC bans",
 	["STEAM_0:0:50085327"] = "dj-br0n3/Sucre, asking for C++ hacks, ban me",
@@ -2490,7 +2491,7 @@ local Skiddies = {
 	["STEAM_0:0:43527716"] = "coxnathan23",
 	["STEAM_0:0:37814204"] = "SethHack",
 	["STEAM_0:1:14563562"] = "SP2: Sethhack",
-	["STEAM_0:0:42792328"] = "gDaap DB: Ratty (Ratty)",
+	["STEAM_0:0:42792328"] = "aethi/Ratteh/__asmr/Troll names, VAC banned, gDaap DB: Ratty (Ratty), member of hack/troll groups",
 	["STEAM_0:0:12381203"] = "Blackops.cfg",
 	["STEAM_0:1:76835756"] = "2S: AHack",
 	["STEAM_0:1:40975390"] = "Banlist",
@@ -3453,7 +3454,6 @@ local Skiddies = {
 	["STEAM_0:0:25002270"] = "HeinKein [AlT2]",
 	["STEAM_0:0:22079873"] = "Banlist",
 	["STEAM_0:1:41691155"] = "Banlist",
-	["STEAM_0:1:86047179"] = "bigbadwilly alt, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
 	["STEAM_0:1:42867562"] = "Blackops.cfg",
 	["STEAM_0:1:31778466"] = "Banlist",
 	["STEAM_0:0:23437449"] = "Banlist",
@@ -7054,7 +7054,6 @@ local Skiddies = {
 	["STEAM_0:0:38757071"] = "Banlist",
 	["STEAM_0:1:42186117"] = "Skiddie",
 	["STEAM_0:1:46908264"] = "2S: Mapex",
-	["STEAM_0:0:82346308"] = "BigBadWilly",
 	["STEAM_0:1:64243415"] = "Ban Evasion (Alt of STEAM_0:0:64463740)",
 	["STEAM_0:0:34119459"] = "Banlist",
 	["STEAM_0:0:81614801"] = "miscarriaged, Ban me, HVH",
