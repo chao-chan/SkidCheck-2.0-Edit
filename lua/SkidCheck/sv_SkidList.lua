@@ -11,7 +11,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:82290267"] = "Piddles/pdlpost, DDoS, VAC banned",
 	["STEAM_0:1:92810736"] = "The Eagle/Diostravy/skysoed, using hacks (Dark scripts), Member of hack/troll group: propkillarmy",
 	["STEAM_0:1:8115"] = "veryscary, admitted stealing files, using aimbot",
 	["STEAM_0:1:114792135"] = "windowsupdateisamazing/Troll names, admitted hacking, member of hack/troll group: annoyingprogamers",
