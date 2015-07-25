@@ -6,6 +6,28 @@ local ExtraSkiddies = {
 
 
 
+
+	["STEAM_0:1:118520013"] = "NinjaSploit/anonymousxanonymous, VAC banned, Lennys scripts",
+	["STEAM_0:1:15746527"] = "NW Doge/l0lil0lol1il0o, VAC banned, Lennys scripts",
+	["STEAM_0:1:51326191"] = "IM A PERSON/anythingg, Lennys scripts",
+	["STEAM_0:1:283193"] = "Uranus Bleeds, Lennys scripts",
+	["STEAM_0:1:50957593"] = "Cat_Byte, Lennys scripts",
+	["STEAM_0:0:94376618"] = "n0thingG, Lennys scripts",
+	["STEAM_0:0:83399054"] = "Ays, Lennys scripts",
+	["STEAM_0:0:79466116"] = "THEMRPRESIDENT, Lennys scripts",
+	["STEAM_0:0:53999029"] = "Comedian/theoneandonlycomedian, VAC banned, falcos scripts",
+	["STEAM_0:0:81073984"] = "olofmeister/happyassgrandma, VAC banned, falcos scripts",
+	["STEAM_0:0:47856598"] = "Krydos, VAC banned, falcos scripts",
+	["STEAM_0:0:41440405"] = "Invisible name, VAC banned, falcos scripts",
+	["STEAM_0:0:36273867"] = "marblepearls, falcos scripts",
+	["STEAM_0:0:37972182"] = "Digital Illusion/acootsgasm, falcos scripts",
+	["STEAM_0:1:18353459"] = "Spatz/wildboars, falcos scripts",
+	["STEAM_0:0:61846526"] = "Hicchan/averagee, falcos scripts",
+	["STEAM_0:1:38139517"] = "Xciite/xxotxx, VAC banned, falcos scripts",
+	["STEAM_0:1:46858318"] = "Invisible name, falcos scripts",
+	["STEAM_0:0:88047380"] = "Prophecy/i_prophecy_i, falcos scripts",
+	["STEAM_0:0:7331317"] = "FindingSum3662, falcos scripts",
+	["STEAM_0:0:33383792"] = "rtm516, falcos scripts",
 	["STEAM_0:1:55886481"] = "Member of hack/troll group: bestpropkillersalive",
 	["STEAM_0:1:96515780"] = "Member of hack/troll group: bestpropkillersalive",
 	["STEAM_0:0:4636827"] = "Member of hack/troll group: propkillarmy",
