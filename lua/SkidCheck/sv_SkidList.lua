@@ -11,6 +11,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:88913528"] = "DEADMONSTOR/joshscomputer, stealing files,VAC banned, sv_cheats, JSP,gdaap,BlueBot,AHack,uSkid,xMenu,falcos,lennys, Member of hack group: theexploitersco",
 	["STEAM_0:0:82290267"] = "Piddles/pdlpost, DDoS, VAC banned",
 	["STEAM_0:1:92810736"] = "The Eagle/Diostravy/skysoed, using hacks (Dark scripts), Member of hack/troll group: propkillarmy",
 	["STEAM_0:1:8115"] = "veryscary, admitted stealing files, using aimbot",
@@ -241,7 +242,7 @@ local Skiddies = {
 	["STEAM_0:1:53003486"] = "pyro/DarkPyro, Falcos scripts, darkness/hera, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:59915803"] = "xbeastguyx, VAC banned, Lennys scripts, Member of hack/troll group: imadeumad",
 	["STEAM_0:0:44628543"] = "Laith_TheDemon, 2x VAC bans, Lennys scripts, falcos scripts, Member of hack/troll group: NoNAnonPub",
-	["STEAM_0:0:41045922"] = "Josh/Troll names, XMenu cheat, lua/uskid.lua",
+	["STEAM_0:0:41045922"] = "Josh/Troll names, XMenu cheat, uSkid, lua/uskid.lua",
 	["STEAM_0:0:105619279"] = "jordansmith30/Bobby, Xmenu cheat, lua/uskid.lua",
 	["STEAM_0:0:95111311"] = "Understatement/Jimmy, Xmenu cheat, lua/uskid.lua",
 	
@@ -325,7 +326,7 @@ local Skiddies = {
 	["STEAM_0:0:62209911"] = "Invisible name",
 	["STEAM_0:1:117853397"] = "Lizard Squad Satori, VAC banned",
 	["STEAM_0:1:58022559"] = "AnUnlaidEgg, VAC banned",
-	["STEAM_0:0:56486352"] = "Regan, VAC banned, Xmenu cheat, Member of hack/troll group: theexploitersco",
+	["STEAM_0:0:56486352"] = "Regan, VAC banned, Xmenu cheat, uSkid, Member of hack/troll group: theexploitersco",
 	["STEAM_0:1:95997606"] = "DANGO Jay/Neko/Troll names, VAC banned, Member of hack/troll group: DangoMafia, BAN ME",
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
