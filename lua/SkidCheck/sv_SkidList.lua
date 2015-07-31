@@ -11,6 +11,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:131445076"] = "Raven/FreeFlow, mApex,anxition",
 	["STEAM_0:0:88913528"] = "DEADMONSTOR/joshscomputer, stealing files,VAC banned, sv_cheats, JSP,gdaap,BlueBot,AHack,uSkid,xMenu,falcos,lennys, Member of hack group: theexploitersco",
 	["STEAM_0:0:82290267"] = "Piddles/pdlpost, DDoS, VAC banned",
 	["STEAM_0:1:92810736"] = "The Eagle/Diostravy/skysoed, using hacks (Dark scripts), Member of hack/troll group: propkillarmy",
@@ -7652,7 +7653,7 @@ local Skiddies = {
 	["STEAM_0:1:18704943"] = "Skiddie",
 	["STEAM_0:1:15267708"] = "SSDB: gmcl_deco.dll",
 	["STEAM_0:0:33106017"] = "2S: Aimbot",
-	["STEAM_0:1:20361687"] = "Opti, Lennys,Mapex,Falcos",
+	["STEAM_0:1:20361687"] = "Opti/lamontcoleman/tomahawk, Lennys,Mapex,Falcos",
 	["STEAM_0:1:16213693"] = "SSDB: pp_pixelrender",
 	["STEAM_0:1:20455877"] = "Banlist",
 	["STEAM_0:1:17460563"] = "SSDB: BadRCC",
