@@ -10,6 +10,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:41600912"] = "7One/7one7/8One/7Seven, defcon aimbot, Mapex",
 	["STEAM_0:1:83521967"] = "Red/nimda, admitted using cheats, 2S: Mapex",
 	["STEAM_0:0:131445076"] = "Raven/FreeFlow, mApex,anxition",
 	["STEAM_0:0:88913528"] = "DEADMONSTOR/joshscomputer, stealing files,VAC banned, sv_cheats, JSP,gdaap,BlueBot,AHack,uSkid,xMenu,falcos,lennys, Member of hack group: theexploitersco",
