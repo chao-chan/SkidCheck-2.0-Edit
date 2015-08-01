@@ -3232,7 +3232,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:64510696"] = "2S: Lenny",
 	["STEAM_0:0:32417206"] = "2S: Unknown hack",
 	["STEAM_0:0:19559795"] = "2S: Mapex",
-	["STEAM_0:1:83521967"] = "2S: Mapex",
 	["STEAM_0:0:122266390"] = "2S: Mapex",
 	["STEAM_0:0:52258825"] = "2S: sv_allowcslua bypass",
 	["STEAM_0:0:85687882"] = "2S: AHack",
