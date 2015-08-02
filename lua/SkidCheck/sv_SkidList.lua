@@ -9,7 +9,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:63234532"] = "King Brad/king_brad, 4x VAC bans, MPGH donator",
 	["STEAM_0:1:41600912"] = "7One/7one7/8One/7Seven, defcon aimbot, Mapex",
 	["STEAM_0:1:83521967"] = "Red/nimda, admitted using cheats, 2S: Mapex",
 	["STEAM_0:0:131445076"] = "Raven/FreeFlow, mApex,anxition",
