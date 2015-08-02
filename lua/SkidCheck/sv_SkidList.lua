@@ -435,7 +435,7 @@ local Skiddies = {
 	["STEAM_0:0:83444632"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:87834515"] = "cdriza/Connor alt, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (Alt of STEAM_0:0:37511807)",
 	["STEAM_0:0:37511807"] = "cdriza/Connor, stealing & leaking files,C++ hacks,VAC bans,huge skid,shitposting,2S ban,mapex,ahack, Member of 8 hack/troll groups, Ban Evasion (10 alts!)",
-	["STEAM_0:0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
+	["STEAM_0:0:30559593"] = "Hafnium/aria/Onyx/_ari/SarcasticSweater41/Troll names, hacks, Member of 8 hack/troll groups, troll names, BAN ME FOREVER",
 	
 	["STEAM_0:0:40575885"] = "DarthKreamer/100% Troll names, Member of hack/troll group: urafagetur, BAN ME",
 	["STEAM_0:0:27489475"] = "Chef/L33TH4X00R/Skid, 2x VAC bans, aimware,Lennys,dango,troll names, BAN ME",
