@@ -9,6 +9,22 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	["STEAM_0:1:67639206"] = "ManInAlpha/just_d0ge_it/Ruslan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:0:141088010)",
+	["STEAM_0:0:141088010"] = "ManInAlpha/just_d0ge_it/Ruslan, 2x VAC bans, Ban Evasion (STEAM_0:1:67639206)",
 	["STEAM_0:0:67351803"] = "petersulc/Trick_Stabber, lua/darkv1.lua (dark scripts)",
 	["STEAM_0:0:40172906"] = "Snorremans Met-Zonder Snor/roy/vettepad, Lennys scripts, propkiller",
 	["STEAM_0:1:80134361"] = "twr456/taylor, sasha hack",
