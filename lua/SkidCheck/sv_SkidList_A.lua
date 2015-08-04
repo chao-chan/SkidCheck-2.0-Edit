@@ -15,7 +15,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:80172964"] = "Zak/Zak The Exploiter/troll names, stealing files, FIVE VAC bans, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
 	["STEAM_0:1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack",
 	["STEAM_0:1:85820490"] = "Pools Closed/Liam, FIVE VAC Bans!, sv_allowcslua, kawaii_bypass,Hera,sasha,defcon,AHack, Member of hack/troll group: annoyingprogamers",
