@@ -9,6 +9,8 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:67351803"] = "petersulc/Trick_Stabber, lua/darkv1.lua (dark scripts)",
+	["STEAM_0:0:40172906"] = "Snorremans Met-Zonder Snor/roy/vettepad, Lennys scripts, propkiller",
 	["STEAM_0:1:80134361"] = "twr456/taylor, sasha hack",
 	["STEAM_0:0:63234532"] = "King Brad/king_brad, 4x VAC bans, MPGH donator",
 	["STEAM_0:1:41600912"] = "7One/7one7/8One/7Seven, defcon aimbot, Mapex",
@@ -519,6 +521,7 @@ local Skiddies = {
 	["STEAM_0:0:85513655"] = "Kiotaa, exploits,VAC banned,speedhack,sv_allowcslua,z0mgBot,nyx,cvar3,anxition,mapex,rhook, BAN ME FOREVER",
 	["STEAM_0:1:55710792"] = "GOMMB, bluebot,mapex,AHack",
 	
+	["STEAM_0:0:5991293"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
 	["STEAM_0:1:85057658"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
 	["STEAM_0:0:79182238"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
 	["STEAM_0:1:94707597"] = "Alex.Anszer/Function, DDoS,JSP,VAC Banned,cheater,stealing files,aimware,Ban Evasion (Alt of STEAM_0:1:77421334), BAN ME FOREVER",
