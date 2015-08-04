@@ -16,6 +16,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
 	["STEAM_0:1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack",
 	["STEAM_0:1:85820490"] = "Pools Closed/Liam, FIVE VAC Bans!, sv_allowcslua, kawaii_bypass,Hera,sasha,defcon,AHack, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:67639206"] = "ManInAlpha/just_d0ge_it/Ruslan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:0:141088010)",
