@@ -12,9 +12,14 @@ local Skiddies = {
 
 	["STEAM_0:1:47897611"] = "Pascal/Ditzon, sv_allowcslua, gmcl_cat_win32.dll, Mapex, defcon, sasha hack",
 	["STEAM_0:0:90623980"] = "MoJnoen/dontbeazehma/AprixZ, Lennys scripts",
-	["STEAM_0:1:88629101"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
-	["STEAM_0:1:87376544"] = "Aerico/captainaerico/ruben/aknu alt, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
-	["STEAM_0:1:69870677"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	
+	["STEAM_0:1:49588519"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:88621207"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:0:138707334"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:88629101"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:87376544"] = "Aerico/KQLY/captainaerico/ruben/aknu alt, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:69870677"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	
 	["STEAM_0:1:117651240"] = "ilikeableton/Ele0t/Leedle, C++ hacks, Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:80172964"] = "Zak/Zak The Exploiter/troll names, stealing files, FIVE VAC bans, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
@@ -493,7 +498,7 @@ local Skiddies = {
 	["STEAM_0:0:16742"] = "Troll names, Member of hack/troll groups, DDoS, BAN ME FOREVER",
 	["STEAM_0:0:19101478"] = "cancerwarrior/troll names, BAN ME FOREVER",
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",
-	["STEAM_0:1:70694849"] = "Xavier/xaviermettle/Troll names, VAC banned, member of DDoS group, C++ hacks, TriggerCheats, BigHack, shitposting",
+	["STEAM_0:1:70694849"] = "Xavier/xaviermettle/Troll names, VAC banned, member of DDoS group, C++ hacks, TriggerCheats, BigHack, shitposting, Member of many hack/troll groups",
 	["STEAM_0:1:116184381"] = "BENBOOST/BB9/BH4X alt, hacks, VAC banned, troll names",
 	["STEAM_0:1:42565103"] = "BENBOOST/BB9/BH4X, hacks, VAC banned, troll names",
 	["STEAM_0:1:90719102"] = "0mn1s/VacBannedForTooMuchSkill, aim-flex C++ cheats, Member of hack/troll group: MPGH,aim-flex",
