@@ -11,9 +11,9 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:88629101"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:87376544"] = "Aerico/captainaerico/ruben/aknu alt, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
+	["STEAM_0:1:69870677"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
 	["STEAM_0:1:117651240"] = "ilikeableton/Ele0t/Leedle, C++ hacks, Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:80172964"] = "Zak/Zak The Exploiter/troll names, stealing files, FIVE VAC bans, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
@@ -1974,7 +1974,6 @@ local Skiddies = {
 	["STEAM_0:1:33695901"] = "Banlist",
 	["STEAM_0:1:19527953"] = "Banlist",
 	["STEAM_0:0:506569"] = "Banlist",
-	["STEAM_0:1:69870677"] = "Traitor cheat",
 	["STEAM_0:0:20409589"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:0:26652690"] = "Banlist",
 	["STEAM_0:0:14690776"] = "SP2: Sethhack",
@@ -3394,7 +3393,6 @@ local Skiddies = {
 	["STEAM_0:0:60746837"] = "2S: sv_allowcslua",
 	["STEAM_0:0:217737"] = "Banlist",
 	["STEAM_0:0:32016608"] = "Banlist",
-	["STEAM_0:1:88629101"] = "Dismay (stealing files), ban me",
 	["STEAM_0:1:19039199"] = "SSDB: gm_stringtables.dll",
 	["STEAM_0:1:25352929"] = "Banlist",
 	["STEAM_0:0:38972898"] = "2S: AHack",
