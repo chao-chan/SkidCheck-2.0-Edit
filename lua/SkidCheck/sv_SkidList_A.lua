@@ -10,7 +10,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:90623980"] = "MoJnoen/dontbeazehma/AprixZ, Lennys scripts",
 	["STEAM_0:1:88629101"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
 	["STEAM_0:1:87376544"] = "Aerico/captainaerico/ruben/aknu alt, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
 	["STEAM_0:1:69870677"] = "Aerico/captainaerico/ruben/aknur, stealing files, 2x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller",
