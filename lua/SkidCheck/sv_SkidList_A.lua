@@ -10,6 +10,11 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:72040173"] = "WasserLeiche DarkChase, AHack",
+	["STEAM_0:0:67344431"] = "026, phishing bot, added me just to send scam link",
 	["STEAM_0:1:47897611"] = "Pascal/Ditzon, sv_allowcslua, gmcl_cat_win32.dll, Mapex, defcon, sasha hack",
 	["STEAM_0:0:90623980"] = "MoJnoen/dontbeazehma/AprixZ, Lennys scripts",
 	
