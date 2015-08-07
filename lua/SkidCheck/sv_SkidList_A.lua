@@ -67,7 +67,6 @@ local Skiddies = {
 	["STEAM_0:0:45273483"] = "Cyanide/klindahl12/mgog/Dr.Zoidberg, Troll names",
 	["STEAM_0:0:61734191"] = "MrRoy/royprofile/Roy13212, sv_allowcslua bypass, bitchbot.lua (Ampris), sashahek.lua, cvar3, nospread modules",
 	["STEAM_0:1:34799862"] = "neff/neffr/NF, Stealing files, MPGH",
-	["STEAM_0:1:59872134"] = "NickLD/Nick/nickldominator, VAC banned, asking for hacks",
 	["STEAM_0:1:45699289"] = "nullern/MarcusMus/Troll names, 2x VAC bans, using hacks (Dark scripts), Member of hack/troll group: BAN ME FOR ETERNITY",
 	["STEAM_0:0:36430791"] = "Niller/Nicklas Hansen, 2x VAC bans",
 	["STEAM_0:1:29105931"] = "balloony/Luffe/gravko, stealing files, 4x VAC bans, JSP cheat (stealing files), falco's scripts, propkiller, possible cdriza alt",
