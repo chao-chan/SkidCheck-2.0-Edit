@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:40165138"] = "ZeroByter/zerobyter/OMGOMG132, Backdoor/Exploits in workshop addons (Third Person Controller)",
 	["STEAM_0:1:72040173"] = "WasserLeiche DarkChase, AHack",
 	["STEAM_0:0:67344431"] = "026, phishing bot, added me just to send scam link",
 	["STEAM_0:1:47897611"] = "Pascal/Ditzon, sv_allowcslua, gmcl_cat_win32.dll, Mapex, defcon, sasha hack",
@@ -180,7 +180,7 @@ local Skiddies = {
 	["STEAM_0:1:82357451"] = "Nerve alt 2",
 	["STEAM_0:0:82374900"] = "Nerve alt 1",
 	["STEAM_0:0:58570342"] = "Capptein.T.T.S, VAC banned, sv_allowcslua, defcon_aimbot,Mapex,nanohack, 2S: sv_allowcslua",
-	["STEAM_0:1:46230933"] = "Votton/VottonHD, 3x VAC bans, stealing files, gDaap,cvar3,nospread,JSP,RCON hacking,memeware,ampris, BAN ME FOREVER",
+	["STEAM_0:1:46230933"] = "Votton/VottonHD, 3x VAC bans, stealing files, gDaap,cvar3,nospread,JSP,RCON hacking,memeware,ampris,TriggerCheats,PepperBot, BAN ME FOREVER",
 	["STEAM_0:1:18955910"] = "McSnip, stealing files, hacks",
 	["STEAM_0:1:90500208"] = "Naminu/Troll names, 2x VAC bans",
 	["STEAM_0:0:32374738"] = "Tevran/Dracqar, DDoS",
