@@ -10,8 +10,8 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:105165152"] = "Tlexinty/banta/Bingo Buffter, Mapex",
+	["STEAM_0:0:135441094"] = "MyPod/Hacking Mr_King, speedhacks, gmcl_cat_win32.dll, Mapex, sasha.lua, defcon aimbot",
 	["STEAM_0:0:40165138"] = "ZeroByter/zerobyter/OMGOMG132, Backdoor/Exploits in workshop addons (Third Person Controller)",
 	["STEAM_0:1:72040173"] = "WasserLeiche DarkChase, AHack",
 	["STEAM_0:0:67344431"] = "026, phishing bot, added me just to send scam link",
