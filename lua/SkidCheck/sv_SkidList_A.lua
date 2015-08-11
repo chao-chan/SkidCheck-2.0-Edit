@@ -11,6 +11,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:63454463"] = "W33D ItsYourGod/Captain Shephard, Mapex, AHack",
 	["STEAM_0:1:118077285"] = "Chimpanzer Alex Charles/axelxdl/axel, Speedhacks",
 	["STEAM_0:0:66481294"] = "the suspect/theo123dk, aimbot.lua 'Hackcraft'",
 	["STEAM_0:0:96846825"] = "W33D xRaZe/Jokherr5, AHack",
@@ -351,10 +352,11 @@ local Skiddies = {
 	["STEAM_0:0:43917806"] = "Tie the Terrorist/tymessen, DCInjector",
 	
 	["STEAM_0:0:100368373"] = "Users, stealing files,pHack",
-	["STEAM_0:1:90731720"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
-	["STEAM_0:1:62132405"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
-	["STEAM_0:1:73012010"] = "ImFriendly/Anarchically/Troll names, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
-	["STEAM_0:0:77568751"] = "ImFriendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:1:2537080"] = "Billy/Possible Im Friendly alt, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:1:90731720"] = "Im Friendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:1:62132405"] = "Im Friendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion, BAN ME FOREVER",
+	["STEAM_0:1:73012010"] = "Im Friendly/Anarchically/Troll names, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
+	["STEAM_0:0:77568751"] = "Im Friendly/Anarchically/Sadistic/Users, DDoS,stealing files,3x VAC bans,pHack,Falcos,aimware,2S ban,Mapex, Ban Evasion (Alt of STEAM_0:1:62132405), BAN ME FOREVER",
 	
 	["STEAM_0:1:18855627"] = "BorhilIan",
 	["STEAM_0:0:25185420"] = "comicaldan",
@@ -7159,7 +7161,6 @@ local Skiddies = {
 	["STEAM_0:1:24115736"] = "SSDB: Name_Enabler.dll",
 	["STEAM_0:1:33285866"] = "2S: BlueBot",
 	["STEAM_0:0:21491851"] = "SP2: Unknown",
-	["STEAM_0:1:2537080"] = "Dismay (stealing files), ban me",
 	["STEAM_0:0:34589227"] = "MPGH",
 	["STEAM_0:0:29635636"] = "2S: AHack",
 	["STEAM_0:1:19159317"] = "SP2: Code injection (Sethhack)",
