@@ -10,7 +10,15 @@ local Skiddies = {
 
 
 
-	["STEAM_0:1:105165152"] = "Tlexinty/banta/Bingo Buffter, Mapex",
+
+	["STEAM_0:1:118077285"] = "Chimpanzer Alex Charles/axelxdl/axel, Speedhacks",
+	["STEAM_0:0:66481294"] = "the suspect/theo123dk, aimbot.lua 'Hackcraft'",
+	["STEAM_0:0:96846825"] = "W33D xRaZe/Jokherr5, AHack",
+	["STEAM_0:1:13354335"] = "Lerox Grey/Leroy/beliy_nn alt, Aimware, attempted bypass, mapex, BAN ME FOREVER",
+	["STEAM_0:1:5777177"] = "Lerox Grey/Leroy/beliy_nn alt, Aimware, attempted bypass, mapex, BAN ME FOREVER",
+	["STEAM_0:1:14497"] = "Lerox Grey/Leroy/beliy_nn alt, Aimware, attempted bypass, mapex, BAN ME FOREVER",
+	["STEAM_0:0:4665069"] = "Lerox Grey/Leroy/beliy_nn, Aimware, attempted bypass, mapex, BAN ME FOREVER",
+	["STEAM_0:1:105165152"] = "Tlexinty/banta/Bingo Buffter, DDoS threat, name stealing, Mapex, 12 year old",
 	["STEAM_0:0:135441094"] = "MyPod/Hacking Mr_King, speedhacks, gmcl_cat_win32.dll, Mapex, sasha.lua, defcon aimbot",
 	["STEAM_0:0:40165138"] = "ZeroByter/zerobyter/OMGOMG132, Backdoor/Exploits in workshop addons (Third Person Controller)",
 	["STEAM_0:1:72040173"] = "WasserLeiche DarkChase, AHack",
