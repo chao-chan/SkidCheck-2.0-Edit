@@ -4,9 +4,10 @@
 === SkidCheck - 2.0 ===
 --By HeX
 
-This addon checks the HAC database (sv_SkidList.lua, over ~50,470 cheaters) and lets
-everyone in the server know if any are on the current game. This can not *detect*
-cheaters, nor can it punish anyone it finds. It only does a warning message.
+This addon checks the HAC database (The sv_SkidList files, over ~52,844 cheaters)
+and lets everyone in the server know if any are on the current game.
+This can not *detect* cheaters, nor can it punish anyone it finds. It only does
+a warning message.
 
 Check back here often, more IDs added almost daily!
 
@@ -25,7 +26,7 @@ OFF by default, useless if sk_kick or sk_admin is 1
 sk_admin 0/1  --Only send SK messages to admins.
 OFF by default, useless if sk_kick or sk_omit is 1
 
-sk_sync  6/0  --Allow list sync from GitHub? value == hours to check for updates.
+sk_sync  6/0  --Allow list sync from GitHub? in hours to check for updates.
 ON by default
 
 
@@ -44,6 +45,9 @@ sk_blocked.txt       --Logs blocked cheater connection attempts if sk_kick is 1
 Hooks (SERVER side):
 This is called when a known cheater is detected. Return true to stop the default
 message and handle it yourself, such as for custom chatboxes/punishments.
+
+sk_kick must be 0 for this to work, which will ALLOW them to join the server unless
+handled yourself in this hook!
 
 hook.Add("OnSkid", "SK", function(ply, Reason) return true end)
 ```

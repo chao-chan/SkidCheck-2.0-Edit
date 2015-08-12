@@ -11,6 +11,11 @@ local Skiddies = {
 
 
 
+
+
+	["STEAM_0:1:41601191"] = "Racaille De La Street/Praxe, Mapex",
+	["STEAM_0:0:80517668"] = "Djomar, gmcl_cat_win32.dll, dead_aimbot, defcon",
+	["STEAM_0:1:96580056"] = "fEES/caafaf/AlexKill, lua/sasha.lua",
 	["STEAM_0:1:63454463"] = "W33D ItsYourGod/Captain Shephard, Mapex, AHack",
 	["STEAM_0:1:118077285"] = "Chimpanzer Alex Charles/axelxdl/axel, Speedhacks",
 	["STEAM_0:0:66481294"] = "the suspect/theo123dk, aimbot.lua 'Hackcraft'",
@@ -833,7 +838,7 @@ local Skiddies = {
 	["STEAM_0:0:51343476"] = "2S: Mapex",
 	["STEAM_0:1:57734279"] = "2S: AHack",
 	["STEAM_0:1:29490616"] = "2S: BHop script",
-	["STEAM_0:0:67890864"] = "2S: AHack",
+	["STEAM_0:0:67890864"] = "NeveR/DefenderCzech, VAC banned, Sasha, Hera, nine_eleven_speedhack, speedhack, 2S: AHack",
 	["STEAM_0:0:42805322"] = "2S: Unknown hack",
 	["STEAM_0:1:79694392"] = "2S: AXpublic",
 	["STEAM_0:1:107050309"] = "2S: Unknown hack",
