@@ -12,7 +12,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:77963073"] = "Ackar/ackar77/AVAST, stealing files, VAC banned, gdaap,Ahack,defcon,anxition, gmcl_cat_win32.dll",
 	["STEAM_0:1:41601191"] = "Racaille De La Street/Praxe, Mapex",
 	["STEAM_0:0:80517668"] = "Djomar, gmcl_cat_win32.dll, dead_aimbot, defcon",
 	["STEAM_0:1:96580056"] = "fEES/caafaf/AlexKill, lua/sasha.lua",
