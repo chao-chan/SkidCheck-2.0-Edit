@@ -10,8 +10,8 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:0:61973848"] = "MassivePuncake/Matt Petro/Explosion, 2x VAC bans, Member of hack/troll group: MPGH",
+	["STEAM_0:1:123729135"] = "YEE/sethxi/Troll names, MPGH, troll, 12 year old.",
 	["STEAM_0:1:77963073"] = "Ackar/ackar77/AVAST, stealing files, VAC banned, gdaap,Ahack,defcon,anxition, gmcl_cat_win32.dll",
 	["STEAM_0:1:41601191"] = "Racaille De La Street/Praxe, Mapex",
 	["STEAM_0:0:80517668"] = "Djomar, gmcl_cat_win32.dll, dead_aimbot, defcon",
