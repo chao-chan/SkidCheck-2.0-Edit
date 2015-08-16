@@ -9,7 +9,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:45515729"] = "Dingus Productions Founder/Mads Arvedsen a;t, VAC banned, AHack, Ban Evasion (STEAM_0:0:114646201)",
+	["STEAM_0:0:114646201"] = "Dingus Productions Founder/Mads Arvedsen, VAC banned, AHack, Ban Evasion (Alt of STEAM_0:0:45515729)",
 	["STEAM_0:0:61973848"] = "MassivePuncake/Matt Petro/Explosion, 2x VAC bans, Member of hack/troll group: MPGH",
 	["STEAM_0:1:123729135"] = "YEE/sethxi/Troll names, MPGH, troll, 12 year old.",
 	["STEAM_0:1:77963073"] = "Ackar/ackar77/AVAST, stealing files, VAC banned, gdaap,Ahack,defcon,anxition, gmcl_cat_win32.dll",
@@ -336,7 +337,7 @@ local Skiddies = {
 	["STEAM_0:0:984454"] = "Mike Jones/ayy40000, VAC banned, Member of hack/troll group: faggothackers",
 	["STEAM_0:1:87397038"] = "y0gurt/Todd Reese/Troll names, Aimware, Member of hack/troll group: gayweedddads",
 	["STEAM_0:0:84408790"] = "sp00k/The Terminator/Troll names, 3x VAC bans, Member of hack/troll group: myg0t_international",
-	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME",
+	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
 	["STEAM_0:0:39907011"] = "Kappa/Turtle Justice/Troll names, Member of hack/troll group: Rule-De-Game",
 	["STEAM_0:1:68606171"] = "Troll names, VAC banned",
 	["STEAM_0:0:43081833"] = "xKnight/Fragen,stayler999, VAC banned, Member of hack/troll group: Rule-De-Game",
