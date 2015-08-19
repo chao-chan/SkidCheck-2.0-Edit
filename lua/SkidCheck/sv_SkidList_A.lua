@@ -9,6 +9,13 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+
+	["STEAM_0:1:85279666"] = "ScorpionZx, lua/sasha.lua aimbot",
 	["STEAM_0:0:45515729"] = "Dingus Productions Founder/Mads Arvedsen a;t, VAC banned, AHack, Ban Evasion (STEAM_0:0:114646201)",
 	["STEAM_0:0:114646201"] = "Dingus Productions Founder/Mads Arvedsen, VAC banned, AHack, Ban Evasion (Alt of STEAM_0:0:45515729)",
 	["STEAM_0:0:61973848"] = "MassivePuncake/Matt Petro/Explosion, 2x VAC bans, Member of hack/troll group: MPGH",
