@@ -14,7 +14,10 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:36965857"] = "Alex760/alexis, 2x VAC bans",
+	["STEAM_0:1:126225549"] = "Asutorea/vaporwave_and_anime/LoliSmasher2001/Troll names, skiddie, MPGH, member of hack/troll groups",
+	["STEAM_0:1:77269274"] = "Dendo123/Dendo, gmcl_cat_win32.dll bypass, lua/defcon.lua aimbot",
+	["STEAM_0:1:79339661"] = "NeverSleep, Mapex, Lennys scripts",
 	["STEAM_0:1:85279666"] = "ScorpionZx, lua/sasha.lua aimbot",
 	["STEAM_0:0:45515729"] = "Dingus Productions Founder/Mads Arvedsen a;t, VAC banned, AHack, Ban Evasion (STEAM_0:0:114646201)",
 	["STEAM_0:0:114646201"] = "Dingus Productions Founder/Mads Arvedsen, VAC banned, AHack, Ban Evasion (Alt of STEAM_0:0:45515729)",
@@ -692,7 +695,7 @@ local Skiddies = {
 	["STEAM_0:0:51913704"] = "Troll names, VAC banned, Member of hack/troll group: honorableposters",
 	["STEAM_0:0:55216258"] = "DheerajBhatt, MPGH, troll posts, ban me",
 	["STEAM_0:0:23823962"] = "Backdoor/exploits, VAC banned, ban me",
-	["STEAM_0:1:83634902"] = "sik, selling exploits",
+	["STEAM_0:1:83634902"] = "MassXModz/Overload/sikgaming/overloadaolrevo/sik, selling exploits, ",
 	["STEAM_0:0:48069769"] = "Jesus Crust/troll names, VAC banned",
 	["STEAM_0:0:19997930"] = "Jackie, ArcBank SendLua Exploit, Ban me",
 	["STEAM_0:1:85965529"] = "Backdoor/Exploits, scoreboard.lua, Ban me",
