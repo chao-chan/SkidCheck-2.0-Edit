@@ -11,9 +11,10 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
+	["STEAM_0:0:130835242"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (Alt of STEAM_0:0:60575957)",
+	["STEAM_0:0:60575957"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (STEAM_0:0:130835242)",
+	["STEAM_0:0:92037896"] = "JVswaggGamer, gmcl_cat_win32.dll bypass, lua/defiance.lua, lua/sasha.lua, lua/defcon.lua aimbots",
 	["STEAM_0:1:36965857"] = "Alex760/alexis, 2x VAC bans",
 	["STEAM_0:1:126225549"] = "Asutorea/vaporwave_and_anime/LoliSmasher2001/Troll names, skiddie, MPGH, member of hack/troll groups",
 	["STEAM_0:1:77269274"] = "Dendo123/Dendo, gmcl_cat_win32.dll bypass, lua/defcon.lua aimbot",
