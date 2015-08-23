@@ -10,7 +10,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:67538183"] = "Sinclair/xFzNox, 3x VAC bans, selling exploits",
 	["STEAM_0:0:83454535"] = "LordSyru cake bob/lordkooot/Emil, forced sv_allowcslua, lua/ttt3.lua Ahack, lua/defcon.lua aimbots",
 	["STEAM_0:1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
 	["STEAM_0:0:130835242"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (Alt of STEAM_0:0:60575957)",
@@ -655,11 +655,11 @@ local Skiddies = {
 	["STEAM_0:0:37633127"] = "NIN, hacks",
 	["STEAM_0:1:21125463"] = "Mike/h0p3l355, hacks",
 	
-	["STEAM_0:0:42194705"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
-	["STEAM_0:0:101348488"] = "Leystryku new, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
-	["STEAM_0:0:83376334"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
-	["STEAM_0:1:38725115"] = "Leystryku alt, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
-	["STEAM_0:1:83423668"] = "Leystryku, 2S: Cheats, selling anticheat bypasses, writing various hacks. BAN ME FOREVER",
+	["STEAM_0:0:42194705"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
+	["STEAM_0:0:101348488"] = "Leystryku new, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
+	["STEAM_0:0:83376334"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
+	["STEAM_0:1:38725115"] = "Leystryku alt, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
+	["STEAM_0:1:83423668"] = "Leystryku, crashing servers, selling anticheat bypasses, writing various hacks, 2S: Cheats. BAN ME FOREVER",
 	
 	["STEAM_0:1:40971509"] = "Senpai Noodles, 2S: AHack",
 	["STEAM_0:1:96000942"] = "Invisible name, VAC banned, Exploits/asking for hacks/Member of hack/troll group: formatmefans",
