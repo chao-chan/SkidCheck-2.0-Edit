@@ -11,6 +11,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:83454535"] = "LordSyru cake bob/lordkooot/Emil, forced sv_allowcslua, lua/ttt3.lua Ahack, lua/defcon.lua aimbots",
 	["STEAM_0:1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
 	["STEAM_0:0:130835242"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (Alt of STEAM_0:0:60575957)",
 	["STEAM_0:0:60575957"] = "Dentan/Dentan S/Simme007, VAC banned, Lennys scripts, Ban Evasion (STEAM_0:0:130835242)",
