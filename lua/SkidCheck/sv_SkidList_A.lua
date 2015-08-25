@@ -349,6 +349,7 @@ local Skiddies = {
 	["STEAM_0:0:984454"] = "Mike Jones/ayy40000, VAC banned, Member of hack/troll group: faggothackers",
 	["STEAM_0:1:87397038"] = "y0gurt/Todd Reese/Troll names, Aimware, Member of hack/troll group: gayweedddads",
 	["STEAM_0:0:84408790"] = "sp00k/The Terminator/Troll names, 3x VAC bans, Member of hack/troll group: myg0t_international",
+	["STEAM_0:1:115212069"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names alt, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
 	["STEAM_0:1:88828403"] = "btg/billytheg0at/btgboy7/bee_tee_gee/Troll names, DDoS, VAC banned, C++ hacks, Member of hack/troll group: faggothackers, BAN ME FOREVER",
 	["STEAM_0:0:39907011"] = "Kappa/Turtle Justice/Troll names, Member of hack/troll group: Rule-De-Game",
 	["STEAM_0:1:68606171"] = "Troll names, VAC banned",
