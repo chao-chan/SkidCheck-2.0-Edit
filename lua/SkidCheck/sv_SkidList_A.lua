@@ -9,7 +9,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:29540342"] = "Iced Coffee/jack pendrick?, Member of hack/troll group: poki, Ban evasion (Alt: STEAM_0:0:26479054)",
+	["STEAM_0:0:26479054"] = "jack pendrick/Iced Coffee alt, Member of hack/troll group: poki, Ban evasion (Alt of STEAM_0:0:29540342)",
 	["STEAM_0:0:67538183"] = "Sinclair/xFzNox, 3x VAC bans, selling exploits",
 	["STEAM_0:0:83454535"] = "LordSyru cake bob/lordkooot/Emil, forced sv_allowcslua, lua/ttt3.lua Ahack, lua/defcon.lua aimbots",
 	["STEAM_0:1:95188096"] = "Yaroslav, 2x VAC bans, Mapex, lua/sasha.lua aimbot",
