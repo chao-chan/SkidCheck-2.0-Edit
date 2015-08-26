@@ -9,6 +9,16 @@ local Skiddies = {
 
 
 
+
+
+
+
+
+
+
+	["STEAM_0:1:39052921"] = "fiveo33/big ass mike/Pulga/Troll names, Member of hack/troll groups, 12 year old skid. Ban me forever",
+	["STEAM_0:0:51934966"] = "he7e6/skripTER/Troll names, Member of hack/troll groups, 12 year old skid. Ban me forever",
+	["STEAM_0:0:58191084"] = "perl/Alex, Admitted DDoS, propkiller",
 	["STEAM_0:0:29540342"] = "Iced Coffee/jack pendrick?, Member of hack/troll group: poki, Ban evasion (Alt: STEAM_0:0:26479054)",
 	["STEAM_0:0:26479054"] = "jack pendrick/Iced Coffee alt, Member of hack/troll group: poki, Ban evasion (Alt of STEAM_0:0:29540342)",
 	["STEAM_0:0:67538183"] = "Sinclair/xFzNox, 3x VAC bans, selling exploits",
@@ -2222,7 +2232,6 @@ local Skiddies = {
 	["STEAM_0:0:27353003"] = "Banlist",
 	["STEAM_0:0:5226387"] = "SP2: speedhack",
 	["STEAM_0:0:19746778"] = "Banlist",
-	["STEAM_0:1:39052921"] = "Pulga",
 	["STEAM_0:1:58763793"] = "RaveAttack101, _vip_likeablawk",
 	["STEAM_0:0:39667744"] = "Banlist",
 	["STEAM_0:1:21196163"] = "Skiddie",
@@ -2794,7 +2803,7 @@ local Skiddies = {
 	["STEAM_0:1:48376840"] = "Banlist",
 	["STEAM_0:1:19633238"] = "Backdoor",
 	["STEAM_0:1:24285937"] = "Banlist",
-	["STEAM_0:0:45881962"] = "lemmagame.com Check it out, Hacks/Propkiller",
+	["STEAM_0:0:45881962"] = "Archie/thebestcatever, Admitted DDoS, VAC banned, Hacks/Propkiller",
 	["STEAM_0:0:36988619"] = "Banlist",
 	["STEAM_0:1:17508001"] = "SSDB: BadMetatable",
 	["STEAM_0:0:41366841"] = "Banlist",
@@ -3426,7 +3435,7 @@ local Skiddies = {
 	["STEAM_0:0:41937115"] = "Blackops.cfg",
 	["STEAM_0:1:39026637"] = "Banlist",
 	["STEAM_0:0:16087139"] = "Banlist",
-	["STEAM_0:0:25675049"] = "Propkiller",
+	["STEAM_0:0:25675049"] = "Gage/godofpropkill/Troll names, 4x VAC bans, Propkiller, Member of many hack/troll groups",
 	["STEAM_0:0:81038991"] = "Hacks",
 	["STEAM_0:0:25202854"] = "GLDB: Altair, Cheats detected",
 	["STEAM_0:1:29538476"] = "epic_fail_lol, VAC ban, Dismay (stealing files), ban me",
