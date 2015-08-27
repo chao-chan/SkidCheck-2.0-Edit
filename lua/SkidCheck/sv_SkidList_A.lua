@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:62219797"] = "TGOD BLAZE1911/TaylorGang_blazRu, lua/defiance.lua, anxition, AHack",
 	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1, attempted anticheat bypass, MPGH",
 	["STEAM_0:0:29593863"] = "Ultimate/7771535164/John Melon, Stealing files, VAC banned, Dark scripts, bypasses, JSP,bh_menu,LORDHack,SH",
 	["STEAM_0:1:39052921"] = "fiveo33/big ass mike/Pulga/Troll names, Member of hack/troll groups, 12 year old skid. Ban me forever",
