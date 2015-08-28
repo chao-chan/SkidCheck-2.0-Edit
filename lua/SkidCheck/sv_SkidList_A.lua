@@ -14,7 +14,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:103612004"] = "Sven/swisssven/svenurechtm, sv_allowcslua,VAC banned, JSP,AHack,SMEG,murder,prophunt hacks, Ban Evasion (Alt of STEAM_0:0:50056272)",
+	["STEAM_0:0:50056272"] = "Sven/swisssven/svenurechtm alt, sv_allowcslua,VAC banned, JSP,AHack,SMEG,murder,prophunt hacks, Ban Evasion (Alt STEAM_0:0:103612004)",
 	["STEAM_0:1:70244605"] = "Jack_The_Ripper/Felix/3571598246, Mapex",
 	["STEAM_0:0:62219797"] = "TGOD BLAZE1911/TaylorGang_blazRu, lua/defiance.lua, anxition, AHack",
 	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1, attempted anticheat bypass, MPGH",
