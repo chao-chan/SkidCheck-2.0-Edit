@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:70244605"] = "Jack_The_Ripper/Felix/3571598246, Mapex",
 	["STEAM_0:0:62219797"] = "TGOD BLAZE1911/TaylorGang_blazRu, lua/defiance.lua, anxition, AHack",
 	["STEAM_0:1:81942762"] = "Chappie1/chappieishappy1, attempted anticheat bypass, MPGH",
 	["STEAM_0:0:29593863"] = "Ultimate/7771535164/John Melon, Stealing files, VAC banned, Dark scripts, bypasses, JSP,bh_menu,LORDHack,SH",
@@ -537,8 +538,8 @@ local Skiddies = {
 	["STEAM_0:0:2237880"] = "degeso/Reim/rei, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:1:71682944"] = "bloodytoucan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:1:40264616)",
 	["STEAM_0:1:40264616"] = "bloodytoucan, 2x VAC bans, Ban Evasion (STEAM_0:1:71682944)",
-	["STEAM_0:0:44427696"] = "Obama/Snipwnage, Gangster hack C++, ban me",
-	["STEAM_0:1:92084115"] = "Obama/Snipwnage alt, Gangster hack C++, ban me",
+	["STEAM_0:0:44427696"] = "Obama/Snip/Snipwnage/Troll names, Gangster hack C++, MPGH, Member of hack/troll groups, BAN ME",
+	["STEAM_0:1:92084115"] = "Obama/Snip/Snipwnage/Troll names alt, Gangster hack C++, MPGH, Member of hack/troll groups, BAN ME",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
 	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: 'a hack a friend did', stealing files",
 	["STEAM_0:0:16742"] = "Troll names, Member of hack/troll groups, DDoS, BAN ME FOREVER",
@@ -546,8 +547,9 @@ local Skiddies = {
 	["STEAM_0:1:46754113"] = "SamMO, member of DDoS group",
 	["STEAM_0:1:102681943"] = "Xavier/xaviermettle/Troll names alt, VAC banned, member of DDoS group, C++ hacks, TriggerCheats, BigHack, shitposting, Member of many hack/troll groups",
 	["STEAM_0:1:70694849"] = "Xavier/xaviermettle/Troll names, VAC banned, member of DDoS group, C++ hacks, TriggerCheats, BigHack, shitposting, Member of many hack/troll groups",
-	["STEAM_0:1:116184381"] = "BENBOOST/BB9/BH4X alt, hacks, VAC banned, troll names",
-	["STEAM_0:1:42565103"] = "BENBOOST/BB9/BH4X, hacks, VAC banned, troll names",
+	["STEAM_0:1:36699586"] = "BENBOOST/BB9/BH4x0r/BH4X alt, hacks, VAC banned, troll names",
+	["STEAM_0:1:116184381"] = "BENBOOST/BB9/BH4x0r/BH4X alt, hacks, VAC banned, troll names",
+	["STEAM_0:1:42565103"] = "BENBOOST/BB9/BH4x0r/BH4X, hacks, VAC banned, troll names",
 	["STEAM_0:1:90719102"] = "0mn1s/VacBannedForTooMuchSkill, aim-flex C++ cheats, Member of hack/troll group: MPGH,aim-flex",
 	["STEAM_0:1:27629959"] = "BAETMAN, mapex, AnXition, propkiller",
 	["STEAM_0:0:42753299"] = "PlaceTheHacks/Pajiaam, VAC banned, asking for hacks on MPGH",
