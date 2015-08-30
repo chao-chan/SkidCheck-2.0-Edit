@@ -12,8 +12,11 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:66555438"] = "HoustoN/hanter_sasheker/SashekeR/HanteR, sv_allowcslua, 3x VAC bans, AHack",
+	["STEAM_0:0:15074561"] = "Osama Bin Putin/Wicks/wickssss18/dimi10000000/Jose Mourinho, 3x VAC bans, Ban Evasion (Alt: STEAM_0:0:124830894)",
+	["STEAM_0:0:124830894"] = "Osama Bin Putin/Wicks/wickssss18/dimi10000000/Jose Mourinho alt, 3x VAC bans, Ban Evasion (Alt of STEAM_0:0:15074561)",
+	["STEAM_0:1:19515935"] = "Netoxy, Backdoor in workshop addons (weapon stripper) lua/autorun/r2k_shared.lua",
+	["STEAM_0:0:58839469"] = "KredeGC, Backdoor in workshop addons (weapon stripper) lua/autorun/r2k_shared.lua",
 	["STEAM_0:0:103612004"] = "Sven/swisssven/svenurechtm, sv_allowcslua,VAC banned, JSP,AHack,SMEG,murder,prophunt hacks, Ban Evasion (Alt of STEAM_0:0:50056272)",
 	["STEAM_0:0:50056272"] = "Sven/swisssven/svenurechtm alt, sv_allowcslua,VAC banned, JSP,AHack,SMEG,murder,prophunt hacks, Ban Evasion (Alt STEAM_0:0:103612004)",
 	["STEAM_0:1:70244605"] = "Jack_The_Ripper/Felix/3571598246, Mapex",
@@ -188,7 +191,6 @@ local Skiddies = {
 	["STEAM_0:1:113605163"] = "Patrick/Yentin3/QueenKitty, 3x VAC bans, big skiddie, member of 3 hack/troll groups",
 	["STEAM_0:0:100054312"] = "DeadpooI_ThePirate_68/FreddyZator, Sasha.lua hack",
 	["STEAM_0:0:102114323"] = "baron2014500, VAC banned, mApex.lua",
-	["STEAM_0:0:15074561"] = "Osama Bin Putin/Wicks, 3x VAC bans",
 	["STEAM_0:1:88001155"] = "Potato/TheTerribleTroller, anxition",
 	["STEAM_0:1:54067661"] = "Chronic_Nobody/0Beef, defcon.lua",
 	["STEAM_0:0:85282974"] = "Pykh on duty/Andearheagh/Andreea, Falcos scripts",
