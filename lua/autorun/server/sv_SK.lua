@@ -206,11 +206,8 @@ timer.Simple(6, function()
 	MsgC(Skid.BLUE, 	"  Falco has chosen to disable SkidCheck in current versions of DarkRP.\n")
 	MsgC(Skid.BLUE, 	"  Please delete this addon.\n\n")
 	
-	MsgC(Skid.BLUE, 	"  If you want to continue to use SkidCheck, edit your:\n")
-	MsgC(Skid.RED, 		"  DarkRP/gamemode/modules/workarounds/sh_workarounds.lua\n")
-	MsgC(Skid.BLUE, 	"  And remove lines ")
-	MsgC(Skid.RED, 		"114 - 117")
-	MsgC(Skid.BLUE, 	" The \"if Skid then\" block of code.\n\n")
+	MsgC(Skid.BLUE, 	"  If you want to continue to use SkidCheck, ")
+	MsgC(Skid.RED, 		"blame falco.\n\n")
 end)
 
 

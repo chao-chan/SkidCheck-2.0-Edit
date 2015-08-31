@@ -11,6 +11,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:457"] = "Rak, Baconbot,' RakBot' aimbot",
+	["STEAM_0:1:119450183"] = "st0rm/qbq/Troll names, Member of hack/troll group: wantedbygac",
+	["STEAM_0:1:81571168"] = "Web Browser/Fluffy/Troll names, sv_allowcslua,sv_cheats, Eagle scripts,AutoAim,Falcos,DarkScripts",
+	["STEAM_0:0:82460189"] = "Jewis/Troll names, stealing files, sasha aimbot, Lennys,Falcos,DarkScripts, Member of hack/troll group: propkillarmy",
 	["STEAM_0:0:132990584"] = "speis polis/lord supreme/Troll names, DDoS after being banned, MPGH, Mapex,defcon,memeware,bluebot,GBot, BAN ME FOREVER",
 	["STEAM_0:1:66555438"] = "HoustoN/hanter_sasheker/SashekeR/HanteR, sv_allowcslua, 3x VAC bans, AHack",
 	["STEAM_0:0:15074561"] = "Osama Bin Putin/Wicks/wickssss18/dimi10000000/Jose Mourinho, 3x VAC bans, Ban Evasion (Alt: STEAM_0:0:124830894)",
@@ -1547,7 +1552,6 @@ local Skiddies = {
 	["STEAM_0:0:42225221"] = "HoboSenior, Lennys scripts",
 	["STEAM_0:0:70336406"] = "Troll name, Lennys scripts, Lennys_Group",
 	["STEAM_0:1:43011121"] = "DathGuy, Lennys scripts",
-	["STEAM_0:1:81571168"] = "PhaSe_ChineseBlackPizza, Lennys scripts",
 	["STEAM_0:1:54018812"] = "Glohst, Lennys scripts",
 	["STEAM_0:1:30737311"] = "Martin091, Lennys scripts",
 	["STEAM_0:0:66903931"] = "Chronemic, Lennys scripts",
