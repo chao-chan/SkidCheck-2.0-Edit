@@ -11,7 +11,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:132990584"] = "speis polis/lord supreme/Troll names, DDoS after being banned, MPGH, Mapex,defcon,memeware,bluebot,GBot, BAN ME FOREVER",
 	["STEAM_0:1:66555438"] = "HoustoN/hanter_sasheker/SashekeR/HanteR, sv_allowcslua, 3x VAC bans, AHack",
 	["STEAM_0:0:15074561"] = "Osama Bin Putin/Wicks/wickssss18/dimi10000000/Jose Mourinho, 3x VAC bans, Ban Evasion (Alt: STEAM_0:0:124830894)",
 	["STEAM_0:0:124830894"] = "Osama Bin Putin/Wicks/wickssss18/dimi10000000/Jose Mourinho alt, 3x VAC bans, Ban Evasion (Alt of STEAM_0:0:15074561)",
@@ -1000,7 +1000,6 @@ local Skiddies = {
 	["STEAM_0:1:53978959"] = "Troll names",
 	["STEAM_0:1:91037148"] = "youknowtheusual/Troll names, 2x VAC bans, aimware cheat",
 	["STEAM_0:1:107252732"] = "d3x alt, history of cheating, ban me",
-	["STEAM_0:1:68209808"] = "DeeJay, VAC ban, autobanned for hacks, google his steamid",
 	["STEAM_0:1:21056185"] = "ds22/DarkShadow6/Troll names, 'my hax I troll kids on darkrp with get detected pretty fast'",
 	["STEAM_0:1:49225816"] = "Mew, server addon backdoor, ban me forever",
 	["STEAM_0:1:60429028"] = "igotbanned, stealing server config files, RCON hacking",

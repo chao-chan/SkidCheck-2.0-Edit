@@ -4,20 +4,20 @@
 === SkidCheck - 2.0 ===
 --By HeX
 
-This addon checks the HAC database (The sv_SkidList files, over ~52,844 cheaters)
-and lets everyone in the server know if any are on the current game.
-This can not *detect* cheaters, nor can it punish anyone it finds. It only does
-a warning message.
+This addon uses the HAC database (The sv_SkidList files, over ~57,680 cheaters)
+and, by default, prevents connection to the server for any IDs contained within.
 
-Check back here often, more IDs added almost daily!
+It can not *detect* cheaters, nor can it punish anyone it finds. It only does
+a warning message or prevents them joining the server.
+
 
 How to use:
-Nothing is needed to configure or set up (Unless you want to). Default is to prevent
-connection to the server if the player is on the database, and to update the database
-from GitHub on server map change, and every 6 hours after.
+Nothing is needed to configure or set up (Unless you want to).
+Default is to prevent connection to the server if the player is on the database,
+and to update the database from GitHub on server map change, then every 6 hours.
 
 CVars:
-sk_kick  1/0  --Prevent players who are in the DB from joining.
+sk_kick  1/0  --Prevent players in the DB from joining. Overrides everything else
 ON by default
 
 sk_omit  0/1  --Don't send the SK message to the cheater in question.
@@ -31,15 +31,15 @@ ON by default
 
 
 Commands:
-sk            --Does a re-check of everyone in game, does the sound and message.
+sk            --Re-play the sound and message of any cheaters in game.
 
 sk_update     --Sync all lists rignt now, usually runs every sk_sync hours
 
 
 
-Logs (in the /data folder):
-sk_encounters.txt    --Logs every cheater that spawns
-sk_blocked.txt       --Logs blocked cheater connection attempts if sk_kick is 1
+Logs (in the server's /data folder):
+sk_blocked.txt       --Logs blocked cheater connection attempts (if sk_kick is 1)
+sk_encounters.txt    --Logs every cheater that spawns (if sk_kick is 0)
 
 
 Hooks (SERVER side):

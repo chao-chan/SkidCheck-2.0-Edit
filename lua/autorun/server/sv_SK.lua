@@ -150,7 +150,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	
 	//Block if enabled
 	if Skid.sk_kick:GetBool() then
-		return false, "You're on the naughty list: <"..Reason.."> ("..SID..")"
+		return false, "[SkidCheck] You're on the naughty list: "..SID.."\n<"..Reason..">"
 	end
 end
 hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
@@ -176,6 +176,42 @@ function Skid.Ready()
 	MsgC(Skid.GREEN, 	" bad players in local lists!"..Skid.CanSync.."\n\n")
 end
 timer.Simple(1, Skid.Ready)
+
+
+
+
+
+--[[
+	Falco, its up to server owners to choose who joins their server (and weather or not to run this addon)
+	
+	SkidCheck is the list of people who I don't want playing on my server. Not "malicious code".
+	It was originally the HAC database, and was released here for anyone to use for any reason. Not to cause drama.
+	
+	I'm not going to bypass your disabling of SkidCheck in DarkRP, all that will now happen is the following messages.
+]]
+local Check = Skid.Check
+timer.Simple(6, function()
+	if Skid.Check == Check then return end
+	
+	MsgC(Skid.GREY, 	"\n\n  [")
+	MsgC(Skid.WHITE2, 	"Skid")
+	MsgC(Skid.BLUE, 	"Check")
+	MsgC(Skid.GREY, 	"] ")
+	MsgC(Skid.RED, 		"Disabled due to DarkRP update.\n\n")
+	
+	MsgC(Skid.BLUE, 	"  SkidCheck is now ")
+	MsgC(Skid.PINK, 	"no longer protecting ")
+	MsgC(Skid.BLUE, 	"this server.\n")
+	
+	MsgC(Skid.BLUE, 	"  Falco has chosen to disable SkidCheck in current versions of DarkRP.\n")
+	MsgC(Skid.BLUE, 	"  Please delete this addon.\n\n")
+	
+	MsgC(Skid.BLUE, 	"  If you want to continue to use SkidCheck, edit your:\n")
+	MsgC(Skid.RED, 		"  DarkRP/gamemode/modules/workarounds/sh_workarounds.lua\n")
+	MsgC(Skid.BLUE, 	"  And remove lines ")
+	MsgC(Skid.RED, 		"114 - 117")
+	MsgC(Skid.BLUE, 	" The \"if Skid then\" block of code.\n\n")
+end)
 
 
 
