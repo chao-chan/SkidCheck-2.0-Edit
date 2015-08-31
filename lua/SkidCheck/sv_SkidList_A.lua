@@ -12,6 +12,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:55538282"] = "Mr. Spy/KENNY, Dark scripts",
+	["STEAM_0:1:58678878"] = "FlamingMonkey/Ben, 2x VAC bans, Mapex, Darkscripts, Lennys scripts, AutoAim",
 	["STEAM_0:0:457"] = "Rak, Baconbot,' RakBot' aimbot",
 	["STEAM_0:1:119450183"] = "st0rm/qbq/Troll names, Member of hack/troll group: wantedbygac",
 	["STEAM_0:1:81571168"] = "Web Browser/Fluffy/Troll names, sv_allowcslua,sv_cheats, Eagle scripts,AutoAim,Falcos,DarkScripts",
@@ -3863,7 +3866,6 @@ local Skiddies = {
 	["STEAM_0:0:19326995"] = "CryoShocked",
 	["STEAM_0:1:13447259"] = "Banlist",
 	["STEAM_0:1:8863407"] = "Banlist",
-	["STEAM_0:1:15001746"] = "Blackops.cfg",
 	["STEAM_0:0:54449678"] = "cheat engine",
 	["STEAM_0:0:16663555"] = "Banlist",
 	["STEAM_0:1:43083181"] = "Banlist",
@@ -4178,7 +4180,7 @@ local Skiddies = {
 	["STEAM_0:1:37486791"] = "<3 sa edbull",
 	["STEAM_0:1:20026079"] = "SP2: Odius",
 	["STEAM_0:1:41054479"] = "Speedhacking",
-	["STEAM_0:0:19321794"] = "Willox, SP2: Convar forcing",
+	["STEAM_0:0:19321794"] = "Willox, hacking 30,000 GMod players & 800+ servers, SP2: Convar forcing",
 	["STEAM_0:1:29784969"] = "SP2: Code injection (Sethhack)",
 	["STEAM_0:1:18916913"] = "PancakeWagon",
 	["STEAM_0:0:20422965"] = "Banlist",
