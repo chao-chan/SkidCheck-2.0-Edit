@@ -182,7 +182,7 @@ timer.Simple(1, Skid.Ready)
 
 
 --[[
-	Falco, its up to server owners to choose who joins their server (and weather or not to run this addon)
+	Falco, it's up to server owners to choose who joins their server (and whether or not to run this addon)
 	
 	SkidCheck is the list of people who I don't want playing on my server. Not "malicious code".
 	It was originally the HAC database, and was released here for anyone to use for any reason. Not to cause drama.

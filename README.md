@@ -7,6 +7,12 @@
 This addon uses the HAC database (The sv_SkidList files, over ~57,680 cheaters)
 and, by default, prevents connection to the server for any IDs contained within.
 
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ SkidCheck is the database of players who *I* don't want joining the UHDM server. +
++ If you don't trust the list, don't install it. It was made by me to keep out     +
++ people who ruin the game.  Not to cause drama.                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 It can not *detect* cheaters, nor can it punish anyone it finds. It only does
 a warning message or prevents them joining the server.
 
