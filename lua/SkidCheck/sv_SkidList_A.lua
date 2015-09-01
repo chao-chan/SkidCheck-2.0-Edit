@@ -12,6 +12,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:0:34557502"] = "GTA-DAS The Killer/Poweredbyadrian, Mapex",
 	["STEAM_0:1:68229625"] = "Zayne/Troll names, fake profile, stealing HeX's avatar and name, Member of hack/troll group: ReCoNL33T, BAN ME FOREVER",
 	["STEAM_0:1:55538282"] = "Mr. Spy/KENNY, Dark scripts",
 	["STEAM_0:1:58678878"] = "FlamingMonkey/Ben, 2x VAC bans, Mapex, Darkscripts, Lennys scripts, AutoAim",

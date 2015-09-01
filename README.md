@@ -5,7 +5,8 @@
 --By HeX
 
 This addon uses the HAC database (The sv_SkidList files, over ~57,680 cheaters)
-and, by default, prevents connection to the server for any IDs contained within.
+and, by default, for any IDs contained within, does a warning message and sound when 
+they spawn in the server.
 
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 + SkidCheck is the database of players who *I* don't want joining the UHDM server. +
@@ -23,11 +24,11 @@ Default is to prevent connection to the server if the player is on the database,
 and to update the database from GitHub on server map change, then every 6 hours.
 
 CVars:
-sk_kick  1/0  --Prevent players in the DB from joining. Overrides everything else
-ON by default
+sk_kick  0/1  --Prevent players in the DB from joining. Overrides everything else
+OFF by default
 
-sk_omit  0/1  --Don't send the SK message to the cheater in question.
-OFF by default, useless if sk_kick or sk_admin is 1
+sk_omit  1/0  --Don't send the SK message to the cheater in question.
+ON by default, useless if sk_kick or sk_admin is 1
 
 sk_admin 0/1  --Only send SK messages to admins.
 OFF by default, useless if sk_kick or sk_omit is 1

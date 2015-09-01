@@ -8,9 +8,9 @@ if HAC then
 	return
 end
 
-Skid.WaitFor 	= 25 --Seconds to wait before message
-Skid.sk_kick 	= CreateConVar("sk_kick",	1, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
-Skid.sk_omit 	= CreateConVar("sk_omit",	0, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
+Skid.WaitFor 	= 35 --Seconds to wait before message
+Skid.sk_kick 	= CreateConVar("sk_kick",	0, FCVAR_ARCHIVE, "Prevent players who are in the DB from joining")
+Skid.sk_omit 	= CreateConVar("sk_omit",	1, FCVAR_ARCHIVE, "Don't send the SK message to the cheater in question (Useless if sk_kick or sk_admin is 1)")
 Skid.sk_admin	= CreateConVar("sk_admin",	0, FCVAR_ARCHIVE, "Only send SK messages to admins (Useless if sk_kick or sk_omit is 1)")
 Skid.sk_sync	= CreateConVar("sk_sync",	6, FCVAR_ARCHIVE, "Allow list sync from GitHub? value == hours to check for updates (0 to disable)")
 
