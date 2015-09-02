@@ -660,7 +660,6 @@ local Skiddies = {
 	["STEAM_0:0:102354424"] = "UnturnedEp1cGam3r, asking for hacks",
 	["STEAM_0:1:98801679"] = "SlamBot Coder",
 	["STEAM_0:0:96557803"] = "Troll names, VAC banned",
-	["STEAM_0:0:76031410"] = "SuperiorGamer",
 	["STEAM_0:0:27428812"] = "Cryptokid",
 	["STEAM_0:0:113312183"] = "Troll names, aim-flex C++ cheats",
 	["STEAM_0:0:79094001"] = "Troll names, aim-flex C++ cheats",
