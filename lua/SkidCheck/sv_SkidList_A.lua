@@ -11,6 +11,9 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:128196813"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino alt, 2x VAC bans, Ban evasion (Alt STEAM_0:1:106994543)",
+	["STEAM_0:1:106994543"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino, 2x VAC bans, Ban evasion (Alt of STEAM_0:1:128196813)",
 	["STEAM_0:1:35179721"] = "CapN/CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans",
 	["STEAM_0:0:34557502"] = "GTA-DAS The Killer/Poweredbyadrian, Mapex",
 	["STEAM_0:1:68229625"] = "Zayne/Troll names, fake profile, stealing HeX's avatar and name, Member of hack/troll group: ReCoNL33T, BAN ME FOREVER",
@@ -106,7 +109,6 @@ local Skiddies = {
 	["STEAM_0:1:86047179"] = "BigBadWilly alt, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
 	["STEAM_0:0:82346308"] = "BigBadWilly, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
 	["STEAM_0:1:560283"] = "BigBadWilly new alt, Dismay (stealing files),cvar3,BlueBot,Falcos, ban me",
-	["STEAM_0:1:106994543"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino, 2x VAC bans",
 	["STEAM_0:1:31564120"] = "FLaaVEn/cyberhuskyflaaven/Fabian Sporlein, 2x VAC bans",
 	["STEAM_0:0:50085327"] = "dj-br0n3/Sucre, asking for C++ hacks, ban me",
 	["STEAM_0:0:100401143"] = "Vantom/Vanton/Dedruss, stealing files, attempted bypass, mapex, ahack, ghack, gdaap",
@@ -7957,7 +7959,7 @@ local Skiddies = {
 	["STEAM_0:0:52495673"] = "Dingusbird, ban me, Mapex",
 	["STEAM_0:1:12098715"] = "Skiddie",
 	["STEAM_0:0:49660408"] = "Garry Nelson, Mapex,AHack, Ban Evasion (STEAM_0:1:89001107)",
-	["STEAM_0:0:17488508"] = "Skiddie",
+	["STEAM_0:0:17488508"] = "CBC Golden Microdisease/mint/glump, stealing files, Sethhack, Skiddie",
 	["STEAM_0:1:39971225"] = "2S: AHack",
 	["STEAM_0:0:28478760"] = "Aslan/MaiKawasumi/Axel1337/Troll names, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
 	["STEAM_0:1:3987728"] = "Aslan/MaiKawasumi/Axel1337/Troll names alt, 2x VAC bans, troll, skiddie, propkiller, 2S: Unknown hack",
