@@ -11,7 +11,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:35179721"] = "CapN/CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans",
 	["STEAM_0:0:34557502"] = "GTA-DAS The Killer/Poweredbyadrian, Mapex",
 	["STEAM_0:1:68229625"] = "Zayne/Troll names, fake profile, stealing HeX's avatar and name, Member of hack/troll group: ReCoNL33T, BAN ME FOREVER",
 	["STEAM_0:1:55538282"] = "Mr. Spy/KENNY, Dark scripts",
@@ -771,7 +771,7 @@ local Skiddies = {
 	["STEAM_0:0:74064862"] = "SWEGGOD, HVH server cheat logs, Ban me",
 	["STEAM_0:1:33617345"] = "AVANIC KITCAT, HVH server cheat logs, Ban me",
 	["STEAM_0:0:88456467"] = "TEAEYEGEE KOOPA TROOPA, HVH server cheat logs, Ban me",
-	["STEAM_0:1:64807909"] = "CLAN__MAN, HVH server cheat logs, Ban me",
+	["STEAM_0:1:64807909"] = "Kelse/savagefuckinggamer/Crumsion/CLAN__MAN, HVH server cheat logs, Ban me",
 	["STEAM_0:1:57643426"] = "DUCKSONQUACK, HVH server cheat logs, Ban me",
 	["STEAM_0:0:73439087"] = "RED, HVH server cheat logs, Ban me",
 	["STEAM_0:0:448996"] = "TEHNEON, HVH server cheat logs, Ban me",
