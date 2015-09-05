@@ -132,7 +132,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	if not Reason then return end
 	
 	//Log
-	file.Append("sk_blocked.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason) )
+	file.Append("sk_connect.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason) )
 	
 	//Message
 	MsgC(Skid.GREY, "\n[")
