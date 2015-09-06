@@ -12,6 +12,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:16852271"] = "Mobius, Lennys",
+	["STEAM_0:1:40439202"] = "Saylor Twift/tunnelsnejks/Troll names, DDoS, VAC banned, Member of hack/troll group: annoyingprogamers",
+	["STEAM_0:1:50164415"] = "Michael J. Caboose/pinkothecherub, DDoS",
+	["STEAM_0:1:44227737"] = "Yunie/IPAUL, propkiller, 8 cheating scripts, Member of hack/troll groups: lolicocks, VACBINS",
 	["STEAM_0:1:128196813"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino alt, 2x VAC bans, Ban evasion (Alt STEAM_0:1:106994543)",
 	["STEAM_0:1:106994543"] = "SCRUB NR 1/oliver/oliher13/FaZe OliveRino, 2x VAC bans, Ban evasion (Alt of STEAM_0:1:128196813)",
 	["STEAM_0:1:35179721"] = "CapN/CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans",
@@ -658,7 +663,7 @@ local Skiddies = {
 	["STEAM_0:0:3087678"] = "Element/_e, cheating, troll names",
 	["STEAM_0:1:105190882"] = "Element/_e, cheating, troll names",
 	["STEAM_0:1:103849665"] = "j ykj k jm, cheating",
-	["STEAM_0:0:100073592"] = "mason ramb0",
+	["STEAM_0:0:100073592"] = "wtfhi/mason ramb0/Troll names, DDoS, VAC banned",
 	["STEAM_0:0:102354424"] = "UnturnedEp1cGam3r, asking for hacks",
 	["STEAM_0:1:98801679"] = "SlamBot Coder",
 	["STEAM_0:0:96557803"] = "Troll names, VAC banned",
