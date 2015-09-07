@@ -12,7 +12,8 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:140048952"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
+	["STEAM_0:1:47723510"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:16852271"] = "Mobius, Lennys",
 	["STEAM_0:1:40439202"] = "Saylor Twift/tunnelsnejks/Troll names, DDoS, VAC banned, Member of hack/troll group: annoyingprogamers",
 	["STEAM_0:1:50164415"] = "Michael J. Caboose/pinkothecherub, DDoS",
