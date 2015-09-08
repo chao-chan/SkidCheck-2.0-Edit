@@ -12,6 +12,10 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:48753813"] = "SomeEpicCat, Dark scripts",
+	["STEAM_0:1:104446267"] = "FaZe ThUnDeR, Dark scripts",
+	["STEAM_0:1:87507733"] = "ShootMyKnife DF, Dark scripts",
+	["STEAM_0:0:143149903"] = "Austere10, Falcos scripts",
 	["STEAM_0:0:140048952"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:47723510"] = "Trey Hufstetler/garrysbhopalt/garrysbhop/Troll names, VAC banned, Member of hack/troll group: gmodhvh",
 	["STEAM_0:1:16852271"] = "Mobius, Lennys",
