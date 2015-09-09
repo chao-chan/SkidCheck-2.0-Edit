@@ -13,6 +13,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:112303096"] = "S_H_A_D_O_W/katietheduck, MPGH",
 	["STEAM_0:0:849274"] = "Adam/iewd/Troll names, asking for hacks, Member of hack/troll group: fickedeinemutter",
 	["STEAM_0:1:48753813"] = "SomeEpicCat, Dark scripts",
 	["STEAM_0:1:104446267"] = "FaZe ThUnDeR, Dark scripts",
