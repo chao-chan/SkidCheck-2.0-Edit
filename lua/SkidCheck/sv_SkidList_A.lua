@@ -12,6 +12,8 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:849274"] = "Adam/iewd/Troll names, asking for hacks, Member of hack/troll group: fickedeinemutter",
 	["STEAM_0:1:48753813"] = "SomeEpicCat, Dark scripts",
 	["STEAM_0:1:104446267"] = "FaZe ThUnDeR, Dark scripts",
 	["STEAM_0:1:87507733"] = "ShootMyKnife DF, Dark scripts",
@@ -439,6 +441,7 @@ local Skiddies = {
 	["STEAM_0:1:24223185"] = "HubbaJubba/Carter Reynolds/itsyourboyjuicyj/Cpt.Hubba, admitted to stealing files",
 	["STEAM_0:1:82205555"] = "maxxwadd, mApex",
 	["STEAM_0:1:59766480"] = "frostyyy, sv_allowcslua, 2X vac bans, 'nine_eleven_bot',rhook,dead_aimbot,defcon",
+	["STEAM_0:0:11389739"] = "theminipenguin/Thelastpenguin alt, writing hacks (pHack), stealing files 'I was ripping their CS Lua'",
 	["STEAM_0:0:33167998"] = "Thelastpenguin, writing hacks (pHack), stealing files 'I was ripping their CS Lua'",
 	["STEAM_0:1:41249453"] = "aStonedPenguin/zach, writing hacks (pHack), stealing files 'I was ripping their CS Lua'",
 	["STEAM_0:0:69139712"] = "Dr. Edward Richtofen, stealing files",
