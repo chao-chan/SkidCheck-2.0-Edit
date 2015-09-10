@@ -13,6 +13,12 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:107992661"] = "Moosicorn/officialmoosicorn, Member of snixzz hacking site",
+	["STEAM_0:0:80615189"] = "Ashley/mashirokaana/Cubed, 2x VAC bans, Member of hack/troll groups",
+	["STEAM_0:0:41026068"] = "tehghost/dudebro mcnoknife/Troll names, VAC banned, Member of hack/troll group: fuckufaggetazuisleet",
+	["STEAM_0:1:98901009"] = "Rei/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: Dango_Mafia_Fan_club",
+	["STEAM_0:0:80172964"] = "Zak/Troll names, stealing files, FIVE VAC bans, Member of snixzz hacking site, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:1:48186822"] = "Kifersucks/Tom Connor Bob Billy Fred Joe, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:97258774"] = "aker/Nick/gmodlivestream/Troll names, VAC banned, Member of hack/troll group: myg0t_international",
 	["STEAM_0:0:47565254"] = "Yung 2cash/2cash/Troll names, 4x VAC bans, Member of snixzz hacking site, 2S: Unknown hack, Member of 10 hack/troll groups, BAN ME",
@@ -117,7 +123,6 @@ local Skiddies = {
 	["STEAM_0:1:69870677"] = "Aerico/KQLY/captainaerico/ruben/aknur, stealing files, 3x VAC bans, Dismay,runkahack,cvar3,ampris,lennys,falcos,defcon, propkiller, Ban evasion (Many alts, see SkidList_A)",
 	
 	["STEAM_0:1:117651240"] = "ilikeableton/Ele0t/Leedle, C++ hacks, Member of hack/troll group: antibirusnet",
-	["STEAM_0:0:80172964"] = "Zak/Zak The Exploiter/troll names, stealing files, FIVE VAC bans, Member of 11 hack/troll groups, huge skid, 2S: Unknown hack",
 	["STEAM_0:0:47530077"] = "SL Stilker/CL43SY/Strekker, Mapex",
 	["STEAM_0:1:71646656"] = "Ger Rus Sascha, 2x VAC bans, AHack",
 	["STEAM_0:1:85820490"] = "Pools Closed/Liam, FIVE VAC Bans!, sv_allowcslua, kawaii_bypass,Hera,sasha,defcon,AHack, Member of hack/troll group: annoyingprogamers",
