@@ -2,11 +2,6 @@
 
 
 local ExtraSkiddies = {
-
-
-
-
-
 	["STEAM_0:1:46633020"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:121201484"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:36564817"] = "Member of hack/troll group: MEMEWARE",
@@ -127,7 +122,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:14583782"] = "Member of hack/troll group: MEMEWARE",
 	["STEAM_0:0:1487929"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:140668552"] = "Member of hack/troll group: antibirusnet",
-	["STEAM_0:0:79252185"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:0:137542876"] = "Member of hack/troll group: antibirusnet",
 	["STEAM_0:1:25181634"] = "Member of hack/troll group: Haiiro",
 	["STEAM_0:1:88621207"] = "Member of hack/troll group: Haiiro",
@@ -196,7 +190,6 @@ local ExtraSkiddies = {
 	["STEAM_0:0:52848061"] = "Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:0:72514629"] = "Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:0:94001496"] = "Member of hack/troll group: ExploitersAndHackers",
-	["STEAM_0:0:56021974"] = "Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:0:103266502"] = "Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:1:53338715"] = "Member of hack/troll group: ExploitersAndHackers",
 	["STEAM_0:1:56585398"] = "Member of hack/troll group: ExploitersAndHackers",
@@ -4956,7 +4949,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:52915361"] = "Member of hack/troll group: stealthyfuckers",
 	["STEAM_0:0:88469196"] = "Member of hack/troll group: stealthyfuckers",
 	["STEAM_0:0:94561873"] = "Member of hack/troll group: stealthyfuckers",
-	["STEAM_0:0:59878557"] = "Member of hack/troll group: TubSquad",
 	["STEAM_0:1:71483543"] = "Member of hack/troll group: TubSquad",
 	["STEAM_0:1:66438942"] = "Member of hack/troll group: TubSquad",
 	["STEAM_0:0:33030633"] = "Member of hack/troll group: TubSquad",
