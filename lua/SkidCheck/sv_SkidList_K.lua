@@ -11,6 +11,23 @@ local ExtraSkiddies = {
 
 
 
+	["STEAM_0:0:7722994"] = "Member of hack/troll group: badsterdotnet",
+	["STEAM_0:0:56001427"] = "Member of hack/troll group: badsterdotnet",
+	["STEAM_0:1:24942941"] = "Member of hack/troll group: bigmemers",
+	["STEAM_0:0:29008926"] = "Member of hack/troll group: bigmemers",
+	["STEAM_0:0:55690724"] = "Member of hack/troll group: bigmemers",
+	["STEAM_0:1:77412530"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:19269760"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:0:80595701"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:42708286"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:56192652"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:48264383"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:47191470"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:47265416"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:0:40678685"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:1:44494409"] = "Member of hack/troll group: vacchurch",
+	["STEAM_0:0:153262"] = "Member of hack/troll group: SauseCode",
+	["STEAM_0:1:26244194"] = "Member of hack/troll group: gmodpropkills",
 	["STEAM_0:1:127234873"] = "Member of hack/troll group: NiggaNews9",
 	["STEAM_0:0:144114033"] = "Member of hack/troll group: NiggaNews9",
 	["STEAM_0:0:143823136"] = "Member of hack/troll group: NiggaNews9",
