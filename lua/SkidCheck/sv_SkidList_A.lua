@@ -14,7 +14,7 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:0:37326276"] = "IconofSin, Exploits/asking for hacks, Member of snixzz hacking site",
 	["STEAM_0:1:51001201"] = "Ronald Mcdonald/Yellow/Green/Jessie, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:44427696"] = "Obama/Snip/Snipwnage/Troll names, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
 	["STEAM_0:1:92084115"] = "Obama/Snip/Snipwnage/Troll names alt, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
@@ -756,7 +756,6 @@ local Skiddies = {
 	["STEAM_0:0:125614996"] = "D33, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:0:62980581"] = "MG ShotDownGER, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:1:105098856"] = "Shayden, Exploits/asking for hacks",
-	["STEAM_0:0:37326276"] = "I c o n o f S i n, Exploits/asking for hacks",
 	["STEAM_0:1:37515366"] = "lil bibby, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:1:54657356"] = "Pulcow, Exploits/asking for hacks",
 	["STEAM_0:0:93428766"] = "Tiyrd, Exploits/asking for hacks",
