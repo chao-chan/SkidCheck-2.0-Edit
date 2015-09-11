@@ -14,6 +14,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:1:51001201"] = "Ronald Mcdonald/Yellow/Green/Jessie, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:0:44427696"] = "Obama/Snip/Snipwnage/Troll names, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
+	["STEAM_0:1:92084115"] = "Obama/Snip/Snipwnage/Troll names alt, C++ hacks, Member of snixzz hacking site, MPGH, Member of hack/troll groups, BAN ME",
+	["STEAM_0:1:43064859"] = "SKILLMEN/CookieCrumbles/Troll names, Member of snixzz hacking site, Member of hack/troll groups",
 	["STEAM_0:0:107992661"] = "Moosicorn/officialmoosicorn, Member of snixzz hacking site",
 	["STEAM_0:0:80615189"] = "Ashley/mashirokaana/Cubed, 2x VAC bans, Member of hack/troll groups",
 	["STEAM_0:0:41026068"] = "tehghost/dudebro mcnoknife/Troll names, VAC banned, Member of hack/troll group: fuckufaggetazuisleet",
@@ -37,7 +42,8 @@ local Skiddies = {
 	["STEAM_0:0:32259367"] = "eon/eon_/Troll names, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: VIRUSBOYSU",
 	["STEAM_0:0:59878557"] = "Waterboyz/gagerino/James Kyle Lawfield, Member of hack/troll group: TubSquad,pa$ters,",
 	["STEAM_0:1:28561407"] = "Charged/Russell Powell/tdbrooster, 4x VAC Bans, Member of snixzz hacking site",
-	["STEAM_0:0:119603877"] = "Piratex/piratex129/george/Vitor Kubinyete, Member of hack/troll group: cuntflap",
+	["STEAM_0:1:98811587"] = "Piratex/piratex129/george/Vitor Kubinyete alt, Member of hack/troll group: cuntflap,Dango_Mafia_Fan_club",
+	["STEAM_0:0:119603877"] = "Piratex/piratex129/george/Vitor Kubinyete, Member of hack/troll group: cuntflap,Dango_Mafia_Fan_club",
 	["STEAM_0:1:53661328"] = "Capn/0x666/Synch CyniikuhL/Troll names, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD",
 	["STEAM_0:1:35179721"] = "Capn/0x666/Synch CyniikuhL/Troll names alt, 16 cheat scripts, 2x VAC bans, Member of hack/troll group: SKlDSQUAD",
 	["STEAM_0:1:52828414"] = "XboxIssues/FaZe Rain, VAC banned, propkiller, Member of hack/troll group: gmodpropkills",
@@ -593,8 +599,6 @@ local Skiddies = {
 	["STEAM_0:0:2237880"] = "degeso/Reim/rei, Blue bot, (cheating on Alt of STEAM_0:0:47960003)",
 	["STEAM_0:1:71682944"] = "bloodytoucan, 2x VAC bans, Ban Evasion (Alt of STEAM_0:1:40264616)",
 	["STEAM_0:1:40264616"] = "bloodytoucan, 2x VAC bans, Ban Evasion (STEAM_0:1:71682944)",
-	["STEAM_0:0:44427696"] = "Obama/Snip/Snipwnage/Troll names, Gangster hack C++, MPGH, Member of hack/troll groups, BAN ME",
-	["STEAM_0:1:92084115"] = "Obama/Snip/Snipwnage/Troll names alt, Gangster hack C++, MPGH, Member of hack/troll groups, BAN ME",
 	["STEAM_0:1:47219877"] = "Dear8033, turbobot, Member of hack/troll group: toughguys",
 	["STEAM_0:0:34179551"] = "Rektor, C++ hacks, leetaim, writing hacks, KnG.Rektor: 'a hack a friend did', stealing files",
 	["STEAM_0:0:16742"] = "Troll names, Member of hack/troll groups, DDoS, BAN ME FOREVER",
