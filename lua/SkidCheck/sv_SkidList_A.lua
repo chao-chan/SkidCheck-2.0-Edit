@@ -15,7 +15,9 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:120334819"] = "x22/zekkensan/ssszz/Bennys/Troll names, Member of snixzz hacking site",
+	["STEAM_0:0:142817570"] = "x22/zekkensan/ssszz/Bennys/Troll names alt, Member of snixzz hacking site",
+	
 	["STEAM_0:1:114466967"] = "DaFrekkinNoob/dafrekkinnoobest/Troll names, 2x VAC bans, RCON exploits, Member of snixzz hacking site, member of 3 hack/troll groups, BAN ME",
 	["STEAM_0:1:61792838"] = "DaFrekkinNoob/dafrekkinnoobest/Troll names, 2x VAC bans, RCON exploits, Member of snixzz hacking site, member of 3 hack/troll groups, BAN ME",
 	
@@ -23,7 +25,7 @@ local Skiddies = {
 	["STEAM_0:1:120338831"] = "Satori/c0mrade/Troll names, 2x VAC bans, backdoor/exploits, ember of snixzz hacking site, skiddie, BAN ME",
 	["STEAM_0:1:117853397"] = "Satori/c0mrade/Troll names, 2x VAC bans, backdoor/exploits, ember of snixzz hacking site, skiddie, BAN ME",
 	
-
+	["STEAM_0:1:57612102"] = "darknew1520/PKoArm/Lucius, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:13166064"] = "invalid/040/aAeq dispo/Troll names, Member of snixzz hacking site, Member of hack/troll group: Gangster_Paradise_",
 	["STEAM_0:0:56486352"] = "Regan/reganelliott/Troll names, VAC banned, Xmenu cheat, uSkid, Member of 23 hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:0:40538905"] = "Coconut Overflow/Main Man/Squirt, VAC banned, Member of hack/troll group: realmemeteam",
