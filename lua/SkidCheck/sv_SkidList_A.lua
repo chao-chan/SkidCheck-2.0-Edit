@@ -15,6 +15,11 @@ local Skiddies = {
 
 
 
+
+	["STEAM_0:0:65239696"] = "andrewmarshall13/Franklin Demar/Troll names, BAN ME FOREVER",
+	["STEAM_0:1:46774608"] = "bobbydenton/scottyboy1199/Troll names, DDoS, Member of hack/troll group: bobbyddosclan, BAN ME FOREVER",
+	["STEAM_0:0:61353403"] = "TheRobsterDJ/Rainbow_Dash/9857423345622/Troll names, Member of snixzz hacking site, Member of hack/troll groups, BAN ME FOREVER", 
+	
 	["STEAM_0:1:120334819"] = "x22/zekkensan/ssszz/Bennys/Troll names, Member of snixzz hacking site",
 	["STEAM_0:0:142817570"] = "x22/zekkensan/ssszz/Bennys/Troll names alt, Member of snixzz hacking site",
 	
