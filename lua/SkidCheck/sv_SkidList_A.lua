@@ -15,7 +15,10 @@ local Skiddies = {
 
 
 
-
+	["STEAM_0:1:104971837"] = "HappyRipper, VAC Banned, Member of snixzz hacking site",
+	["STEAM_0:0:142275477"] = "All4n/'bich', Member of snixzz hacking site",
+	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, Member of snixzz hacking site, hera,member of 3 hack/troll groups, BAN ME FOREVER",
+	["STEAM_0:0:118787869"] = "TheDuckMaster/theduckmastersteamaccount/Zachary/RubbyDuckModz, VAC banned, selling hacks, member of hack groups: DuckyHacks4Sale,HowAreCodeKills, BAN ME FOREVER",
 	["STEAM_0:0:42792328"] = "aethi/Ratteh/__asmr/Troll names, attacking & crashing servers, VAC banned, Member of snixzz hacking site, gDaap: Ratty, Member of hack/troll groups, BAN ME FOREVER",
 	["STEAM_0:1:50524201"] = "og squad/Jay/no_one/Troll names, 2S: Unknown hack, Member of hack/troll group: big_codens",
 	["STEAM_0:0:31297822"] = "naw/seacum/Crashmultiz/Troll names, Member of hack/troll group: big_codens",
@@ -409,7 +412,6 @@ local Skiddies = {
 	["STEAM_0:1:89938320"] = "Crayzzit156, sv_allowcslua, sv_cheats, AHack,dead_aimbot,pony hack",
 	["STEAM_0:0:51887787"] = "Kaddonnie/Clement, mApex",
 	["STEAM_0:1:75239713"] = "Jimmy Dean/Quad12/Troll names, stealing files, VAC banned, leaking code, huge skid, Member of hack/troll group: GarrysModSpammers, BAN ME FOREVER",
-	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, hera,member of 3 hack/troll groups",
 	["STEAM_0:0:50528548"] = "warriergod, gDaap,sv_allowcslua, Mapex,sasha hack,defcon,AHack",
 	["STEAM_0:0:50833519"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (Alt of STEAM_0:1:40671233)",
 	["STEAM_0:1:40671233"] = "Alexander/alex975/Panda, VAC banned, AHack,Mapex,sasha hack,aimbots, Ban Evasion (STEAM_0:0:50833519)",
