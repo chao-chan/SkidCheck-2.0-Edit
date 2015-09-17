@@ -15,6 +15,7 @@ local Skiddies = {
 
 
 
+	["STEAM_0:1:82661656"] = "Teh Chosen Juan/dark9081/Juan C. Garza, Member of snixzz hacking site",
 	["STEAM_0:1:104971837"] = "HappyRipper, VAC Banned, Member of snixzz hacking site",
 	["STEAM_0:0:142275477"] = "All4n/'bich', Member of snixzz hacking site",
 	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, Member of snixzz hacking site, hera,member of 3 hack/troll groups, BAN ME FOREVER",
