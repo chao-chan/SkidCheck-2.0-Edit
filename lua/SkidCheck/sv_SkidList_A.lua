@@ -15,6 +15,15 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:122076688"] = "mitchellpovich/Mitchell/Troll names, BAN ME",
+	["STEAM_0:0:24970061"] = "Yoss/Mike, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: aimflex",
+	["STEAM_0:1:69385723"] = "TornadoElert/egcshaodw/Joshua/Possible KQLY alt, VAC banned, Member of snixzz hacking site",
+	["STEAM_0:0:117364713"] = "strive/striveIWGB, Member of snixzz hacking site",
+	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of snixzz hacking site, Member of 18! hack/troll groups",
+	["STEAM_0:0:76805746"] = "jeantranssene/malusdefou/Undefined, MPGH, using hacks, ban me",
 	["STEAM_0:1:82661656"] = "Teh Chosen Juan/dark9081/Juan C. Garza, Member of snixzz hacking site",
 	["STEAM_0:1:104971837"] = "HappyRipper, VAC Banned, Member of snixzz hacking site",
 	["STEAM_0:0:142275477"] = "All4n/'bich', Member of snixzz hacking site",
@@ -542,7 +551,6 @@ local Skiddies = {
 	["STEAM_0:1:58022559"] = "AnUnlaidEgg, VAC banned",
 	["STEAM_0:1:95997606"] = "DANGO Jay/Neko/Troll names, VAC banned, Member of hack/troll group: DangoMafia, BAN ME",
 	["STEAM_0:0:18368432"] = "kl9kcaRIP/kl9kcaTHEVACMAN, 19 VAC BANS!!!",
-	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of hack/troll group: MPGH",
 	
 	["STEAM_0:1:15435635"] = "Failwhale8/Troll names, VAC banned,C++ hacks,Ban Evasion, Member of 4 hack/troll groups",
 	["STEAM_0:1:116253136"] = "Kittix/f0rmatmypsu/Master kitty/Arctic/Troll names, DDoS,VAC banned,C++ hacks,MPGH hacks,Ban Evasion, Member of SIX hack/troll groups",
