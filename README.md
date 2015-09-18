@@ -1,4 +1,4 @@
-![](http://i.imgur.com/3bxeiqQ.png)
+![](http://i.imgur.com/qJSb8nT.png)
 
 ```
 === SkidCheck - 2.0 ===
