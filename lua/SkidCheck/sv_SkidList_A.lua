@@ -15,16 +15,20 @@ local Skiddies = {
 
 
 
-
-
-
+	["STEAM_0:1:79904607"] = "chlgusdn001/Doge, Member of snixzz hacking site",
+	["STEAM_0:1:107702006"] = "DEADOFWGKTA/poop3489poop99999/, 2x VAC bans, Exploits/asking for hacks, Member of snixzz hacking site, Member of 11 hack/troll griups",
+	["STEAM_0:1:125752602"] = "COCKETOE/Ainsley Fieri/hotgiggitydamn, Member of snixzz hacking site",
+	["STEAM_0:0:25345204"] = "Opzon/Frank/simonsmsn119/rusher/h3110myfri3ndz, 2x VAC bans, stealing files, Member of snixzz hacking site, JSP, gDaap, BAN ME FOREVER",
+	["STEAM_0:1:73511765"] = "Jay/Troll names, Selling Exploits, attacking servers, Member of snixzz hacking site, JSP, BAN ME FOREVER",
+	["STEAM_0:0:50177079"] = "tiberiumfiend/Tiberium Fiend/Gleb, Member of snixzz hacking site",
+	["STEAM_0:0:67896364"] = "Pocan4ik_228/pocik228, lua/ttt3.lua (AHack)",
 	["STEAM_0:1:122076688"] = "mitchellpovich/Mitchell/Troll names, BAN ME",
 	["STEAM_0:0:24970061"] = "Yoss/Mike, 2x VAC bans, Member of snixzz hacking site, Member of hack/troll group: aimflex",
 	["STEAM_0:1:69385723"] = "TornadoElert/egcshaodw/Joshua/Possible KQLY alt, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:0:117364713"] = "strive/striveIWGB, Member of snixzz hacking site",
 	["STEAM_0:0:70268984"] = "RazoR Skide, VAC banned, C++ hacks, Member of snixzz hacking site, Member of 18! hack/troll groups",
 	["STEAM_0:0:76805746"] = "jeantranssene/malusdefou/Undefined, MPGH, using hacks, ban me",
-	["STEAM_0:1:82661656"] = "Teh Chosen Juan/dark9081/Juan C. Garza, Member of snixzz hacking site",
+	["STEAM_0:1:82661656"] = "Teh Chosen Juan/dark9081/Juan C. Garza/RabidRunner, Member of snixzz hacking site",
 	["STEAM_0:1:104971837"] = "HappyRipper, VAC Banned, Member of snixzz hacking site",
 	["STEAM_0:0:142275477"] = "All4n/'bich', Member of snixzz hacking site",
 	["STEAM_0:0:33099483"] = "polivilas/Troll names, stealing files,aimware,VAC banned, Member of snixzz hacking site, hera,member of 3 hack/troll groups, BAN ME FOREVER",
@@ -754,7 +758,6 @@ local Skiddies = {
 	["STEAM_0:1:49624713"] = "MrCraigTunstall, stealing files, hera, lots of hacks, Ban Evasion, BAN ME FOREVER",
 	
 	["STEAM_0:1:21207408"] = "an0nd, 2x VAC bans, aimbot (SMAC: Eye Angles Violation)",
-	["STEAM_0:0:25345204"] = "Opzon/Frank/simonsmsn119/rusher, 2x VAC bans, stealing files, JSP, gDaap, BAN ME FOREVER",
 	["STEAM_0:1:43933522"] = "NotSoSuper, 4x VAC bans, gDaap DB: Banana Lord, Dismay (stealing files), BAN ME FOREVER",
 	["STEAM_0:1:53406228"] = "Ilya/sofresh, VAC banned, cheats",
 	["STEAM_0:0:693787"] = "Ilya/sophresh, VAC banned, cheats",
@@ -824,7 +827,6 @@ local Skiddies = {
 	["STEAM_0:1:40971509"] = "Senpai Noodles, 2S: AHack",
 	["STEAM_0:1:96000942"] = "Invisible name, VAC banned, Exploits/asking for hacks/Member of hack/troll group: formatmefans",
 	["STEAM_0:0:121038730"] = "Crona/thegreatenate, VAC banned, Exploits, asking for hacks, using hacks (dark scripts)",
-	["STEAM_0:1:107702006"] = "DEADOFWGKTA, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:0:53629195"] = "William Jack, Exploits/asking for hacks",
 	["STEAM_0:1:43832341"] = "Slyvk, VAC banned, Exploits/asking for hacks",
 	["STEAM_0:1:106804361"] = "AAP Panda, Exploits/asking for hacks",
