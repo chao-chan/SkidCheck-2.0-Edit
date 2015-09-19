@@ -13,8 +13,11 @@ local Skiddies = {
 
 
 
-
-
+	["STEAM_0:1:86459498"] = "Shao Jun/zozozero/Troll names, Member of snixzz hacking site",
+	["STEAM_0:1:95904362"] = "papkay13, Member of snixzz hacking site",
+	["STEAM_0:0:35240148"] = "Jacksambre/uwillneverknow, Member of snixzz hacking site",
+	["STEAM_0:1:116674385"] = "Red/r3dclan/David, Member of snixzz hacking site",
+	["STEAM_0:0:80653101"] = "Russian Bear/bear228, lua/darkv1.lua (Dark scripts)",
 	["STEAM_0:1:79904607"] = "chlgusdn001/Doge, Member of snixzz hacking site",
 	["STEAM_0:1:107702006"] = "DEADOFWGKTA/poop3489poop99999/, 2x VAC bans, Exploits/asking for hacks, Member of snixzz hacking site, Member of 11 hack/troll griups",
 	["STEAM_0:1:125752602"] = "COCKETOE/Ainsley Fieri/hotgiggitydamn, Member of snixzz hacking site",
