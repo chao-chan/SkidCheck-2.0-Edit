@@ -13,6 +13,13 @@ local Skiddies = {
 
 
 
+
+
+
+	["STEAM_0:1:67265845"] = "AtoM, cvar3,hera,lennys,AHack,anxition,Bluebot,falcos,speedhacks, 2S: Aimbot",
+	["STEAM_0:0:24860087"] = "General Brick/shrek_is_near/Dickny/rockenman11, 2S: Mapex, MPGH, asking for hacks",
+	["STEAM_0:0:88359514"] = "Name Nameson/Bottle Brother 2/Troll names, VAC banned, Member of snixzz hacking site, Lennys",
+	["STEAM_0:0:100743361"] = "the101maham, Member of snixzz hacking site",
 	["STEAM_0:1:86459498"] = "Shao Jun/zozozero/Troll names, Member of snixzz hacking site",
 	["STEAM_0:1:95904362"] = "papkay13, Member of snixzz hacking site",
 	["STEAM_0:0:35240148"] = "Jacksambre/uwillneverknow, Member of snixzz hacking site",
@@ -110,7 +117,7 @@ local Skiddies = {
 	["STEAM_0:1:60777146"] = "!Az/customurlisbesturl/Azrael/Kodikos, 2x VAC bans, Member of snixzz hacking site",
 	["STEAM_0:0:59742095"] = "!Az/customurlisbesturl/Azrael/Kodikos alt, 2x VAC bans, Member of snixzz hacking site",
 	
-	["STEAM_0:0:1085292"] = "Marcus/iamthelaw/Troll names, Member of snixzz hacking site, Member of hack/troll group: imanigga",
+	["STEAM_0:0:1085292"] = "Marcus/iamthelaw/Troll names, Member of snixzz hacking site, Member of 8 hack/troll groups",
 	["STEAM_0:0:72477292"] = "LK4SNIPER, VAC banned, Member of snixzz hacking site",
 	["STEAM_0:1:49385206"] = "Average bloke/baevid/Muggy/Troll names, Member of snixzz hacking site, Member of hack/troll group: ValvesAntiCheatSquad, possible function alt",
 	["STEAM_0:0:144747522"] = "xaNe/nostainxane, Member of snixzz hacking site",
@@ -3055,7 +3062,6 @@ local Skiddies = {
 	["STEAM_0:1:23836998"] = "Skiddie",
 	["STEAM_0:0:39083757"] = "2S: AHack",
 	["STEAM_0:0:57620127"] = "Nox: Speedhacker",
-	["STEAM_0:1:67265845"] = "AtoM, 2S: Aimbot",
 	["STEAM_0:0:1701425"] = "Redz",
 	["STEAM_0:0:25490214"] = "Banlist",
 	["STEAM_0:1:29991635"] = "gDaap DB: mokertje (Nespresso²)",
@@ -4126,7 +4132,6 @@ local Skiddies = {
 	["STEAM_0:0:19338100"] = "SP2: coma",
 	["STEAM_0:1:35238040"] = "Banlist",
 	["STEAM_0:0:52870005"] = "Lennys_Group",
-	["STEAM_0:0:24860087"] = "2S: Mapex",
 	["STEAM_0:1:33902550"] = "shimm3y",
 	["STEAM_0:1:14802564"] = "Banlist",
 	["STEAM_0:0:31297727"] = "Banlist",

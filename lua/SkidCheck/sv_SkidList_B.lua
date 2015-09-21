@@ -5688,7 +5688,6 @@ local ExtraSkiddies = {
 	["STEAM_0:1:73305916"] = "Razer  Cyrentek.com, Lennys",
 	["STEAM_0:0:53043482"] = "Katy t3h PeNgU1N oF d00m, VAC banned, Lennys",
 	["STEAM_0:1:78909691"] = "Pretzel, Lennys",
-	["STEAM_0:0:88359514"] = "Bottle Brother 2, VAC banned, Lennys",
 	["STEAM_0:1:32578447"] = "Heroshi, Lennys",
 	["STEAM_0:0:44490532"] = "Dictator, VAC banned, Lennys",
 	["STEAM_0:1:26637131"] = "10 Dexter Van, Lennys",
