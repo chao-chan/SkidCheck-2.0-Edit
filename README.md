@@ -1,4 +1,4 @@
-NOTICE: I DO NOT OWN THIS!!! ALL CREDIT SHOULD GO TO HEX!
+*NOTICE: I DO NOT OWN THIS!!! ALL CREDIT SHOULD GO TO HEX!*
 Link to Original: https://github.com/MFSiNC/SkidCheck-2.0
 ![](http://i.imgur.com/qJSb8nT.png)
 
