@@ -1,6 +1,5 @@
 /*
-	=== SkidCheck - 2.0 ===
-	--By HeX
+	=== SkidCheck - 3.2 ===
 */
 
 if HAC then
@@ -36,7 +35,7 @@ HAC = { Skiddies = {} }
 	for k,v in pairs(Skid.Lists) do
 		include("SkidCheck/"..v)
 	end
-	
+
 	Skid.HAC_DB = HAC.Skiddies
 HAC = nil
 
@@ -51,18 +50,18 @@ function Skid.Check(server_only)
 			table.insert(Admins, v)
 		end
 	end
-	
+
 	//Go!
 	for k,v in pairs( player.GetHumans() ) do
 		local Reason = Skid.HAC_DB[ v:SteamID() ]
 		if not Reason then continue end
-		
+
 		//Hook
 		if hook.Run("OnSkid", v, Reason, (not server_only) ) then return end
-		
+
 		//Log
 		file.Append("sk_encounters.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), v:Nick(), v:SteamID(), Reason) )
-		
+
 		//Tell server
 		MsgC(Skid.GREY, "\n[")
 		MsgC(Skid.WHITE2, "Skid")
@@ -77,13 +76,13 @@ function Skid.Check(server_only)
 		MsgC(Skid.GREY, "> ")
 		MsgC(Skid.GREY, "is on the ")
 		MsgC(Skid.ORANGE, "HAC database\n\n")
-		
+
 		if not server_only then
 			//Tell clients
 			net.Start("Skid.Msg")
 				net.WriteEntity(v)
 				net.WriteString(Reason)
-				
+
 			//Send to everyone BUT cheater
 			if Skid.sk_omit:GetBool() then
 				net.SendOmit(v)
@@ -109,7 +108,7 @@ concommand.Add("sk", Skid.Command)
 function Skid.Spawn(self)
 	//Server
 	Skid.Check(true)
-	
+
 	//Clients
 	timer.Simple(Skid.WaitFor, function()
 		Skid.Check()
@@ -126,14 +125,14 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	if not SID or SID == "" then
 		return false, "Invalid SteamID"
 	end
-	
+
 	//Lookup
 	local Reason = Skid.HAC_DB[ SID ]
 	if not Reason then return end
-	
+
 	//Log
 	file.Append("sk_connect.txt", Format("\r\n[%s]: %s (%s) - %s", os.date(), user, SID, Reason) )
-	
+
 	//Message
 	MsgC(Skid.GREY, "\n[")
 	MsgC(Skid.WHITE2, "Skid")
@@ -147,7 +146,7 @@ function Skid.CheckPassword(SID64, ipaddr, sv_pass, pass, user)
 	MsgC(Skid.GREY, " <")
 	MsgC(Skid.RED, Reason)
 	MsgC(Skid.GREY, ">")
-	
+
 	//Block if enabled
 	if Skid.sk_kick:GetBool() then
 		return false, "[SkidCheck] You're on the naughty list: "..SID.."\n<"..Reason..">"
@@ -161,7 +160,7 @@ hook.Add("CheckPassword", "Skid.CheckPassword", Skid.CheckPassword)
 Skid.CanSync = ""
 if Skid.sk_sync:GetBool() then
 	Skid.CanSync = " (Will sync on map change)"
-	
+
 	include("sk_Sync.lua")
 end
 
@@ -183,42 +182,29 @@ timer.Simple(1, Skid.Ready)
 
 --[[
 	Falco, it's up to server owners to choose who joins their server (and whether or not to run this addon)
-	
+
 	SkidCheck is the list of people who I don't want playing on my server. Not "malicious code".
 	It was originally the HAC database, and was released here for anyone to use for any reason. Not to cause drama.
-	
+
 	I'm not going to bypass your disabling of SkidCheck in DarkRP, all that will now happen is the following messages.
 ]]
 local Check = Skid.Check
 timer.Simple(6, function()
 	if Skid.Check == Check then return end
-	
+
 	MsgC(Skid.GREY, 	"\n\n  [")
 	MsgC(Skid.WHITE2, 	"Skid")
 	MsgC(Skid.BLUE, 	"Check")
 	MsgC(Skid.GREY, 	"] ")
 	MsgC(Skid.RED, 		"Disabled due to DarkRP update.\n\n")
-	
+
 	MsgC(Skid.BLUE, 	"  SkidCheck is now ")
 	MsgC(Skid.PINK, 	"no longer protecting ")
 	MsgC(Skid.BLUE, 	"this server.\n")
-	
+
 	MsgC(Skid.BLUE, 	"  Falco has chosen to disable SkidCheck in current versions of DarkRP.\n")
 	MsgC(Skid.BLUE, 	"  Please delete this addon.\n\n")
-	
+
 	MsgC(Skid.BLUE, 	"  If you want to continue to use SkidCheck, ")
 	MsgC(Skid.RED, 		"blame falco.\n\n")
 end)
-
-
-
-
-
-
-
-
-
-
-
-
-

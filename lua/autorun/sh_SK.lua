@@ -1,6 +1,5 @@
 /*
-	=== SkidCheck - 2.0 ===
-	--By HeX
+	=== SkidCheck - 3.2 ===
 */
 
 Skid = {
@@ -13,13 +12,3 @@ Skid = {
 	GREEN	= Color(66,255,96),
 	PINK	= Color(255,0,153),
 }
-
-
-
-
-
-
-
-
-
-

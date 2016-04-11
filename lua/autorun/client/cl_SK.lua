@@ -1,6 +1,5 @@
 /*
-	=== SkidCheck - 2.0 ===
-	--By HeX
+	=== SkidCheck - 3.2 ===
 */
 
 
@@ -8,7 +7,7 @@
 function Skid.Msg()
 	local self 	 = net.ReadEntity()
 	local Reason = net.ReadString()
-	
+
 	//Message
 	chat.AddText(
 		Skid.GREY, "[",
@@ -25,10 +24,10 @@ function Skid.Msg()
 		Skid.GREY, "is a ",
 		Skid.PINK, "KNOWN CHEATER"
 	)
-	
+
 	//Sound
 	surface.PlaySound("ambient/machines/thumper_shutdown1.wav")
-	
+
 	//Log
 	if self == LocalPlayer() then return end
 	local Log = Format(
@@ -38,22 +37,3 @@ function Skid.Msg()
 	file.Append("cl_sk_encounters.txt", Log)
 end
 net.Receive("Skid.Msg", Skid.Msg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
