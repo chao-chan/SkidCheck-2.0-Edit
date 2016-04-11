@@ -1,16 +1,9 @@
-*NOTICE: I DO NOT OWN THIS!!! ALL CREDIT SHOULD GO TO HEX!*
-Link to Original: https://github.com/MFSiNC/SkidCheck-2.0
 ![](http://i.imgur.com/qJSb8nT.png)
 
 ```
-=== SkidCheck - 2.0 ===
---By HeX
-
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
-+ SkidCheck is the database of players who *I* don't want joining the UHDM server. +
-+ If you don't trust the list, don't install it. It was made by me to keep out     +
-+ people who ruin the game.  Not to cause drama.                                   +
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+=== SkidCheck - 3.2 ===
+--By Chaoticly
+(Original made by HeX)
 
 How to use:
 Nothing is needed to configure or set up (Unless you want to).
@@ -58,10 +51,3 @@ handled yourself in this hook!
 
 hook.Add("OnSkid", "SK", function(ply, Reason) return true end)
 ```
-
-
-
-
-
-
-
